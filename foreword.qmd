@@ -1,0 +1,39 @@
+```markdown
+# Foreword
+
+*By Jigar Shah, Co-founder SunEdison, Former Director, Loan Programs Office, U.S. Department of Energy, Co-founder Multiplier*
+
+There are moments in history when an industry reaches a turning point, not because technology failed or the markets dried up, but because the gap between ambition and execution became too costly to ignore. I believe the renewable energy industry is living through one of those moments right now. And I believe this book arrives at exactly the right time to help us close that gap.
+
+When I founded SunEdison more than two decades ago, we were trying to solve what seemed like a financing problem. How do you get solar onto rooftops at scale when the upfront cost is prohibitive? The solar-as-a-service model unlocked a market that has since grown beyond anything we dared imagine at the time. But what I learned from that experience, and from every chapter of my career, is that the hardest part of the energy transition is never the idea. It is the relentless, disciplined work of turning that idea into a project that gets built, financed, and connected to the grid. That work happens in the land offices, the title reviews, the due diligence rooms, and the negotiating sessions with county commissions and tribal authorities.
+
+This is Kimberlee Centera's world. And this book is her gift to everyone who wants to succeed in it.
+
+Over more than thirty years, Kimberlee has done the work that makes the energy transition real. Not the announcements. Not the ribbon cuttings. The work. She has guided Fortune 500 companies and independent developers through hundreds of transactions, across gigawatts of solar, wind, storage, and transmission projects, with more than \$25 billion in financed value. She has seen what derails deals and what saves them. She has sat across the table from landowners who believe they control property their children already inherited. She has watched projects collapse at closing because a single signature was missing. She has navigated the mineral rights dispute nobody saw coming, the municipal road reservation buried in a decades-old title record, and the tribal artifacts mistaken for rock piles on a Wyoming site. She has done this work in good policy environments and difficult ones, and she has emerged with something rare: a clear-eyed, battle-tested understanding of what it actually takes to move a project from development to deployment.
+
+What she has written here is not a theoretical framework. It is a field guide. It is the kind of book that could only be written by someone who has lived through the consequences of getting this work wrong, and who has built the expertise to get it right.
+
+I want to place this book in the context of the larger challenge we face, because I think it deserves that framing.
+
+The clean energy transition is the greatest economic transformation of our lifetimes. The opportunity is staggering in terms of investment, jobs, infrastructure, and the long-term competitiveness of the American economy. We have the technology. We have the expertise. We have, despite the policy turbulence of recent years, an enduring market logic that makes renewable energy the rational choice across an ever-expanding set of applications. For years, clean energy has been 90% of everything added to the grid, and load growth requires us to be faster.
+
+During my time leading the Loan Programs Office within the U.S. Department of Energy I watched intelligent, well-funded teams stumble over the same categories of problems that Kimberlee addresses in these pages. Land control that hadn't been properly verified. Ownership structures that hadn't been fully mapped. Environmental issues that emerged too late. Mineral rights that surfaced at closing. Due diligence that had been compressed to fit a timeline rather than expanded to fit the risk. In every case, the technology worked. The economics were sound. The vision was real. What was missing was the operational discipline to bridge the gap between what a project could become and what it actually was.
+
+I am particularly moved by Kimberlee's attention to the human dimensions of this work, the landowners, the tribal communities, the local officials, the neighbors who live within sight of a project they may or may not have been consulted about. The energy transition is not an abstraction. It unfolds on real land, in real communities, with real stakeholders whose interests, concerns, and rights must be understood and respected. Projects that ignore this reality do not just encounter delays, they forfeit the moral authority that should accompany the work of building a cleaner world. Kimberlee understands this. Her approach to community engagement, landowner communication, and stakeholder collaboration reflects a vision of energy development that is not merely transactional but genuinely relational.
+
+To the investors and capital allocators who will read this book: I want to speak to you directly. The clean energy investment landscape has matured enormously over the past decade, and the sophistication of the capital flowing into this sector is genuinely impressive. But capital sophistication does not automatically translate into project discipline. I have seen too many transactions where the financial engineering was impeccable, and the term sheet was structured with precision while the land agreements beneath it were shot through with risk. The message of this book is that the quality of the underlying asset determines the quality of every instrument built on top of it. Title insurance, tax equity, project finance, debt structures all rest on the foundation that Kimberlee describes. Build a strong foundation. Demand it from the developers and the teams you back. It is not overhead. It is the work.
+
+To the developers: you are the heroes of this story, and I mean that without irony. The people who go out and identify a site, negotiate a lease, navigate a permitting process, build community support, and bring a project to financial close are performing one of the most complex and consequential acts in the modern economy. This book will make you better at it. Not because it tells you something you could not eventually learn from experience, but because it compresses decades of hard-won knowledge into a form you can actually use before you make the expensive mistakes. Read it before you acquire a project whose previous developer's work you do not fully understand.
+
+To the project teams, the title professionals, the environmental consultants, the legal counsel, the engineers, and every other specialist who makes up the ecosystem around a renewable energy transaction: Kimberlee has written a book that honors your work. The disciplines she describes are not support functions. They are the core of what makes this industry function. The more clearly the whole ecosystem understands that, the better the outcomes for everyone.
+
+We are in a race. The world needs us to move faster and to do that we need to get things right the first time. In that race, execution is everything. Bankable projects are everything. The knowledge in this book is important.
+
+Kimberlee Centera has spent thirty years acquiring that knowledge so that the rest of us can benefit from it. She has written it down with clarity, precision, and the unmistakable authority of someone who has earned every lesson the hard way.
+
+The energy transition needs more of this. More rigor. More discipline. More willingness to do the unglamorous work that separates a project that closes from a project that doesn't. More people who understand that vision without execution is just a press release.
+
+This book is a call to that standard. I am proud to help introduce it to the world.
+```
+
+---

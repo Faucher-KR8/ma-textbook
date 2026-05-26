@@ -1,0 +1,62 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "An Insider's Guide to Mastering Mergers, Acquisitions & Power Plant Development"
+  subtitle: "Best Practices for Risk Analysis and Risk Mitigation to Ensure Transaction Closing"
+  author: "Kimberlee Centera"
+  affiliation: "TerraPro Solutions"
+  date: today
+  
+  chapters:
+    - index.qmd
+    
+    - part: "Front Matter"
+      chapters:
+        - foreword.qmd
+        - about-author.qmd
+        - introduction.qmd
+    
+    - part: "Core Content"
+      chapters:
+        - chapters/01-fundamentals.qmd
+        - chapters/02-land-control.qmd
+        - chapters/03-ownership.qmd
+        - chapters/04-mineral-rights.qmd
+        - chapters/05-due-diligence.qmd
+        - chapters/06-environmental.qmd
+        - chapters/07-complex-ownership.qmd
+        - chapters/08-collaboration.qmd
+        - chapters/09-valuation.qmd
+        - chapters/10-inherited-projects.qmd
+    
+    - part: "Advanced Topics"
+      chapters:
+        - chapters/11-project-finance.qmd
+        - chapters/12-ai-risk-modeling.qmd
+    
+    - part: "Appendices"
+      chapters:
+        - appendix/resources.qmd
+
+format:
+  html:
+    theme: [cosmo, _custom.scss]
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-fold: false
+    highlight-style: github
+    
+  pdf:
+    documentclass: book
+    margin-left: 1.5in
+    margin-right: 1.5in
+    margin-top: 1.5in
+    margin-bottom: 1.5in
+    number-sections: true
+    papersize: letter
+
+execute:
+  freeze: auto

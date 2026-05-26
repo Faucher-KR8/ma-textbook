@@ -1,0 +1,44 @@
+```markdown
+---
+title: "An Insider's Guide to Mastering Mergers, Acquisitions & Power Plant Development"
+subtitle: "Best Practices for Risk Analysis and Risk Mitigation to Ensure Transaction Closing"
+author: "Kimberlee Centera"
+affiliation: "TerraPro Solutions"
+date: today
+---
+
+## Welcome
+
+This is a comprehensive, open-access college textbook designed for students across multiple disciplines: energy engineering, business and finance, environmental policy, and law.
+
+Over more than thirty years, Kimberlee Centera has guided Fortune 500 companies and independent developers through hundreds of transactions, across gigawatts of solar, wind, storage, and transmission projects, with more than $25 billion in financed value. This book compresses that hard-won expertise into practical guidance for anyone involved in renewable energy project development, mergers and acquisitions, or infrastructure transactions.
+
+## How to Use This Book
+
+**Sequential Reading**: Start with the Introduction and work through chapters 1-11 for the complete story of how M&A transactions succeed or fail in renewable energy.
+
+**Topic-Based Reading**: Jump to specific chapters that address your immediate needs—whether land control, mineral rights, due diligence, or valuation.
+
+**Professional Reference**: Return to specific chapters as a desk reference when facing real-world transaction challenges.
+
+## What You'll Learn
+
+Each chapter includes:
+
+- **Real case studies** from the field, showing what actually happens when deals succeed and fail
+- **Practical frameworks** and checklists you can use immediately
+- **Expert perspectives** from title professionals, surveyors, environmental consultants, and financial specialists
+- **State-specific guidance** on mineral rights, land regulations, and transaction requirements
+- **Discussion questions** for classroom use and group learning
+- **Key takeaways** summarizing the most important concepts
+
+## The Core Message
+
+About 40% of M&A deals in renewable energy fail, often due to overlooked details discovered only at closing. Most failures aren't about the technology or the economics—they're about discipline. This book teaches the operational rigor that separates projects that close from projects that don't.
+
+---
+
+*Foreword by Jigar Shah, Co-founder SunEdison, Former Director, Loan Programs Office, U.S. Department of Energy*
+```
+
+---
