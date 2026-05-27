@@ -1,4 +1,3 @@
-```markdown
 # Foreword
 
 *By Jigar Shah, Co-founder SunEdison, Former Director, Loan Programs Office, U.S. Department of Energy, Co-founder Multiplier*
@@ -34,6 +33,5 @@ Kimberlee Centera has spent thirty years acquiring that knowledge so that the re
 The energy transition needs more of this. More rigor. More discipline. More willingness to do the unglamorous work that separates a project that closes from a project that doesn't. More people who understand that vision without execution is just a press release.
 
 This book is a call to that standard. I am proud to help introduce it to the world.
-```
 
 ---

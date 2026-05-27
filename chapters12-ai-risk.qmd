@@ -1,0 +1,178 @@
+# Chapter 12: AI — The New Frontier in Risk Modeling & Scenario Analysis
+
+::: {.callout-note}
+**Editor's Note:** This chapter is currently being developed. Final content, case studies, and thought leader contributions will be provided by the author team. The framework and section headings below outline the intended chapter structure.
+:::
+
+---
+
+## Overview
+
+Artificial intelligence and machine learning are beginning to reshape how renewable energy developers, investors, and lenders assess, model, and mitigate transaction risk. From automated title document review to predictive permitting risk scoring and real-time portfolio monitoring, AI tools are creating new capabilities that compress timelines, surface hidden risks, and improve decision-making across the M&A lifecycle.
+
+This chapter explores the frontier of AI-enabled risk modeling in renewable energy M&A — where the tools are today, where they are headed, and what practitioners need to understand to use them effectively without over-relying on them.
+
+---
+
+## Planned Section Outline
+
+### 1. AI Applications in Renewable Energy Due Diligence
+
+*Content to be developed. Key topics will include:*
+
+- Natural language processing (NLP) for automated review of leases, title commitments, and permits
+- Machine learning models for identifying mineral rights risk patterns across large land portfolios
+- AI-assisted environmental screening using satellite imagery and GIS data
+- Document classification and gap identification in data rooms
+
+### 2. Predictive Risk Scoring
+
+*Content to be developed. Key topics will include:*
+
+- Permitting risk scoring based on historical project data, county-level opposition patterns, and regulatory timelines
+- Counterparty credit risk modeling for PPA offtakers and O&M contractors
+- Interconnection queue risk prediction based on utility queue data and historical withdrawal patterns
+- Community opposition risk indicators derived from social media, public meeting records, and demographics
+
+### 3. Scenario Analysis and Portfolio Optimization
+
+*Content to be developed. Key topics will include:*
+
+- Monte Carlo simulation for P50/P90 production variability
+- Policy scenario modeling (ITC/PTC phase-down, beginning-of-construction rule changes)
+- Portfolio-level COD risk aggregation and mitigation prioritization
+- AI-assisted valuation sensitivity analysis
+
+### 4. Real-Time Portfolio Monitoring
+
+*Content to be developed. Key topics will include:*
+
+- SCADA data integration with AI anomaly detection for operating project portfolios
+- Predictive maintenance modeling to reduce O&M costs and improve availability
+- Automated lender covenant compliance monitoring
+- Curtailment pattern analysis and grid behavior forecasting
+
+### 5. Limitations and Risks of AI in M&A
+
+*Content to be developed. Key topics will include:*
+
+- Garbage in, garbage out: AI models are only as good as their training data
+- Bias in historical datasets and its effect on risk predictions
+- Regulatory and liability considerations for AI-assisted due diligence
+- The irreplaceable role of human judgment in complex, high-stakes transactions
+- Cybersecurity risks in AI-integrated project management systems
+
+### 6. Case Studies and Thought Leader Perspectives
+
+*Content to be developed. Contributions TBD.*
+
+*[Placeholder for case studies and expert commentary to be provided by the author team.]*
+
+---
+
+## Key Questions This Chapter Will Answer
+
+1. What AI tools are currently being used in renewable energy M&A due diligence, and what are their limitations?
+2. How can predictive risk scoring improve pipeline prioritization and resource allocation in fast-moving deal environments?
+3. What is the appropriate role of AI in scenario analysis versus the irreplaceable judgment of experienced practitioners?
+4. How should developers, lenders, and investors evaluate AI-generated risk outputs in the context of high-stakes renewable energy transactions?
+5. What cybersecurity and data governance practices should govern AI tool adoption in M&A workflows?
+
+---
+
+## Placeholder Diagram: AI in the M&A Lifecycle
+
+```{=html}
+<svg width="100%" viewBox="0 0 820 400" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="410" y="28" font-size="17" font-weight="500" text-anchor="middle" fill="#2c3e50">AI Applications Across the M&amp;A Lifecycle</text>
+
+  <!-- Phase labels -->
+  <rect x="30" y="55" width="140" height="50" rx="6" fill="#2980b9" opacity="0.85"/>
+  <text x="100" y="76" font-size="11" font-weight="600" text-anchor="middle" fill="white">Origination</text>
+  <text x="100" y="92" font-size="10" text-anchor="middle" fill="white">&amp; Screening</text>
+
+  <rect x="190" y="55" width="140" height="50" rx="6" fill="#8e44ad" opacity="0.85"/>
+  <text x="260" y="76" font-size="11" font-weight="600" text-anchor="middle" fill="white">Due</text>
+  <text x="260" y="92" font-size="10" text-anchor="middle" fill="white">Diligence</text>
+
+  <rect x="350" y="55" width="140" height="50" rx="6" fill="#27ae60" opacity="0.85"/>
+  <text x="420" y="76" font-size="11" font-weight="600" text-anchor="middle" fill="white">Valuation &amp;</text>
+  <text x="420" y="92" font-size="10" text-anchor="middle" fill="white">Structuring</text>
+
+  <rect x="510" y="55" width="140" height="50" rx="6" fill="#e67e22" opacity="0.85"/>
+  <text x="580" y="76" font-size="11" font-weight="600" text-anchor="middle" fill="white">Closing &amp;</text>
+  <text x="580" y="92" font-size="10" text-anchor="middle" fill="white">Integration</text>
+
+  <rect x="670" y="55" width="120" height="50" rx="6" fill="#c0392b" opacity="0.85"/>
+  <text x="730" y="76" font-size="11" font-weight="600" text-anchor="middle" fill="white">Portfolio</text>
+  <text x="730" y="92" font-size="10" text-anchor="middle" fill="white">Operations</text>
+
+  <!-- AI use cases per phase -->
+  <rect x="30" y="125" width="140" height="220" rx="6" fill="#2980b9" opacity="0.07" stroke="#2980b9" stroke-width="1"/>
+  <text x="100" y="148" font-size="10" text-anchor="middle" fill="#2980b9" font-weight="600">AI Applications</text>
+  <text x="100" y="168" font-size="9" text-anchor="middle" fill="#333">Risk scoring</text>
+  <text x="100" y="185" font-size="9" text-anchor="middle" fill="#333">Site screening</text>
+  <text x="100" y="202" font-size="9" text-anchor="middle" fill="#333">Pipeline</text>
+  <text x="100" y="216" font-size="9" text-anchor="middle" fill="#333">prioritization</text>
+  <text x="100" y="233" font-size="9" text-anchor="middle" fill="#333">Opposition</text>
+  <text x="100" y="247" font-size="9" text-anchor="middle" fill="#333">signal detection</text>
+
+  <rect x="190" y="125" width="140" height="220" rx="6" fill="#8e44ad" opacity="0.07" stroke="#8e44ad" stroke-width="1"/>
+  <text x="260" y="148" font-size="10" text-anchor="middle" fill="#8e44ad" font-weight="600">AI Applications</text>
+  <text x="260" y="168" font-size="9" text-anchor="middle" fill="#333">NLP lease review</text>
+  <text x="260" y="185" font-size="9" text-anchor="middle" fill="#333">Title gap flagging</text>
+  <text x="260" y="202" font-size="9" text-anchor="middle" fill="#333">Mineral risk ID</text>
+  <text x="260" y="219" font-size="9" text-anchor="middle" fill="#333">Permit timeline</text>
+  <text x="260" y="233" font-size="9" text-anchor="middle" fill="#333">prediction</text>
+  <text x="260" y="250" font-size="9" text-anchor="middle" fill="#333">Satellite ESA</text>
+
+  <rect x="350" y="125" width="140" height="220" rx="6" fill="#27ae60" opacity="0.07" stroke="#27ae60" stroke-width="1"/>
+  <text x="420" y="148" font-size="10" text-anchor="middle" fill="#27ae60" font-weight="600">AI Applications</text>
+  <text x="420" y="168" font-size="9" text-anchor="middle" fill="#333">Monte Carlo</text>
+  <text x="420" y="182" font-size="9" text-anchor="middle" fill="#333">simulation</text>
+  <text x="420" y="199" font-size="9" text-anchor="middle" fill="#333">Policy scenario</text>
+  <text x="420" y="213" font-size="9" text-anchor="middle" fill="#333">modeling</text>
+  <text x="420" y="230" font-size="9" text-anchor="middle" fill="#333">Sensitivity</text>
+  <text x="420" y="244" font-size="9" text-anchor="middle" fill="#333">analysis</text>
+  <text x="420" y="261" font-size="9" text-anchor="middle" fill="#333">COD risk scoring</text>
+
+  <rect x="510" y="125" width="140" height="220" rx="6" fill="#e67e22" opacity="0.07" stroke="#e67e22" stroke-width="1"/>
+  <text x="580" y="148" font-size="10" text-anchor="middle" fill="#e67e22" font-weight="600">AI Applications</text>
+  <text x="580" y="168" font-size="9" text-anchor="middle" fill="#333">Checklist</text>
+  <text x="580" y="182" font-size="9" text-anchor="middle" fill="#333">automation</text>
+  <text x="580" y="199" font-size="9" text-anchor="middle" fill="#333">Contract</text>
+  <text x="580" y="213" font-size="9" text-anchor="middle" fill="#333">comparison</text>
+  <text x="580" y="230" font-size="9" text-anchor="middle" fill="#333">Consent tracking</text>
+  <text x="580" y="247" font-size="9" text-anchor="middle" fill="#333">Data room</text>
+  <text x="580" y="261" font-size="9" text-anchor="middle" fill="#333">QA/QC</text>
+
+  <rect x="670" y="125" width="120" height="220" rx="6" fill="#c0392b" opacity="0.07" stroke="#c0392b" stroke-width="1"/>
+  <text x="730" y="148" font-size="10" text-anchor="middle" fill="#c0392b" font-weight="600">AI Applications</text>
+  <text x="730" y="168" font-size="9" text-anchor="middle" fill="#333">SCADA anomaly</text>
+  <text x="730" y="182" font-size="9" text-anchor="middle" fill="#333">detection</text>
+  <text x="730" y="199" font-size="9" text-anchor="middle" fill="#333">Predictive</text>
+  <text x="730" y="213" font-size="9" text-anchor="middle" fill="#333">maintenance</text>
+  <text x="730" y="230" font-size="9" text-anchor="middle" fill="#333">Covenant</text>
+  <text x="730" y="244" font-size="9" text-anchor="middle" fill="#333">monitoring</text>
+  <text x="730" y="261" font-size="9" text-anchor="middle" fill="#333">Curtailment AI</text>
+
+  <!-- Bottom note -->
+  <rect x="30" y="358" width="760" height="30" rx="6" fill="#ecf0f1"/>
+  <text x="410" y="377" font-size="10" text-anchor="middle" fill="#555">Note: AI augments — but does not replace — experienced practitioner judgment in high-stakes renewable energy transactions.</text>
+</svg>
+```
+
+---
+
+## Coming in the Final Chapter
+
+The completed version of this chapter will include:
+
+- **Real-world case studies** demonstrating AI-assisted risk identification in renewable energy M&A transactions
+- **Practitioner perspectives** from technology leaders, developers, and investors actively deploying AI tools
+- **A framework for evaluating AI vendor claims** and integrating AI outputs into traditional due diligence workflows
+- **Risk governance guidance** for firms adopting AI in high-stakes transaction environments
+
+*[Content to be finalized by the author team. Thought leader contributions and case studies to be provided separately.]*
+
+---

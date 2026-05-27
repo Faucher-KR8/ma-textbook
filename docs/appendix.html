@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Chapter 2: Verifying Land Control – The Foundation of Acquisition – An Insider's Guide to Mastering Mergers, Acquisitions &amp; Power Plant Development</title>
+<title>Appendix: Master Due Diligence Checklist and Reference Materials – An Insider's Guide to Mastering Mergers, Acquisitions &amp; Power Plant Development</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,8 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./chapters03-ownership.html" rel="next">
-<link href="./chapters01-fundamentals.html" rel="prev">
+<link href="./chapters12-ai-risk.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -73,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -85,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./chapters02-land-control.html"><span class="chapter-title">Chapter 2: Verifying Land Control – The Foundation of Acquisition</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./appendix.html"><span class="chapter-title">Appendix: Master Due Diligence Checklist and Reference Materials</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -137,7 +165,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters02-land-control.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Chapter 2: Verifying Land Control – The Foundation of Acquisition</span></a>
+  <a href="./chapters02-land-control.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Chapter 2: Verifying Land Control – The Foundation of Acquisition</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -192,7 +220,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./appendix.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Appendix: Master Due Diligence Checklist and Reference Materials</span></a>
+  <a href="./appendix.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Appendix: Master Due Diligence Checklist and Reference Materials</span></a>
   </div>
 </li>
     </ul>
@@ -205,23 +233,25 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#why-land-control-matters" id="toc-why-land-control-matters" class="nav-link active" data-scroll-target="#why-land-control-matters">Why Land Control Matters</a></li>
-  <li><a href="#components-of-land-control" id="toc-components-of-land-control" class="nav-link" data-scroll-target="#components-of-land-control">Components of Land Control</a>
+  <li><a href="#how-to-use-this-appendix" id="toc-how-to-use-this-appendix" class="nav-link active" data-scroll-target="#how-to-use-this-appendix">How to Use This Appendix</a></li>
+  <li><a href="#master-due-diligence-checklist" id="toc-master-due-diligence-checklist" class="nav-link" data-scroll-target="#master-due-diligence-checklist">Master Due Diligence Checklist</a>
   <ul class="collapse">
-  <li><a href="#lease-or-easement-agreements" id="toc-lease-or-easement-agreements" class="nav-link" data-scroll-target="#lease-or-easement-agreements">1. Lease or Easement Agreements</a></li>
-  <li><a href="#lessor-identity-authority" id="toc-lessor-identity-authority" class="nav-link" data-scroll-target="#lessor-identity-authority">2. Lessor Identity &amp; Authority</a></li>
-  <li><a href="#land-area-boundaries" id="toc-land-area-boundaries" class="nav-link" data-scroll-target="#land-area-boundaries">3. Land Area &amp; Boundaries</a></li>
-  <li><a href="#third-party-consents" id="toc-third-party-consents" class="nav-link" data-scroll-target="#third-party-consents">4. Third-Party Consents</a></li>
+  <li><a href="#category-1-land-and-title" id="toc-category-1-land-and-title" class="nav-link" data-scroll-target="#category-1-land-and-title">Category 1: Land and Title</a></li>
+  <li><a href="#category-2-permits-and-regulatory" id="toc-category-2-permits-and-regulatory" class="nav-link" data-scroll-target="#category-2-permits-and-regulatory">Category 2: Permits and Regulatory</a></li>
+  <li><a href="#category-3-environmental" id="toc-category-3-environmental" class="nav-link" data-scroll-target="#category-3-environmental">Category 3: Environmental</a></li>
+  <li><a href="#category-4-contracts-and-commercial" id="toc-category-4-contracts-and-commercial" class="nav-link" data-scroll-target="#category-4-contracts-and-commercial">Category 4: Contracts and Commercial</a></li>
+  <li><a href="#category-5-financial-and-tax" id="toc-category-5-financial-and-tax" class="nav-link" data-scroll-target="#category-5-financial-and-tax">Category 5: Financial and Tax</a></li>
+  <li><a href="#category-6-technical-and-operations" id="toc-category-6-technical-and-operations" class="nav-link" data-scroll-target="#category-6-technical-and-operations">Category 6: Technical and Operations</a></li>
+  <li><a href="#category-7-corporate-and-ownership" id="toc-category-7-corporate-and-ownership" class="nav-link" data-scroll-target="#category-7-corporate-and-ownership">Category 7: Corporate and Ownership</a></li>
   </ul></li>
-  <li><a href="#land-verification-process" id="toc-land-verification-process" class="nav-link" data-scroll-target="#land-verification-process">Land Verification Process</a>
+  <li><a href="#quick-reference-key-metrics-and-thresholds" id="toc-quick-reference-key-metrics-and-thresholds" class="nav-link" data-scroll-target="#quick-reference-key-metrics-and-thresholds">Quick Reference: Key Metrics and Thresholds</a>
   <ul class="collapse">
-  <li><a href="#detailed-verification-checklist" id="toc-detailed-verification-checklist" class="nav-link" data-scroll-target="#detailed-verification-checklist">Detailed Verification Checklist</a></li>
+  <li><a href="#financial-metrics" id="toc-financial-metrics" class="nav-link" data-scroll-target="#financial-metrics">Financial Metrics</a></li>
+  <li><a href="#environmental-thresholds" id="toc-environmental-thresholds" class="nav-link" data-scroll-target="#environmental-thresholds">Environmental Thresholds</a></li>
+  <li><a href="#permitting-timeline-reference" id="toc-permitting-timeline-reference" class="nav-link" data-scroll-target="#permitting-timeline-reference">Permitting Timeline Reference</a></li>
   </ul></li>
-  <li><a href="#case-study-the-lessor-consent-surprise" id="toc-case-study-the-lessor-consent-surprise" class="nav-link" data-scroll-target="#case-study-the-lessor-consent-surprise">Case Study: The Lessor Consent Surprise</a></li>
-  <li><a href="#land-control-risks-in-ma-contexts" id="toc-land-control-risks-in-ma-contexts" class="nav-link" data-scroll-target="#land-control-risks-in-ma-contexts">Land Control Risks in M&amp;A Contexts</a></li>
-  <li><a href="#best-practices-for-land-control-verification" id="toc-best-practices-for-land-control-verification" class="nav-link" data-scroll-target="#best-practices-for-land-control-verification">Best Practices for Land Control Verification</a></li>
-  <li><a href="#key-takeaways" id="toc-key-takeaways" class="nav-link" data-scroll-target="#key-takeaways">Key Takeaways</a></li>
-  <li><a href="#discussion-questions" id="toc-discussion-questions" class="nav-link" data-scroll-target="#discussion-questions">Discussion Questions</a></li>
+  <li><a href="#glossary-of-key-terms" id="toc-glossary-of-key-terms" class="nav-link" data-scroll-target="#glossary-of-key-terms">Glossary of Key Terms</a></li>
+  <li><a href="#about-terrapro-solutions" id="toc-about-terrapro-solutions" class="nav-link" data-scroll-target="#about-terrapro-solutions">About TerraPro Solutions</a></li>
   </ul>
 </nav>
     </div>
@@ -230,7 +260,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Chapter 2: Verifying Land Control – The Foundation of Acquisition</span></h1>
+<h1 class="title"><span class="chapter-title">Appendix: Master Due Diligence Checklist and Reference Materials</span></h1>
 </div>
 
 
@@ -247,243 +277,301 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="why-land-control-matters" class="level2">
-<h2 class="anchored" data-anchor-id="why-land-control-matters">Why Land Control Matters</h2>
-<p>Land is the irreplaceable foundation of every renewable energy project. A solar array without land is imagination. Wind turbines without properly controlled land are financial fiction.</p>
-<p>Verifying that a developer—or the target of an acquisition—actually <em>controls</em> the land on which a project sits is the first and most critical step in M&amp;A due diligence. Yet it is also the step most often compressed, delayed, or assigned to junior staff without sufficient supervision.</p>
-<p>The consequences of inadequate land verification are severe:</p>
-<ul>
-<li><strong>Deals collapse</strong> at closing because a lessor refuses to consent to assignment.</li>
-<li><strong>Projects fail</strong> after acquisition because the previous developer’s leases were non-assignable or contained undisclosed termination clauses.</li>
-<li><strong>Financing is withdrawn</strong> because lenders cannot secure title insurance or lender’s interest in land rights.</li>
-<li><strong>Valuation craters</strong> when mineral rights, overriding royalties, or tribal land claims surface during title review.</li>
-<li><strong>Development stops</strong> when a lessor demands renegotiation, threatening the project timeline and economics.</li>
-</ul>
-<p>This chapter provides a framework for verifying land control—the disciplines and processes that separate projects you can safely acquire from projects that will strand you.</p>
-</section>
-<section id="components-of-land-control" class="level2">
-<h2 class="anchored" data-anchor-id="components-of-land-control">Components of Land Control</h2>
-<p>Land control comprises several elements:</p>
-<section id="lease-or-easement-agreements" class="level3">
-<h3 class="anchored" data-anchor-id="lease-or-easement-agreements">1. Lease or Easement Agreements</h3>
-<p>Most utility-scale renewable projects sit on leased land. The lease grants the developer (lessee) the right to use the land for a specified term, in exchange for rent.</p>
-<p>Key lease terms include:</p>
-<p><strong>Term:</strong> How long the lease lasts (typically 20-40 years for renewable projects).</p>
-<p><strong>Rent:</strong> Annual or periodic payments, often escalating at a fixed percentage per year.</p>
-<p><strong>Permitted Uses:</strong> The lease specifies what the lessee can do (e.g., “construction, operation, and maintenance of a solar photovoltaic array”).</p>
-<p><strong>Renewal Options:</strong> Many leases include renewal provisions, allowing the lessee to extend the term beyond the initial period.</p>
-<p><strong>Assignment Restrictions:</strong> Leases may restrict the lessee’s ability to assign (transfer) the lease to a third party without lessor consent.</p>
-<p><strong>Default Provisions:</strong> Conditions under which the lessor can terminate the lease (e.g., non-payment of rent, abandonment of the project).</p>
-<p><strong>Environmental &amp; Regulatory Compliance:</strong> Leases typically require the lessee to comply with laws and obtain permits.</p>
-<p><strong>Restoration Obligations:</strong> Upon project termination, the lessee must restore the land to agricultural or natural condition.</p>
-</section>
-<section id="lessor-identity-authority" class="level3">
-<h3 class="anchored" data-anchor-id="lessor-identity-authority">2. Lessor Identity &amp; Authority</h3>
-<p>Before acquiring a project, confirm:</p>
-<ul>
-<li><strong>Who owns the land?</strong> Title search and deed review.</li>
-<li><strong>Does the current lessee have authority to lease?</strong> Confirm through power of attorney or corporate resolutions.</li>
-<li><strong>If the lessor is a couple, partnership, or corporation, are all owners party to the lease?</strong> A lease signed by only one spouse may not bind the other; a partnership lease requires all partners.</li>
-<li><strong>Are there other liens or claims against the land?</strong> Mortgage, judgment liens, tax liens?</li>
-</ul>
-<p>Many deals have failed because a lessee represented that they held a valid lease from “John Smith” when the actual owner was “John Smith Sr.” or a corporation named “Smith Family Trust LLC.”</p>
-</section>
-<section id="land-area-boundaries" class="level3">
-<h3 class="anchored" data-anchor-id="land-area-boundaries">3. Land Area &amp; Boundaries</h3>
-<p>A lease or easement must describe the land with sufficient clarity that a surveyor can locate and mark the boundaries.</p>
-<p>Common boundary documentation includes:</p>
-<ul>
-<li><strong>Metes and bounds descriptions</strong> (legal descriptions using distances and angles)</li>
-<li><strong>Acreage and survey maps</strong> (showing the property outline)</li>
-<li><strong>GPS coordinates</strong> (increasingly common for utility-scale projects)</li>
-</ul>
-<p>During your verification, confirm:</p>
-<ul>
-<li>Does the survey map match the metes and bounds description?</li>
-<li>Are there boundary disputes with neighboring properties?</li>
-<li>Do any easements or rights-of-way cross the property? (e.g., electric lines, water pipes, county roads)</li>
-<li>Has the developer staked and surveyed the project area to confirm fit within the leased land?</li>
-</ul>
-</section>
-<section id="third-party-consents" class="level3">
-<h3 class="anchored" data-anchor-id="third-party-consents">4. Third-Party Consents</h3>
-<p>Often, multiple parties have claims to or interests in the land. These may include:</p>
-<p><strong>Mortgage holders:</strong> If the lessor has mortgaged the property, the lender’s consent may be required for lease assignment.</p>
-<p><strong>Other lessees or easement holders:</strong> Perhaps a cell tower, electric line, or agricultural operation has prior rights.</p>
-<p><strong>Tribal or conservation easements:</strong> Some lands are subject to conservation restrictions or tribal co-management.</p>
-<p><strong>Governmental interests:</strong> Grazing permits, mineral leases, or water rights held by third parties may affect land use.</p>
-<p>Before closing, secure <strong>consents or non-disturbance agreements (NDAs)</strong> from all third parties with material claims.</p>
-</section>
-</section>
-<section id="land-verification-process" class="level2">
-<h2 class="anchored" data-anchor-id="land-verification-process">Land Verification Process</h2>
-<p>Here is a practical framework for verifying land control:</p>
-<svg width="100%" viewbox="0 0 720 600" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
-  <defs>
-    <marker id="arrow" viewbox="0 0 10 10" refx="8" refy="5" markerwidth="6" markerheight="6" orient="auto-start-reverse">
-      <path d="M2 1L8 5L2 9" fill="none" stroke="#2c3e50" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-    </marker>
-  </defs>
-  
-  <!-- Title -->
-  <text x="360" y="30" font-size="18" font-weight="500" text-anchor="middle" fill="#2c3e50">Land Verification Flowchart</text>
-  
-  <!-- Step 1: Initial Lease Review -->
-  <rect x="100" y="60" width="520" height="60" rx="8" fill="#17a2b8" opacity="0.15" stroke="#17a2b8" stroke-width="1"></rect>
-  <text x="360" y="85" font-size="13" font-weight="500" text-anchor="middle" fill="#2c3e50">Step 1: Obtain and Review Lease Agreement</text>
-  <text x="360" y="105" font-size="11" text-anchor="middle" fill="#555">Verify term, rent, assignment restrictions, default clauses</text>
-  
-  <!-- Arrow -->
-  <line x1="360" y1="120" x2="360" y2="150" stroke="#999" stroke-width="2" marker-end="url(#arrow)"></line>
-  
-  <!-- Step 2: Title Search -->
-  <rect x="100" y="150" width="520" height="60" rx="8" fill="#27ae60" opacity="0.15" stroke="#27ae60" stroke-width="1"></rect>
-  <text x="360" y="175" font-size="13" font-weight="500" text-anchor="middle" fill="#2c3e50">Step 2: Conduct Title Search</text>
-  <text x="360" y="195" font-size="11" text-anchor="middle" fill="#555">Confirm lessor identity, liens, mortgages, other claims</text>
-  
-  <!-- Arrow -->
-  <line x1="360" y1="210" x2="360" y2="240" stroke="#999" stroke-width="2" marker-end="url(#arrow)"></line>
-  
-  <!-- Step 3: Survey -->
-  <rect x="100" y="240" width="520" height="60" rx="8" fill="#e67e22" opacity="0.15" stroke="#e67e22" stroke-width="1"></rect>
-  <text x="360" y="265" font-size="13" font-weight="500" text-anchor="middle" fill="#2c3e50">Step 3: Conduct/Review Survey</text>
-  <text x="360" y="285" font-size="11" text-anchor="middle" fill="#555">Verify boundaries, acreage, easements, encroachments</text>
-  
-  <!-- Arrow -->
-  <line x1="360" y1="300" x2="360" y2="330" stroke="#999" stroke-width="2" marker-end="url(#arrow)"></line>
-  
-  <!-- Step 4: Lessor Verification -->
-  <rect x="100" y="330" width="520" height="60" rx="8" fill="#8e44ad" opacity="0.15" stroke="#8e44ad" stroke-width="1"></rect>
-  <text x="360" y="355" font-size="13" font-weight="500" text-anchor="middle" fill="#2c3e50">Step 4: Verify Lessor Identity &amp; Authority</text>
-  <text x="360" y="375" font-size="11" text-anchor="middle" fill="#555">Government IDs, corporate docs, spousal consent (if married)</text>
-  
-  <!-- Arrow -->
-  <line x1="360" y1="390" x2="360" y2="420" stroke="#999" stroke-width="2" marker-end="url(#arrow)"></line>
-  
-  <!-- Step 5: Third-Party Consents -->
-  <rect x="100" y="420" width="520" height="60" rx="8" fill="#c0392b" opacity="0.15" stroke="#c0392b" stroke-width="1"></rect>
-  <text x="360" y="445" font-size="13" font-weight="500" text-anchor="middle" fill="#2c3e50">Step 5: Secure Third-Party Consents</text>
-  <text x="360" y="465" font-size="11" text-anchor="middle" fill="#555">Mortgage lender, tribal authorities, conservation easement holders</text>
-  
-  <!-- Arrow -->
-  <line x1="360" y1="480" x2="360" y2="510" stroke="#999" stroke-width="2" marker-end="url(#arrow)"></line>
-  
-  <!-- Step 6: Site Walk -->
-  <rect x="100" y="510" width="520" height="60" rx="8" fill="#16a085" opacity="0.15" stroke="#16a085" stroke-width="1"></rect>
-  <text x="360" y="535" font-size="13" font-weight="500" text-anchor="middle" fill="#2c3e50">Step 6: Conduct Site Walk &amp; Confirm Boundaries</text>
-  <text x="360" y="555" font-size="11" text-anchor="middle" fill="#555">Walk property perimeter with lessor/surveyor to confirm fit</text>
-</svg>
-<section id="detailed-verification-checklist" class="level3">
-<h3 class="anchored" data-anchor-id="detailed-verification-checklist">Detailed Verification Checklist</h3>
-<p><strong>Phase 1: Documentation Review</strong></p>
-<ul class="task-list">
-<li><label><input type="checkbox">Original lease agreement obtained and reviewed</label></li>
-<li><label><input type="checkbox">Any amendments, addenda, or side letters identified and reviewed</label></li>
-<li><label><input type="checkbox">Term start and end dates confirmed</label></li>
-<li><label><input type="checkbox">Annual rent amount and escalation confirmed</label></li>
-<li><label><input type="checkbox">Assignment clause reviewed; consent requirements documented</label></li>
-<li><label><input type="checkbox">Default clauses identified; current lessor in compliance</label></li>
-<li><label><input type="checkbox">Renewal options and notice procedures documented</label></li>
-<li><label><input type="checkbox">Environmental and restoration obligations reviewed</label></li>
-</ul>
-<p><strong>Phase 2: Title Verification</strong></p>
-<ul class="task-list">
-<li><label><input type="checkbox">Title search ordered (search back 20+ years recommended)</label></li>
-<li><label><input type="checkbox">Lessor identified and confirmed as record owner</label></li>
-<li><label><input type="checkbox">All owners/co-owners identified (spousal interests, multiple partners)</label></li>
-<li><label><input type="checkbox">Current liens and mortgages identified</label></li>
-<li><label><input type="checkbox">Tax liens, judgment liens, or UCC filings identified</label></li>
-<li><label><input type="checkbox">Other easements or rights-of-way identified</label></li>
-<li><label><input type="checkbox">Any conservation easements or restrictions identified</label></li>
-</ul>
-<p><strong>Phase 3: Survey</strong></p>
-<ul class="task-list">
-<li><label><input type="checkbox">Current survey obtained (less than 6 months old recommended)</label></li>
-<li><label><input type="checkbox">Metes and bounds description matches survey map</label></li>
-<li><label><input type="checkbox">Total acreage confirmed</label></li>
-<li><label><input type="checkbox">Project layout fits within leased area</label></li>
-<li><label><input type="checkbox">Boundary disputes or encroachments identified</label></li>
-<li><label><input type="checkbox">Easements/rights-of-way marked on survey</label></li>
-<li><label><input type="checkbox">Tribal lands, sacred sites, or protected areas identified</label></li>
-</ul>
-<p><strong>Phase 4: Lessor Authority</strong></p>
-<ul class="task-list">
-<li><label><input type="checkbox">Lessor government-issued ID obtained and verified</label></li>
-<li><label><input type="checkbox">If corporation: corporate resolution authorizing lease transfer</label></li>
-<li><label><input type="checkbox">If partnership: all partners confirm authority</label></li>
-<li><label><input type="checkbox">If married couple: both spouses consent to assignment (or confirm separate property)</label></li>
-<li><label><input type="checkbox">Power of attorney reviewed (if lessor is represented by attorney-in-fact)</label></li>
-</ul>
-<p><strong>Phase 5: Third-Party Consents</strong></p>
-<ul class="task-list">
-<li><label><input type="checkbox">Mortgage lender consent obtained (if mortgage exists)</label></li>
-<li><label><input type="checkbox">Other lessees/easement holders notified and consent obtained</label></li>
-<li><label><input type="checkbox">Tribal consultation completed (if applicable)</label></li>
-<li><label><input type="checkbox">Conservation easement holder consent obtained (if applicable)</label></li>
-<li><label><input type="checkbox">County/municipal approval obtained for assignment (if required)</label></li>
-</ul>
-<p><strong>Phase 6: Site Verification</strong></p>
-<ul class="task-list">
-<li><label><input type="checkbox">Site walk conducted with lessor and surveyor</label></li>
-<li><label><input type="checkbox">Property boundaries physically marked (pins, flags)</label></li>
-<li><label><input type="checkbox">Project layout confirmed to fit within boundaries</label></li>
-<li><label><input type="checkbox">No encroachments from neighboring properties observed</label></li>
-<li><label><input type="checkbox">All third-party claims (utility lines, roads, paths) physically verified</label></li>
-<li><label><input type="checkbox">Access roads and utility interconnection routes verified</label></li>
-</ul>
-</section>
-</section>
-<section id="case-study-the-lessor-consent-surprise" class="level2">
-<h2 class="anchored" data-anchor-id="case-study-the-lessor-consent-surprise">Case Study: The Lessor Consent Surprise</h2>
-<p>A renewable energy company was in the final stages of closing a 100 MW solar acquisition. Due diligence had been completed; financing was in place; the purchase agreement was signed.</p>
-<p>Four days before closing, the buyer’s counsel discovered that the solar lease contained an assignment restriction requiring the lessor’s written consent for transfer of the lease to a new operator. The previous developer had obtained a written consent in 2015 when the project changed hands, but that consent explicitly stated it was <strong>“non-transferable” and “binding only on the original buyer.”</strong></p>
-<p>Because of the non-transferable language, the buyer could not rely on the 2015 consent. It needed a fresh consent from the lessor.</p>
-<p>The lessor, learning of the buyer’s desperation and the imminent closing, demanded an additional $500,000 as a condition of consenting. The buyer’s financing did not accommodate such adjustments; the financing was tight and any price increase would breach debt covenants.</p>
-<p>The deal closed, but at the last minute, with the buyer’s counsel negotiating the lessor down to $250,000 in additional rent, paid as an upfront lump sum. The buyer recovered some of this through renegotiation of other deal terms, but the transaction was materially impaired.</p>
-<p><strong>Lesson:</strong> Assignment restrictions are not mere formalities. A thorough review of existing consents—and verification that they actually permit subsequent transfers—is essential. Many deals have failed because a lessee, when pressed to provide proof of lessor consent to assignment, could not produce valid documentation.</p>
-</section>
-<section id="land-control-risks-in-ma-contexts" class="level2">
-<h2 class="anchored" data-anchor-id="land-control-risks-in-ma-contexts">Land Control Risks in M&amp;A Contexts</h2>
-<p>When acquiring an existing project from another developer, additional land control risks emerge:</p>
-<p><strong>Non-Assignable Leases:</strong> The current developer’s lease may not permit assignment without breaking the lease or triggering a buyout.</p>
-<p><strong>Lessor Disputes:</strong> The lessor may claim the current developer breached the lease (e.g., failure to pay rent, unauthorized construction), giving the lessor grounds to terminate.</p>
-<p><strong>Sublease Conflicts:</strong> Some projects are subleased; if a sublessor goes bankrupt, the head lessee could reclaim the property.</p>
-<p><strong>Regulatory Changes:</strong> Zoning changes, conservation designations, or new regulations may restrict the lessor’s willingness to consent to assignment.</p>
-<p><strong>Lessor Death:</strong> If the lessor is an individual and passes away, the lease may be subject to estate disputes, creditor claims, or loss of authority by the lessee.</p>
-</section>
-<section id="best-practices-for-land-control-verification" class="level2">
-<h2 class="anchored" data-anchor-id="best-practices-for-land-control-verification">Best Practices for Land Control Verification</h2>
-<ol type="1">
-<li><p><strong>Start Early:</strong> Land verification should begin during preliminary due diligence, before signing a purchase agreement. Do not wait until final due diligence.</p></li>
-<li><p><strong>Engage Specialists:</strong> Use title attorneys, surveyors, and real estate brokers experienced in renewable energy. Their expertise in identifying and resolving land issues is invaluable.</p></li>
-<li><p><strong>Document Everything:</strong> Maintain a comprehensive file of all lease agreements, amendments, consents, surveys, and correspondence. When issues arise, this documentation proves your diligence.</p></li>
-<li><p><strong>Obtain Title Insurance:</strong> Title insurance protects the buyer if defects in lessor’s title surface after closing. Many lenders require title insurance as a condition of financing.</p></li>
-<li><p><strong>Verify Assignability Early:</strong> Before signing a purchase agreement, confirm that the lease is assignable and that the lessor will consent to assignment. Do not assume.</p></li>
-<li><p><strong>Secure Consents in Writing:</strong> All third-party consents must be in writing and specific to the transaction at hand. Oral consents are unenforceable.</p></li>
-<li><p><strong>Site Walk:</strong> Always conduct a physical site walk with the lessor and surveyor to confirm boundaries and resolve any discrepancies before closing.</p></li>
-<li><p><strong>Address Issues Immediately:</strong> If due diligence uncovers land control issues (boundary discrepancies, title defects, consent failures), address them immediately. Do not hope they will resolve themselves.</p></li>
-</ol>
-</section>
-<section id="key-takeaways" class="level2">
-<h2 class="anchored" data-anchor-id="key-takeaways">Key Takeaways</h2>
-<ul>
-<li>Land control is the foundation of every renewable energy project. Inadequate verification is a leading cause of M&amp;A deal failure.</li>
-<li>Land control comprises multiple elements: valid lease or easement, clear lessor identity and authority, precise boundaries, and third-party consents.</li>
-<li>A disciplined land verification process—documentation review, title search, survey, lessor verification, third-party consents, and site walk—minimizes risk.</li>
-<li>Many deals fail at closing because lessor consent was not obtained, or because the consent obtained did not permit subsequent transfer.</li>
-<li>Engaging experienced specialists (title attorneys, surveyors, real estate brokers) and starting the verification early are essential best practices.</li>
-</ul>
-</section>
-<section id="discussion-questions" class="level2">
-<h2 class="anchored" data-anchor-id="discussion-questions">Discussion Questions</h2>
-<ol type="1">
-<li>Why is land control considered “the foundation” of a renewable energy project?</li>
-<li>What are the key components of land control? Which is most frequently overlooked in M&amp;A due diligence?</li>
-<li>Describe the six-step land verification process. At which step do most land control issues surface?</li>
-<li>What is a “non-disturbance agreement” and why is it important in M&amp;A transactions?</li>
-<li>In the lessor consent surprise case study, what could the buyer have done differently to avoid the situation?</li>
-</ol>
+<section id="how-to-use-this-appendix" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-use-this-appendix">How to Use This Appendix</h2>
+<p>This appendix provides the working tools referenced throughout the textbook. The Master Due Diligence Checklist consolidates the key diligence items from each chapter into a single, actionable reference. The reference tables provide quick access to key metrics, risk thresholds, and regulatory requirements.</p>
+<p>These materials are intended for use by practitioners in the field, not just for academic study. Students are encouraged to bring these tools into real transactions and adapt them to specific project circumstances.</p>
 <hr>
+</section>
+<section id="master-due-diligence-checklist" class="level2">
+<h2 class="anchored" data-anchor-id="master-due-diligence-checklist">Master Due Diligence Checklist</h2>
+<section id="category-1-land-and-title" class="level3">
+<h3 class="anchored" data-anchor-id="category-1-land-and-title">Category 1: Land and Title</h3>
+<ul class="task-list">
+<li><label><input type="checkbox">Title commitment obtained from licensed title company</label></li>
+<li><label><input type="checkbox">Chain of title reviewed for all parcels (minimum 40-year search)</label></li>
+<li><label><input type="checkbox">Survey obtained and reviewed (ALTA/NSPS preferred)</label></li>
+<li><label><input type="checkbox">All land agreements reviewed: leases, easements, licenses, purchase options</label></li>
+<li><label><input type="checkbox">Lease renewal options confirmed and exercisable</label></li>
+<li><label><input type="checkbox">Lessor authority confirmed (entity verification, signatory authority)</label></li>
+<li><label><input type="checkbox">Subordination, Non-Disturbance, and Attornment (SNDA) agreements in place</label></li>
+<li><label><input type="checkbox">Title insurance commitment obtained; exceptions reviewed</label></li>
+<li><label><input type="checkbox">Mineral rights ownership confirmed; mineral rights severed or not</label></li>
+<li><label><input type="checkbox">Surface use agreement in place (if minerals severed)</label></li>
+<li><label><input type="checkbox">No adverse possession claims or boundary disputes identified</label></li>
+<li><label><input type="checkbox">Road access and ingress/egress rights confirmed</label></li>
+<li><label><input type="checkbox">Transmission line and O&amp;M access easements confirmed</label></li>
+</ul>
+</section>
+<section id="category-2-permits-and-regulatory" class="level3">
+<h3 class="anchored" data-anchor-id="category-2-permits-and-regulatory">Category 2: Permits and Regulatory</h3>
+<ul class="task-list">
+<li><label><input type="checkbox">All required permits identified (federal, state, local)</label></li>
+<li><label><input type="checkbox">Copies of all permits obtained and reviewed</label></li>
+<li><label><input type="checkbox">Permit conditions reviewed and operationally assessed</label></li>
+<li><label><input type="checkbox">No permits in appeal or subject to pending challenge</label></li>
+<li><label><input type="checkbox">Permit transfer requirements identified and timeline established</label></li>
+<li><label><input type="checkbox">State siting certificate or equivalent in hand (if required)</label></li>
+<li><label><input type="checkbox">NEPA review complete (EA or EIS); record of decision issued</label></li>
+<li><label><input type="checkbox">FAA determinations obtained for all structures</label></li>
+<li><label><input type="checkbox">Interconnection agreement executed and current</label></li>
+<li><label><input type="checkbox">Queue position confirmed; milestone deadlines not at risk</label></li>
+<li><label><input type="checkbox">Network upgrade cost allocation confirmed</label></li>
+<li><label><input type="checkbox">Local conditional use/special use permit in hand; no appeal pending</label></li>
+<li><label><input type="checkbox">Community relations assessment completed</label></li>
+</ul>
+</section>
+<section id="category-3-environmental" class="level3">
+<h3 class="anchored" data-anchor-id="category-3-environmental">Category 3: Environmental</h3>
+<ul class="task-list">
+<li><label><input type="checkbox">Phase I ESA completed by qualified environmental professional (ASTM E1527)</label></li>
+<li><label><input type="checkbox">No Recognized Environmental Conditions (RECs) identified (or Phase II completed)</label></li>
+<li><label><input type="checkbox">Phase II ESA results reviewed; contamination confirmed or ruled out</label></li>
+<li><label><input type="checkbox">Wetland delineation completed; jurisdictional determination obtained</label></li>
+<li><label><input type="checkbox">All jurisdictional wetland fill permits in place (Section 404 if applicable)</label></li>
+<li><label><input type="checkbox">Biological surveys completed: avian, bat, listed species, pollinators</label></li>
+<li><label><input type="checkbox">No critical habitat within project area (or consultation completed)</label></li>
+<li><label><input type="checkbox">Section 106 cultural resources consultation completed</label></li>
+<li><label><input type="checkbox">Stormwater Pollution Prevention Plan (SWPPP) prepared</label></li>
+<li><label><input type="checkbox">NPDES permit for construction activity obtained (if applicable)</label></li>
+<li><label><input type="checkbox">No open environmental regulatory violations or NOVs</label></li>
+</ul>
+</section>
+<section id="category-4-contracts-and-commercial" class="level3">
+<h3 class="anchored" data-anchor-id="category-4-contracts-and-commercial">Category 4: Contracts and Commercial</h3>
+<ul class="task-list">
+<li><label><input type="checkbox">Power Purchase Agreement (PPA) reviewed; price, term, and conditions confirmed</label></li>
+<li><label><input type="checkbox">PPA counterparty creditworthiness confirmed</label></li>
+<li><label><input type="checkbox">PPA assignment provisions reviewed; consent required or not</label></li>
+<li><label><input type="checkbox">Interconnection Agreement reviewed; all deposits current</label></li>
+<li><label><input type="checkbox">O&amp;M contract reviewed; assignment provisions confirmed</label></li>
+<li><label><input type="checkbox">O&amp;M availability guarantee confirmed; liquidated damages provisions reviewed</label></li>
+<li><label><input type="checkbox">Equipment warranties reviewed; assignability confirmed</label></li>
+<li><label><input type="checkbox">Equipment supply agreements reviewed (if construction-stage project)</label></li>
+<li><label><input type="checkbox">EPC contract reviewed; performance guarantees and liquidated damages confirmed</label></li>
+<li><label><input type="checkbox">Energy Management Agreement (if applicable) reviewed</label></li>
+<li><label><input type="checkbox">All contracts transferable to buyer; consent obtained or committed</label></li>
+</ul>
+</section>
+<section id="category-5-financial-and-tax" class="level3">
+<h3 class="anchored" data-anchor-id="category-5-financial-and-tax">Category 5: Financial and Tax</h3>
+<ul class="task-list">
+<li><label><input type="checkbox">Independent financial model built from source documents</label></li>
+<li><label><input type="checkbox">P50 and P90 energy yield estimates reviewed; IE validation obtained</label></li>
+<li><label><input type="checkbox">PPA revenue confirmed for full contract term</label></li>
+<li><label><input type="checkbox">O&amp;M cost model confirmed against contract and historical actuals</label></li>
+<li><label><input type="checkbox">Capital structure confirmed: equity, debt, tax equity</label></li>
+<li><label><input type="checkbox">Debt terms reviewed: principal, interest rate, amortization, covenants</label></li>
+<li><label><input type="checkbox">DSCR confirmed above minimum covenant level</label></li>
+<li><label><input type="checkbox">Reserve accounts confirmed funded at required levels</label></li>
+<li><label><input type="checkbox">Tax equity agreement reviewed; flip mechanics understood</label></li>
+<li><label><input type="checkbox">ITC or PTC eligibility confirmed with tax counsel</label></li>
+<li><label><input type="checkbox">Beginning-of-construction documentation confirmed (if ITC/PTC applicable)</label></li>
+<li><label><input type="checkbox">MACRS depreciation schedule confirmed</label></li>
+<li><label><input type="checkbox">State and local tax implications modeled</label></li>
+<li><label><input type="checkbox">All tax returns and K-1s reviewed (last 3 years for operating projects)</label></li>
+</ul>
+</section>
+<section id="category-6-technical-and-operations" class="level3">
+<h3 class="anchored" data-anchor-id="category-6-technical-and-operations">Category 6: Technical and Operations</h3>
+<ul class="task-list">
+<li><label><input type="checkbox">Independent Engineer (IE) report obtained</label></li>
+<li><label><input type="checkbox">IE energy yield review completed (P50/P90 validation)</label></li>
+<li><label><input type="checkbox">Equipment condition assessment completed (for operating projects)</label></li>
+<li><label><input type="checkbox">Turbine/inverter performance history reviewed</label></li>
+<li><label><input type="checkbox">Curtailment history reviewed and modeled</label></li>
+<li><label><input type="checkbox">SCADA system reviewed; access transfer plan in place</label></li>
+<li><label><input type="checkbox">O&amp;M contractor performance history reviewed</label></li>
+<li><label><input type="checkbox">Major maintenance history reviewed; upcoming major maintenance identified</label></li>
+<li><label><input type="checkbox">Spare parts inventory reviewed</label></li>
+<li><label><input type="checkbox">Decommissioning plan and cost estimate reviewed</label></li>
+<li><label><input type="checkbox">Insurance coverage reviewed; coverage limits and exclusions assessed</label></li>
+</ul>
+</section>
+<section id="category-7-corporate-and-ownership" class="level3">
+<h3 class="anchored" data-anchor-id="category-7-corporate-and-ownership">Category 7: Corporate and Ownership</h3>
+<ul class="task-list">
+<li><label><input type="checkbox">Entity formation documents reviewed (articles, operating agreement)</label></li>
+<li><label><input type="checkbox">Ownership structure confirmed; all equity holders identified</label></li>
+<li><label><input type="checkbox">No undisclosed equity interests (options, warrants, profit interests)</label></li>
+<li><label><input type="checkbox">Seller authority to sell confirmed; board/member approvals obtained</label></li>
+<li><label><input type="checkbox">No liens or encumbrances on equity interests</label></li>
+<li><label><input type="checkbox">Foreign ownership restrictions assessed (if applicable)</label></li>
+<li><label><input type="checkbox">Tax equity investor consents to transfer confirmed</label></li>
+<li><label><input type="checkbox">Lender consents to transfer confirmed</label></li>
+<li><label><input type="checkbox">No pending or threatened litigation</label></li>
+<li><label><input type="checkbox">No material regulatory investigations or violations</label></li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="quick-reference-key-metrics-and-thresholds" class="level2">
+<h2 class="anchored" data-anchor-id="quick-reference-key-metrics-and-thresholds">Quick Reference: Key Metrics and Thresholds</h2>
+<section id="financial-metrics" class="level3">
+<h3 class="anchored" data-anchor-id="financial-metrics">Financial Metrics</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Metric</th>
+<th>Typical Range</th>
+<th>Red Flag</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Project IRR (equity)</td>
+<td>8–14%</td>
+<td>Below 7%</td>
+</tr>
+<tr class="even">
+<td>DSCR (minimum)</td>
+<td>1.20x–1.35x</td>
+<td>Below 1.10x</td>
+</tr>
+<tr class="odd">
+<td>P50–P90 spread</td>
+<td>5–10%</td>
+<td>Above 15%</td>
+</tr>
+<tr class="even">
+<td>Capacity factor (solar)</td>
+<td>20–30%</td>
+<td>Below 18%</td>
+</tr>
+<tr class="odd">
+<td>Capacity factor (wind)</td>
+<td>30–45%</td>
+<td>Below 25%</td>
+</tr>
+<tr class="even">
+<td>O&amp;M cost ($/kW-year)</td>
+<td>$15–$30 solar; $30–<span class="math inline">\(50 wind | 50%+ above market |
+| LCOE (\)</span>/MWh)</td>
+<td>$25–$50 utility scale</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="environmental-thresholds" class="level3">
+<h3 class="anchored" data-anchor-id="environmental-thresholds">Environmental Thresholds</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Finding</th>
+<th>Action Trigger</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Phase I REC identified</td>
+<td>Commission Phase II</td>
+</tr>
+<tr class="even">
+<td>Wetlands on-site</td>
+<td>Commission delineation + JD</td>
+</tr>
+<tr class="odd">
+<td>Listed species habitat</td>
+<td>Commission biological survey</td>
+</tr>
+<tr class="even">
+<td>Contamination confirmed</td>
+<td>Escrow, price adjustment, or walk</td>
+</tr>
+<tr class="odd">
+<td>Cultural resources found</td>
+<td>Section 106 consultation</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="permitting-timeline-reference" class="level3">
+<h3 class="anchored" data-anchor-id="permitting-timeline-reference">Permitting Timeline Reference</h3>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Permit Type</th>
+<th>Typical Timeline</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Local CUP/SUP</td>
+<td>3–12 months</td>
+</tr>
+<tr class="even">
+<td>State siting certificate</td>
+<td>6–24 months</td>
+</tr>
+<tr class="odd">
+<td>NEPA Environmental Assessment</td>
+<td>6–18 months</td>
+</tr>
+<tr class="even">
+<td>NEPA Environmental Impact Statement</td>
+<td>18–48 months</td>
+</tr>
+<tr class="odd">
+<td>Section 404 (wetland fill)</td>
+<td>6–18 months</td>
+</tr>
+<tr class="even">
+<td>FAA determination</td>
+<td>3–12 months</td>
+</tr>
+<tr class="odd">
+<td>Interconnection (large generator)</td>
+<td>24–60 months</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+</section>
+<section id="glossary-of-key-terms" class="level2">
+<h2 class="anchored" data-anchor-id="glossary-of-key-terms">Glossary of Key Terms</h2>
+<p><strong>ACOE</strong> – Army Corps of Engineers. Federal agency with jurisdiction over Waters of the US, including wetlands.</p>
+<p><strong>ALTA Survey</strong> – American Land Title Association survey. A comprehensive boundary survey required by most title insurers for commercial transactions.</p>
+<p><strong>Avoidance</strong> – Design strategy to site project infrastructure away from environmentally sensitive areas (wetlands, habitat) to eliminate permit requirements.</p>
+<p><strong>Bankability</strong> – The ability of a project to secure project finance debt. A bankable project has clear title, valid permits, executed PPA, and manageable risk profile.</p>
+<p><strong>Beginning of Construction (BOC)</strong> – IRS concept that determines eligibility for ITC and PTC incentives. Safe harbor rules allow projects to lock in incentive rates based on BOC date.</p>
+<p><strong>CFADS</strong> – Cash Flow Available for Debt Service. A key metric in project finance; the numerator in the DSCR calculation.</p>
+<p><strong>COD</strong> – Commercial Operation Date. The date a project begins commercial energy production. Many incentives, milestones, and contractual provisions are tied to COD.</p>
+<p><strong>DSCR</strong> – Debt Service Coverage Ratio. The ratio of CFADS to debt service payments in a given period. A DSCR below 1.0 means the project cannot service its debt from operating cash flow.</p>
+<p><strong>EPC</strong> – Engineering, Procurement, and Construction. An EPC contract is a fixed-price, fixed-schedule contract with a single contractor responsible for design, procurement, and construction.</p>
+<p><strong>ICA</strong> – Interconnection Agreement. The contract between a project and the transmission system operator governing the project’s connection to the grid.</p>
+<p><strong>ITC</strong> – Investment Tax Credit. A federal tax credit equal to a percentage of qualifying project costs, taken in the year the project is placed in service.</p>
+<p><strong>LCOE</strong> – Levelized Cost of Energy. The average per-MWh cost to build and operate a project over its lifetime.</p>
+<p><strong>MACRS</strong> – Modified Accelerated Cost Recovery System. IRS depreciation schedule that allows most renewable assets to be depreciated over 5 years (vs.&nbsp;20+ years straight-line).</p>
+<p><strong>Mineral Rights</strong> – The legal right to extract minerals, oil, gas, and metals from below the surface of land.</p>
+<p><strong>NEPA</strong> – National Environmental Policy Act. Federal law requiring environmental review of federal agency actions, including permits for projects on federal land.</p>
+<p><strong>NTP</strong> – Notice to Proceed. Authorization from the project owner to the EPC contractor to begin construction.</p>
+<p><strong>O&amp;M</strong> – Operations and Maintenance.</p>
+<p><strong>P50 / P90</strong> – Probability exceedance estimates for energy production. P50 = 50% probability of exceedance (median); P90 = 90% probability of exceedance (conservative).</p>
+<p><strong>Partnership Flip</strong> – A tax equity structure in which the tax equity investor receives a majority of tax benefits until reaching a target return, then the project sponsor’s economic interest increases (“flips”).</p>
+<p><strong>PPA</strong> – Power Purchase Agreement. A long-term contract for the sale of energy from a project to a utility, corporate buyer, or other offtaker.</p>
+<p><strong>PTC</strong> – Production Tax Credit. A per-kWh federal tax credit on energy produced during the first 10 years of a project’s operation.</p>
+<p><strong>REC</strong> – Recognized Environmental Condition (in Phase I ESA context). Also: Renewable Energy Certificate.</p>
+<p><strong>Repowering</strong> – Replacement of major project equipment (turbines, inverters) to extend asset life, increase output, or qualify for new tax incentives.</p>
+<p><strong>RWI</strong> – Representations and Warranties Insurance. Insurance coverage for losses arising from seller breaches of reps and warranties in the PSA.</p>
+<p><strong>SCADA</strong> – Supervisory Control and Data Acquisition. Real-time monitoring system for project performance.</p>
+<p><strong>Surface Use Agreement</strong> – A contract between a surface rights holder and a mineral rights holder governing how mineral operations are conducted on the surface.</p>
+<p><strong>Title Commitment</strong> – A preliminary agreement by a title insurer to issue title insurance, subject to specified exceptions and conditions.</p>
+<p><strong>Waters of the US (WOTUS)</strong> – Federally protected water bodies, including navigable rivers, lakes, and wetlands, subject to ACOE jurisdiction.</p>
+<hr>
+</section>
+<section id="about-terrapro-solutions" class="level2">
+<h2 class="anchored" data-anchor-id="about-terrapro-solutions">About TerraPro Solutions</h2>
+<p>TerraPro Solutions provides specialized due diligence, land services, and transaction advisory to developers, investors, and lenders in the utility-scale renewable energy industry.</p>
+<p><strong>Services include:</strong> - Title examination and land due diligence - Mineral rights investigation - Permitting risk assessment - Transaction advisory - Post-close land management</p>
+<p><strong>Contact:</strong> Kimberlee Centera, President and CEO TerraPro Solutions www.terraprosolutions.com</p>
+<hr>
+<p><em>This appendix is intended as a practical reference tool. It does not constitute legal, financial, or environmental advice. Each transaction requires independent professional review tailored to the specific project and jurisdiction.</em></p>
 
 
 </section>
@@ -891,14 +979,11 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./chapters01-fundamentals.html" class="pagination-link" aria-label="Chapter 1: Navigating M&amp;A Best Practices in Utility-Scale Renewable Energy Development">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Chapter 1: Navigating M&amp;A Best Practices in Utility-Scale Renewable Energy Development</span></span>
+      <a href="./chapters12-ai-risk.html" class="pagination-link" aria-label="Chapter 12: AI — The New Frontier in Risk Modeling &amp; Scenario Analysis">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Chapter 12: AI — The New Frontier in Risk Modeling &amp; Scenario Analysis</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./chapters03-ownership.html" class="pagination-link" aria-label="Chapter 3: Ensuring Correct Ownership – Getting the Signatures Right">
-        <span class="nav-page-text"><span class="chapter-title">Chapter 3: Ensuring Correct Ownership – Getting the Signatures Right</span></span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->

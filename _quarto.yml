@@ -7,7 +7,7 @@ book:
   subtitle: "Best Practices for Risk Analysis and Risk Mitigation to Ensure Transaction Closing"
   author: "Kimberlee Centera"
   date: today
-  
+
   chapters:
     - index.qmd
     - foreword.qmd
@@ -17,13 +17,22 @@ book:
     - chapters02-land-control.qmd
     - chapters03-ownership.qmd
     - chapters04-mineral-rights.qmd
+    - chapters05-environmental.qmd
+    - chapters06-regulatory.qmd
+    - chapters07-valuation.qmd
+    - chapters08-deal-structure.qmd
+    - chapters09-post-close.qmd
+    - chapters10-team.qmd
+    - chapters11-project-finance.qmd
+    - chapters12-ai-risk.qmd
+    - appendix.qmd
 
 format:
   html:
     theme: [cosmo, _custom.scss]
     toc: true
     toc-depth: 3
-    number-sections: true
+    number-sections: false
 
 execute:
   freeze: auto

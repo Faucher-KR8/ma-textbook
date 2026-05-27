@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "An Insider's Guide to Mastering Mergers, Acquisitions & Power Plant Development"
 subtitle: "Best Practices for Risk Analysis and Risk Mitigation to Ensure Transaction Closing"
@@ -39,6 +38,5 @@ About 40% of M&A deals in renewable energy fail, often due to overlooked details
 ---
 
 *Foreword by Jigar Shah, Co-founder SunEdison, Former Director, Loan Programs Office, U.S. Department of Energy*
-```
 
 ---

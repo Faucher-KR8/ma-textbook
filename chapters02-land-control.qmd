@@ -1,4 +1,3 @@
-```markdown
 # Chapter 2: Verifying Land Control – The Foundation of Acquisition
 
 ## Why Land Control Matters
@@ -89,7 +88,7 @@ Before closing, secure **consents or non-disturbance agreements (NDAs)** from al
 
 Here is a practical framework for verifying land control:
 
-```html
+```{=html}
 <svg width="100%" viewBox="0 0 720 600" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
   <defs>
     <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
@@ -266,6 +265,5 @@ When acquiring an existing project from another developer, additional land contr
 3. Describe the six-step land verification process. At which step do most land control issues surface?
 4. What is a "non-disturbance agreement" and why is it important in M&A transactions?
 5. In the lessor consent surprise case study, what could the buyer have done differently to avoid the situation?
-```
 
 ---
