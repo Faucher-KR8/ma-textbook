@@ -12,6 +12,22 @@ Developers anticipating potential divestitures or accelerated sales should prepa
 
 ### Due Diligence Checklist:
 
+```{=html}
+<svg width="100%" viewBox="0 0 720 240" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="360" y="22" font-size="15" font-weight="600" text-anchor="middle" fill="#2c3e50">Inherited-Project Due Diligence Checklist</text>
+  <g font-family="sans-serif" font-size="11.5">
+    <rect x="20" y="45" width="335" height="34" rx="6" fill="#eaf6f8" stroke="#17a2b8"/><text x="35" y="67">✓ Land control &amp; ownership verified</text>
+    <rect x="365" y="45" width="335" height="34" rx="6" fill="#eafaf1" stroke="#27ae60"/><text x="380" y="67">✓ Regional risks (mineral, etc.) reviewed</text>
+    <rect x="20" y="85" width="335" height="34" rx="6" fill="#fef5e7" stroke="#e67e22"/><text x="35" y="107">✓ All signatories secured</text>
+    <rect x="365" y="85" width="335" height="34" rx="6" fill="#f4ecf7" stroke="#8e44ad"/><text x="380" y="107">✓ Environmental assessment complete</text>
+    <rect x="20" y="125" width="335" height="34" rx="6" fill="#fdf2f0" stroke="#e74c3c"/><text x="35" y="147">✓ Commercial / development teams aligned</text>
+    <rect x="365" y="125" width="335" height="34" rx="6" fill="#eaecee" stroke="#2c3e50"/><text x="380" y="147">✓ Valuation reflects findings &amp; timeline</text>
+    <rect x="20" y="165" width="680" height="34" rx="6" fill="#2c3e50"/><text x="360" y="187" text-anchor="middle" fill="#fff">✓ Comprehensive audit of inherited documentation completed</text>
+  </g>
+</svg>
+```
+
+
 Verify land control and ownership to prevent legal issues. Assess environmental and regional risks early to avoid surprises.
 
 - **Understanding Ownership Complexities:** Identify all parties with interests in the property. Ensure all necessary signatories are secured for valid agreements.
@@ -23,6 +39,29 @@ Verify land control and ownership to prevent legal issues. Assess environmental 
 - **Managing Inherited Projects:** Conduct comprehensive audits of inherited work. Plan for resource allocation to address challenges.
 
 ### Challenges of Inheriting Projects
+
+```{=html}
+<svg width="100%" viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="360" y="26" font-size="17" font-weight="600" text-anchor="middle" fill="#2c3e50">Inheriting a Project: Risk vs. Opportunity</text>
+  <g font-family="sans-serif" font-size="12.5">
+    <rect x="40" y="55" width="300" height="240" rx="8" fill="#fdf2f0" stroke="#e74c3c"/>
+    <text x="190" y="85" text-anchor="middle" font-weight="700" fill="#922b21">Risks</text>
+    <text x="190" y="120" text-anchor="middle" fill="#333">Unknown quality of prior work</text>
+    <text x="190" y="150" text-anchor="middle" fill="#333">Stakeholder relationships</text>
+    <text x="190" y="165" text-anchor="middle" fill="#333">don't transfer smoothly</text>
+    <text x="190" y="195" text-anchor="middle" fill="#333">Hidden legal / environmental /</text>
+    <text x="190" y="210" text-anchor="middle" fill="#333">technical problems</text>
+    <rect x="380" y="55" width="300" height="240" rx="8" fill="#eafaf1" stroke="#27ae60"/>
+    <text x="530" y="85" text-anchor="middle" font-weight="700" fill="#1e8449">Opportunities</text>
+    <text x="530" y="120" text-anchor="middle" fill="#333">Accelerated timelines</text>
+    <text x="530" y="150" text-anchor="middle" fill="#333">Cost savings vs. greenfield</text>
+    <text x="530" y="180" text-anchor="middle" fill="#333">Immediate market access</text>
+    <text x="530" y="210" text-anchor="middle" fill="#333">Existing goodwill to build on</text>
+    <text x="530" y="240" text-anchor="middle" fill="#333">(where relationships are sound)</text>
+  </g>
+</svg>
+```
+
 
 - **Unknown Quality of Work:** Previous developers may have different standards or expertise. Risk: Incomplete or inadequate documentation, permitting issues, or suboptimal design.
 - **Stakeholder Relationships:** Existing relationships with landowners, regulators, and communities may not transfer smoothly. Risk: Loss of goodwill or misunderstandings.

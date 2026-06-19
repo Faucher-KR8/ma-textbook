@@ -63,6 +63,26 @@ The value is the ability to turn fragmented project information into structured,
 
 ## What AI-Powered Screening Looks Like in Practice
 
+```{=html}
+<svg width="100%" viewBox="0 0 720 180" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="360" y="22" font-size="15" font-weight="600" text-anchor="middle" fill="#2c3e50">iQueue Platform at a Glance</text>
+  <g font-family="sans-serif" font-size="12">
+    <rect x="30" y="45" width="200" height="110" rx="8" fill="#eaf6f8" stroke="#17a2b8"/>
+    <text x="130" y="90" text-anchor="middle" font-weight="700" fill="#146477" font-size="20">50+</text>
+    <text x="130" y="115" text-anchor="middle" fill="#333" font-size="10.5">geospatial parameters</text>
+    <text x="130" y="130" text-anchor="middle" fill="#333" font-size="10.5">per project</text>
+    <rect x="260" y="45" width="200" height="110" rx="8" fill="#eafaf1" stroke="#27ae60"/>
+    <text x="360" y="90" text-anchor="middle" font-weight="700" fill="#1e8449" font-size="20">Weekly</text>
+    <text x="360" y="115" text-anchor="middle" fill="#333" font-size="10.5">queue-wide updates</text>
+    <rect x="490" y="45" width="200" height="110" rx="8" fill="#fef5e7" stroke="#e67e22"/>
+    <text x="590" y="90" text-anchor="middle" font-weight="700" fill="#9a5b13" font-size="20">Hours</text>
+    <text x="590" y="115" text-anchor="middle" fill="#333" font-size="10.5">to process new</text>
+    <text x="590" y="130" text-anchor="middle" fill="#333" font-size="10.5">interconnection studies</text>
+  </g>
+</svg>
+```
+
+
 REplace's **iQueue** platform aggregates project information across the U.S. interconnection queue and updates it weekly; new interconnection studies are processed within hours. The platform ingests and interprets thousands of highly variable structured and unstructured project documents — interconnection studies, cluster reports, and regulatory filings never designed to be analyzed systematically — producing more than 50 geospatial parameters per project for rapid assessment, alongside interconnection cost signals, COD estimates, ownership information, and permitting visibility. AI enables the shift from highly manual project-by-project research to **market-scale screening**.
 
 ## From AI Screening to Practical Verification
@@ -76,6 +96,21 @@ A common misconception is that artificial intelligence will replace traditional 
 :::
 
 ## The Cost of Discovering Risk Too Late
+
+```{=html}
+<svg width="100%" viewBox="0 0 720 180" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="360" y="22" font-size="15" font-weight="600" text-anchor="middle" fill="#2c3e50">The Cost of Discovering Risk Too Late</text>
+  <line x1="40" y1="120" x2="680" y2="120" stroke="#2c3e50" stroke-width="2"/>
+  <g font-family="sans-serif" font-size="11">
+    <circle cx="100" cy="120" r="8" fill="#27ae60"/><text x="100" y="145" text-anchor="middle" fill="#1e8449">AI screening</text>
+    <circle cx="280" cy="120" r="8" fill="#17a2b8"/><text x="280" y="145" text-anchor="middle" fill="#146477">LOI signed</text>
+    <circle cx="460" cy="120" r="8" fill="#e67e22"/><text x="460" y="145" text-anchor="middle" fill="#9a5b13">Capital &amp; time invested</text>
+    <circle cx="620" cy="120" r="8" fill="#e74c3c"/><text x="620" y="145" text-anchor="middle" fill="#922b21">Risk discovered (too late)</text>
+  </g>
+  <text x="360" y="90" text-anchor="middle" fill="#555" font-size="11">Without AI screening, risk often surfaces here →</text>
+</svg>
+```
+
 
 Many renewable energy transactions encounter problems not because risks were unknowable, but because they were discovered too late. Title defects, mineral-rights conflicts, permitting obstacles, interconnection delays, land-use restrictions, environmental constraints, and ownership complications often emerge only after substantial diligence expenditures have already occurred. AI-powered systems can help consolidate and analyze dispersed information — interconnection queues, county records, permitting agencies, environmental databases, title records, developer documentation — much earlier in the acquisition process.
 

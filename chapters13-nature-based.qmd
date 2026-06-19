@@ -50,6 +50,19 @@ Using ecosystem valuation approaches such as the **Economics of Ecosystems and B
 
 ## Ecosystem Valuation as a Strategic Asset
 
+```{=html}
+<svg width="100%" viewBox="0 0 720 220" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="360" y="22" font-size="15" font-weight="600" text-anchor="middle" fill="#2c3e50">Emerging NbS Revenue Streams</text>
+  <g font-family="sans-serif" font-size="11.5">
+    <rect x="20" y="50" width="160" height="100" rx="8" fill="#eaf6f8" stroke="#17a2b8"/><text x="100" y="85" text-anchor="middle" font-weight="600" fill="#146477">Agroforestry</text><text x="100" y="108" text-anchor="middle" fill="#333">Timber, food,</text><text x="100" y="124" text-anchor="middle" fill="#333">carbon revenue</text>
+    <rect x="195" y="50" width="160" height="100" rx="8" fill="#eafaf1" stroke="#27ae60"/><text x="275" y="85" text-anchor="middle" font-weight="600" fill="#1e8449">Blue Carbon</text><text x="275" y="108" text-anchor="middle" fill="#333">Voluntary carbon</text><text x="275" y="124" text-anchor="middle" fill="#333">markets</text>
+    <rect x="370" y="50" width="160" height="100" rx="8" fill="#fef5e7" stroke="#e67e22"/><text x="450" y="85" text-anchor="middle" font-weight="600" fill="#9a5b13">Agrivoltaics</text><text x="450" y="108" text-anchor="middle" fill="#333">Energy + agriculture,</text><text x="450" y="124" text-anchor="middle" fill="#333">shared land</text>
+    <rect x="545" y="50" width="160" height="100" rx="8" fill="#f4ecf7" stroke="#8e44ad"/><text x="625" y="85" text-anchor="middle" font-weight="600" fill="#5b2c6f">Bundled NbS</text><text x="625" y="108" text-anchor="middle" fill="#333">Biodiversity net</text><text x="625" y="124" text-anchor="middle" fill="#333">gain markets</text>
+  </g>
+</svg>
+```
+
+
 While ecosystem valuation methods differ from traditional financial accounting, the broader significance is that ecosystem functions are increasingly expressed in economically structured terms relevant to institutional decision-making. For renewable infrastructure investors, these dynamics are increasingly relevant: solar, wind, transmission, and coastal assets depend on stable environmental conditions and resilient surrounding ecosystems. Degradation, erosion, biodiversity conflict, and flood exposure can introduce operational and insurance-related risks that directly affect project economics. As climate disclosure standards and nature-related risk frameworks mature, these factors are increasingly incorporated into diligence and valuation processes.
 
 The Tokio Marine example reflects a broader market transition in which ecosystem services are increasingly evaluated in financially relevant terms. In parallel, a growing class of NbS and hybrid projects is beginning to generate measurable revenue streams alongside resilience benefits:
@@ -66,6 +79,23 @@ Early cash flows from NbS are often uneven, carbon revenues remain price-sensiti
 NbS and hybrid projects that generate both revenue and measurable resilience benefits are still frequently perceived as higher risk because these attributes are not yet consistently modeled in formats aligned with infrastructure investment standards. Institutional capital typically requires robust scenario analysis, sensitivity modeling, and transparent treatment of operational and environmental uncertainty — capabilities that NbS and conservation-linked projects are still developing.
 
 ## The Need for Analytical Frameworks and Capital Structures
+
+```{=html}
+<svg width="100%" viewBox="0 0 720 240" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="360" y="22" font-size="15" font-weight="600" text-anchor="middle" fill="#2c3e50">Blended Finance Structure for NbS</text>
+  <g font-family="sans-serif" font-size="12">
+    <rect x="160" y="50" width="400" height="60" fill="#27ae60" opacity="0.85"/>
+    <text x="360" y="78" text-anchor="middle" fill="#fff" font-weight="600">Commercial Capital</text>
+    <text x="360" y="96" text-anchor="middle" fill="#fff" font-size="10">Scales once risk-return is demonstrated</text>
+    <rect x="160" y="115" width="400" height="60" fill="#e67e22" opacity="0.85"/>
+    <text x="360" y="143" text-anchor="middle" fill="#fff" font-weight="600">Catalytic / Concessional Capital</text>
+    <text x="360" y="161" text-anchor="middle" fill="#fff" font-size="10">Absorbs early-stage risk, funds validation</text>
+    <rect x="160" y="180" width="400" height="40" fill="#8e44ad" opacity="0.85"/>
+    <text x="360" y="205" text-anchor="middle" fill="#fff" font-weight="600">Philanthropic / Public Seed Capital</text>
+  </g>
+</svg>
+```
+
 
 Closing this gap requires both improved analytical frameworks and capital structures that support early-stage project development. **Blended finance structures** can help bridge this transition by absorbing early-stage risk, funding technical validation, and supporting longer project maturation timelines that commercial capital alone may not initially tolerate. In the case of mangrove restoration, concessional or catalytic capital can help finance ecosystem rehabilitation upfront while insurers, governments, and infrastructure stakeholders benefit from reduced long-term exposure to flooding and coastal damage. Over time, improved data, standardized risk modeling, and demonstrated avoided-loss outcomes may allow these projects to transition toward more conventional infrastructure and resilience investment frameworks.
 

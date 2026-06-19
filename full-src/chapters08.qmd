@@ -16,7 +16,26 @@ Transactions increasingly require early coordination among title professionals, 
 
 Many developers establish preferred relationships with surveyors, title professionals, environmental consultants, and legal teams familiar with renewable transactions. Repeat collaboration improves communication, accelerates issue resolution, and creates greater consistency across projects and portfolios. Integrated milestone calendars align permitting deadlines, title curative milestones, EPC schedules, PPA obligations, financing timelines, and COD targets into a centralized tracking framework shared across commercial and development teams.
 
-### Challenges in Team Collaboration - Different Objectives
+### Challenges in Team Collaboration
+
+```{=html}
+<svg width="100%" viewBox="0 0 720 200" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="360" y="22" font-size="15" font-weight="600" text-anchor="middle" fill="#2c3e50">Different Objectives, Same Project</text>
+  <g font-family="sans-serif" font-size="12">
+    <rect x="40" y="50" width="290" height="120" rx="8" fill="#fdf2f0" stroke="#e74c3c"/>
+    <text x="185" y="80" text-anchor="middle" font-weight="600" fill="#922b21">Commercial / M&amp;A Team</text>
+    <text x="185" y="105" text-anchor="middle" fill="#333">Deal closure</text>
+    <text x="185" y="125" text-anchor="middle" fill="#333">Acquisition targets</text>
+    <text x="185" y="145" text-anchor="middle" fill="#333">Financial metrics</text>
+    <rect x="390" y="50" width="290" height="120" rx="8" fill="#eafaf1" stroke="#27ae60"/>
+    <text x="535" y="80" text-anchor="middle" font-weight="600" fill="#1e8449">Development Team</text>
+    <text x="535" y="105" text-anchor="middle" fill="#333">Project feasibility</text>
+    <text x="535" y="125" text-anchor="middle" fill="#333">Technical viability</text>
+    <text x="535" y="145" text-anchor="middle" fill="#333">Long-term operations</text>
+  </g>
+</svg>
+```
+ - Different Objectives
 
 Without clear direction commercial teams won't necessarily confer with the development team because they have different directives. We've noticed that team collaboration is often problematic because they each have different objectives. The commercial teams are focused on deal closure, acquisition targets, and financial metrics. The development team is focused on project feasibility, technical viability and long-term operational success. This creates misalignment at the outset, which can lead to inefficiencies, increased costs and strained workplace relationships. can impact the culture. Team collaboration and transparency are essential for delivering the best service to our clients.
 
@@ -45,6 +64,18 @@ A collaborative environment can contribute to improved project outcomes. You wil
 We believe it's important for project teams to understand the entire process. When we train teams, we always encourage as many people as possible to participate. This includes people who are ancillary, because it gives them the opportunity to learn about the many facets of the project. We have found that by understanding one another's roles and challenges, they are more emotionally invested in the project. Connecting with one another as human beings, promotes enhanced collaboration and facilitates the cultivation of a skilled and dependable team, which is critical for achieving optimal operational performance.
 
 ### Benefits of Effective Collaboration
+
+```{=html}
+<svg width="100%" viewBox="0 0 720 180" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="360" y="22" font-size="15" font-weight="600" text-anchor="middle" fill="#2c3e50">Benefits of Effective Collaboration</text>
+  <g font-family="sans-serif" font-size="12">
+    <rect x="30" y="50" width="200" height="100" rx="8" fill="#eaf6f8" stroke="#17a2b8"/><text x="130" y="85" text-anchor="middle" font-weight="600" fill="#146477">Improved</text><text x="130" y="105" text-anchor="middle" fill="#146477" font-weight="600">Outcomes</text><text x="130" y="128" text-anchor="middle" fill="#333" font-size="10">Meet timelines &amp; budget</text>
+    <rect x="260" y="50" width="200" height="100" rx="8" fill="#fef5e7" stroke="#e67e22"/><text x="360" y="85" text-anchor="middle" font-weight="600" fill="#9a5b13">Risk</text><text x="360" y="105" text-anchor="middle" fill="#9a5b13" font-weight="600">Mitigation</text><text x="360" y="128" text-anchor="middle" fill="#333" font-size="10">Issues caught earlier</text>
+    <rect x="490" y="50" width="200" height="100" rx="8" fill="#f4ecf7" stroke="#8e44ad"/><text x="590" y="85" text-anchor="middle" font-weight="600" fill="#5b2c6f">Enhanced</text><text x="590" y="105" text-anchor="middle" fill="#5b2c6f" font-weight="600">Innovation</text><text x="590" y="128" text-anchor="middle" fill="#333" font-size="10">Diverse perspectives</text>
+  </g>
+</svg>
+```
+
 
 - **Improved Project Outcomes:** Projects are more likely to meet timelines and budget when teams work cohesively.
 - **Risk Mitigation:** Potential issues are identified and addressed early.

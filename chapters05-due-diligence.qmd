@@ -6,6 +6,21 @@ In accelerated transaction environments, projects with organized documentation, 
 
 ## Data Room Readiness
 
+```{=html}
+<svg width="100%" viewBox="0 0 720 160" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="360" y="22" font-size="15" font-weight="600" text-anchor="middle" fill="#2c3e50">A Typical 60-Day Diligence Window</text>
+  <g font-family="sans-serif" font-size="11">
+    <rect x="20" y="55" width="160" height="50" rx="6" fill="#2c3e50"/><text x="100" y="85" text-anchor="middle" fill="#fff">Days 1–10: Data room audit</text>
+    <rect x="190" y="55" width="160" height="50" rx="6" fill="#17a2b8"/><text x="270" y="85" text-anchor="middle" fill="#fff">Days 10–30: Title / survey / MOR</text>
+    <rect x="360" y="55" width="160" height="50" rx="6" fill="#e67e22"/><text x="440" y="85" text-anchor="middle" fill="#fff">Days 30–50: Curative &amp; engagement</text>
+    <rect x="530" y="55" width="170" height="50" rx="6" fill="#27ae60"/><text x="615" y="85" text-anchor="middle" fill="#fff">Days 50–60: Close-out checklist</text>
+  </g>
+  <line x1="20" y1="120" x2="700" y2="120" stroke="#2c3e50" stroke-width="2"/>
+  <text x="360" y="145" text-anchor="middle" fill="#555" font-size="11">Triage, not a slower 9-month process</text>
+</svg>
+```
+
+
 Well-organized data rooms containing current title materials, surveys, permits, leases, environmental reports, and financing documentation significantly accelerate acquisition review and improve buyer confidence during compressed timelines. An energy company successfully completed due diligence within a 60-day window by prioritizing critical leases and deploying a specialized team on high-risk areas, avoiding delays that would otherwise have surfaced later.
 
 ## "Pre-Mortem" Risk Analysis
@@ -96,7 +111,21 @@ Mineral Ownership Reports should be ordered early, particularly in jurisdictions
 
 **Assemble a Multidisciplinary Team Including an ALTA Surveyor.** Use these criteria to select the right surveyor: familiarity with state/county requirements, experience with renewable projects, ability to meet financing timelines, understanding of Table A requirements, ability to support title endorsements, closing support experience, and coordination with title underwriters.
 
-**Implement Technology Solutions:** Data management tools for efficient document review and collaboration, plus automated alerts for critical deadlines and tasks.
+**Implement Technology Solutions:**
+
+```{=html}
+<svg width="100%" viewBox="0 0 720 220" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="360" y="22" font-size="15" font-weight="600" text-anchor="middle" fill="#2c3e50">The Multidisciplinary Diligence Team</text>
+  <g font-family="sans-serif" font-size="12">
+    <circle cx="150" cy="100" r="60" fill="#eaf6f8" stroke="#17a2b8"/><text x="150" y="104" text-anchor="middle" fill="#146477" font-weight="600">Title</text>
+    <circle cx="290" cy="100" r="60" fill="#eafaf1" stroke="#27ae60"/><text x="290" y="104" text-anchor="middle" fill="#1e8449" font-weight="600">Survey</text>
+    <circle cx="430" cy="100" r="60" fill="#fef5e7" stroke="#e67e22"/><text x="430" y="104" text-anchor="middle" fill="#9a5b13" font-weight="600">Legal</text>
+    <circle cx="570" cy="100" r="60" fill="#f4ecf7" stroke="#8e44ad"/><text x="570" y="104" text-anchor="middle" fill="#5b2c6f" font-weight="600">Environmental</text>
+  </g>
+  <text x="360" y="195" text-anchor="middle" fill="#555" font-size="11">Everyone knows their role, the deadline, and who else needs the information</text>
+</svg>
+```
+ Data management tools for efficient document review and collaboration, plus automated alerts for critical deadlines and tasks.
 
 ## Key Takeaways
 
