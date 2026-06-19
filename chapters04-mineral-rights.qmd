@@ -31,7 +31,7 @@ On tribal lands, the federal government may own the subsurface estate while priv
     <path d="M150,85 L170,85"/><path d="M300,85 L320,85"/><path d="M450,85 L470,85"/><path d="M600,85 L620,85"/>
   </g>
 </svg>
-
+```
 
 When minerals are severed from the surface estate, the property has **two chains of title**: one for the surface, one for the subsurface. While the surface chain can usually be reviewed by a title company, the subsurface requires a specialized search known as a **Mineral Ownership Report (MOR)**.
 
