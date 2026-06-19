@@ -1,0 +1,249 @@
+# Chapter Two
+
+## Verifying Land Control – The Foundation of Acquisition
+
+Is the land you're getting, really your land? In the realm of renewable energy projects, land is a fundamental asset. Before finalizing any acquisition, it's imperative to verify land control and access to ensure that the project rests on solid ground—literally and legally.
+
+Land control is the cornerstone of every successful renewable energy project. It assures that a developer has the legal authority to enter, use, and develop a specified plot of land for project development. Without appropriate site supervision, even the most promising projects might suffer major delays, legal battles, or catastrophic failure.
+
+### Critical Path Parcels
+
+Developers should identify "critical path parcels" early in the diligence process, including substations, transmission corridors, access routes, collector systems, and key interconnection areas. Title defects or site-control failures affecting these parcels can create disproportionate impacts on financing, construction sequencing, and COD schedules.
+
+Typically, renewable energy projects acquire property via leases, easements, or purchase agreements to construct solar, wind, storage, or transmission facilities. Land control ensures that the developer has the right to build and run the project on the specified land, providing stability and predictability throughout the project's existence.
+
+Developers should work closely with title companies and ALTA surveyors to identify required Table A items and endorsement requirements early in the transaction process. Optional survey certifications frequently become mandatory lender or title requirements during financing and closing.
+
+### Government Land Complexity and Overlapping Rights
+
+Developers often assume that acquiring rights from a state or local government agency will be more straightforward than negotiating with private landowners. In practice, government-owned land can introduce an entirely different layer of complexity into renewable energy acquisitions.
+
+State trust lands, public university lands, water districts, county-owned property, and other public holdings frequently involve overlapping interests that are not immediately visible during preliminary diligence. A developer may secure a lease or development agreement only to discover later that another party retains grazing rights, farming rights, mineral interests, water access rights, or operational easements affecting the same property. In some cases, these third-party rights can directly interfere with substations, access corridors, collector systems, or interconnection infrastructure.
+
+### Checkerboard Ownership
+
+One of the most common mistakes developers make is assuming that site control over one parcel automatically guarantees access across adjoining parcels. In many Western states, renewable energy projects cross "checkerboard" ownership patterns involving combinations of state, federal, tribal, and private land. Each parcel may carry different approval standards, title requirements, timelines, and regulatory obligations. Legal access across one tract does not necessarily establish access rights across the next.
+
+These layered ownership structures can create substantial transaction risk if they are not identified early in the diligence process. Critical path parcels, particularly those involving access roads, substations, transmission corridors, or interconnection routes, should receive heightened scrutiny whenever public land is involved.
+
+### Public vs. Private Sector Timelines
+
+Developers should also recognize that public-sector transactions frequently operate on timelines that are different from private transactions. Many state and local agencies face staffing shortages, outdated systems, and increasing development volume. Even after commercial terms have been negotiated, agreements may require additional review by agency counsel, governing boards, or state attorneys general before execution can occur. Minor revisions to legal descriptions, formatting, or access provisions can delay approvals for weeks or months.
+
+Because of these realities, successful renewable energy development on government land requires more than simply following procedural requirements. It requires proactive communication, relationship management, and coordination across multiple stakeholders. Experienced developers understand that resolving issues often depends on identifying the right contacts within agencies, maintaining consistent communication, and treating public-sector entities as long-term project partners rather than transactional counterparties.
+
+When government-owned parcels are involved, diligence must extend beyond the lease itself. Developers should verify all existing rights affecting the property, confirm legal access across adjoining tracts, prioritize critical infrastructure parcels early, and build additional time into acquisition and financing schedules to account for administrative review processes. By approaching government land strategically rather than reactively, developers can reduce transaction delays, strengthen site control, and improve financing certainty.
+
+### Feasibility Studies
+
+Land control is critical during the first feasibility studies and project planning phases. Before a large-scale project can proceed, developers must examine the land's suitability, conduct environmental assessments, and verify compliance with local legislation. These studies cannot be conducted without site control, resulting in the project being halted before it even begins.
+
+### Securing Financing
+
+Lenders and investors want developers to demonstrate that they have obtained land control before they can obtain financing for the project. Having legal title to the land guarantees investors that the project has a firm basis and will proceed without unanticipated legal issues. Without land control, a project is considered high-risk, making it extremely difficult to acquire funding.
+
+### Permits and Regulatory Compliance
+
+Permitting processes for renewable energy projects frequently demand verification of land control to proceed. Local zoning boards, regulatory agencies, and environmental authorities may refuse to process permits unless the developer can demonstrate that he or she owns or leases the requisite land. Without land control, obtaining the required permits becomes impossible.
+
+### Managing Risk
+
+Acquiring land control early in the project's lifespan allows developers to prevent potential legal conflicts and delays. With good land control, developers can proactively address potential concerns such as land ownership conflicts, title issues, or community objections. This lowers the likelihood of delays or project derailments later in the development phase.
+
+### Protecting Project Timelines
+
+Renewable energy projects are frequently time-sensitive, particularly if they entail specific incentive schemes or financing deadlines. If site control is not acquired early on, projects may encounter delays that force them to miss critical deadlines, risking finance or incentive eligibility.
+
+Long-term land control agreements ensure that the developer has ongoing access to the land to operate and maintain the projects. This is especially crucial for wind and solar farms, whose infrastructure requires frequent maintenance, repairs, and improvements.
+
+### The Significance of Land Verification
+
+Failure to confirm land control can lead to:
+
+- **Legal Disputes:** Challenges from actual landowners or third parties who hold interests in the land.
+- **Operational Delays:** Inability to proceed with development due to unresolved land or access issues.
+- **Financial Losses:** Costs associated with litigation, renegotiation of leases, or project cancellation.
+
+Verifying land ownership and usage is essential to proactively identify and address potential issues.
+
+::: {.callout-warning}
+**Case Study - Access Road**
+
+We once worked on a storage project in Fallbrook, California. The property was situated away from the main road and was not visible when traveling on the frontage road. We believed that all the necessary rights had been secured until we spoke with inspectors at the fire department, who raised concerns due to the site's location and its distance from the main road. After inspection, the fire department required a second access point at the back of the project. Since the project was relatively near the frontage road, the developer did not consider having to build a second access road. Securing agreements with the landowners was now essential to the project's development and completion.
+
+Failing to confirm land usage rights can result in legal disputes with landowners and stakeholders, which can cause unexpected delays and financial losses. For our storage project, this entailed additional expenses related to the design and the engineering of a second access route. Relevant land use authorities must inspect even apparently realistic access to confirm its insurability. You could drive from point A to point B to reach the main road. Yet this project showed that it may not be insurable due to unexpected fire department regulations. These things must be considered when conducting due diligence for a project.
+:::
+
+### Land Control & Ownership Disputes
+
+One of the challenges that may arise is landowner disputes, which account for 40% of potential issues that are encountered. As with the storage project, this can seriously affect the project timeline. Are you sure you own the land you believe you do? Review all agreements, as they are vital to confirming ownership. Title ownership may be proven in various ways. People can hold title and trust. They can hold titles and own corporations. Sometimes, children inherit the property. I've spoken with either a son or daughter and they say "Yes, I control everything." Although they may believe they're on the title, records or deeds could indicate that the property belongs to the parents. Understanding who has authority over the property is critical.
+
+::: {.callout-tip}
+**Case Study - Clearing a Legacy Road Reservation to Ensure Smooth Closing**
+
+A historical municipal roadway reservation surfaced during title review for a planned battery storage project. Through early diligence, strong communication, and coordination between the developer, municipality and title professionals, the issue was resolved well before closing.
+
+**Background**
+
+A developer was advancing a battery storage project in Virginia when a potential title issue surfaced during diligence. Historical records showed that the local municipality had reserved the option to develop a roadway through the property. Although the road had never been constructed and the surrounding area had not developed as originally envisioned, the reservation remained in the title record. Because the proposed roadway alignment would have cut directly through the planned battery storage site, the issue needed to be resolved before title insurance could be issued without exception.
+
+**Risk Identified**
+
+Even though the roadway had never been built, the municipality technically retained the right to construct it. If exercised, that right could disrupt or even prevent the development of the battery storage facility. For the developer and its investors, the presence of this unresolved issue created uncertainty. From a title insurance perspective, the insurer needed confirmation that the municipality no longer intended to pursue the roadway before coverage could be finalized.
+
+**Strategy and Coordination**
+
+Rather than waiting until the closing timeline became compressed, the project team addressed the issue early. The developer, project manager, legal counsel, title team, and closing team worked together to determine what documentation would satisfy underwriting requirements.
+
+An important part of this process was the involvement of a knowledgeable title insurance sales representative who had been working with the client from the beginning of the project and understood both the developer's priorities and the underwriting requirements needed to close the transaction. That relationship created an open line of communication that allowed the parties to work through the issue collaboratively rather than reactively.
+
+Multiple conversations were required to align expectations between the developer, counsel, the title closer, and underwriting. Through those discussions, the team clarified the specific language that would be required from the municipality to satisfy underwriting requirements. Once that guidance was clear, the developer engaged directly with the appropriate municipal officials to request a letter confirming that the municipality had no plans to construct the roadway.
+
+Working with the municipality demanded persistence and coordination. The matter could not be resolved immediately because the process involved procedural steps. Since the issue was identified months in advance and the title sales representative kept it visible to the team, the parties had enough time to work through it.
+
+**Outcome**
+
+The municipality ultimately provided the requested confirmation letter stating that it did not intend to construct the roadway. With that documentation in place, the title insurer was able to move forward with coverage. Because the issue had been identified and addressed early, the letter was secured several weeks before closing and the transaction proceeded without delay.
+
+**Key Takeaway**
+
+Early diligence and proactive communication can prevent historical land issues from becoming closing obstacles. Just as important is having experienced title professionals involved throughout the process. A knowledgeable title insurance sales representative who understands both the development timeline and underwriting requirements can help coordinate conversations, advocate for the client, and keep all parties aligned while complex issues are being resolved.
+
+*Case Study Submitted by Senior Title Insurance Expert Tara Brown-Selders*
+:::
+
+### Power of Attorney
+
+A challenge we frequently encounter is power of attorney. Power of attorney is often statutory in nature, requiring strict adherence to relevant compliance regulations. There are important rules governing its use, including specific protocols for signing documents. These things will come up and details matter. During due diligence, some issues will inevitably arise, particularly risks related to not confirming authority and ownership. You may end up with invalid or unenforceable leases. You may face delays, incur additional costs, have ownership disputes, and litigation. Many issues can impact property and insurability.
+
+Provide the title company with required documents such as a power of attorney, trust certificate, or corporate records, so it can verify authority to execute and enforce agreements. Small details also matter. A different middle initial, such as George E. Smith versus George R. Smith, may indicate two different people. This is especially important when reviewing the chain of title. You should also confirm suffixes such as Jr. and Sr. to ensure the correct parties are under contract.
+
+### Joint Tenancy, Trusts & Unrecorded Rights
+
+Developers can be caught off guard by joint tenancy and trusts. Unrecorded rights can be a huge problem. When examining a title, it is common to assume that all information is documented. A significant amount of information has been documented. We have occasionally encountered challenges around unrecorded rights. It is important to have a survey document or a checklist that is reviewed with the landowners. The landowners will know whether there are capped wells, or whether there has been mineral production on the property. They will know whether the adjacent landowner uses their property to gain access to the main road. They will also know whether there are conservation reserve easements which can impact where and how you can develop.
+
+You may have an area or a planned access route that you can drive on, but it may not necessarily constitute a right that can be insured. And when you take it to the title insurance company, they're going to require that you go out and perfect that. You may have to create curative documents.
+
+We have seen the time frames around title change and get longer. Select a title company with expertise in ALTA coverage and renewable energy projects. Work with a title company that can support a transaction. While not all transactions reach a billion dollars, many do. Many title carriers will have caps on how far and how much insurance they can write. Establish those relationships early, being clear about your project requirements is extremely important.
+
+### Farmlands & Unrecorded Rights
+
+Something we often see is grazing and farming leases and water rights. Pay attention to farming, because these are off record rights, yet they are typically parties that have an interest in the land and that will need to be addressed. While no immediate action may be required for your M&A transaction, maintaining awareness of this matter remains important. Illinois and some other jurisdictions have laws specifying when notice must be given to farming tenants. It must be provided by a specific date; if not, you'll need to ensure compliance through other means. If your project relies on starting construction in January but you miss the November notification date, you may need to adjust your figures.
+
+### The Wetlands Challenge
+
+Developing projects on or near wetlands requires balancing energy needs with the imperative to preserve biodiversity, water quality, and the flood control functions wetlands provide. Wetlands pose significant challenges to renewable energy development by requiring careful management of potential ecological damage from construction and operation, necessitating specialized building techniques for projects like solar farms on piles, and involving complex regulatory frameworks designed to protect these sensitive ecosystems. Projects must be designed to achieve minimal disturbance to the wetland's ecological system, often involving compromises in design or location.
+
+### Habitat Disturbance
+
+The construction and maintenance of renewable energy infrastructure, such as solar panel foundations, can disturb wetland habitats and the diverse plant and animal life they support. Wetlands are biologically rich ecosystems, and energy projects could negatively impact various species, requiring careful planning to minimize harm.
+
+### Regulation and Policy
+
+Wetlands are often protected under various environmental regulations (e.g., North American Wetlands Conservation Act) that govern their use and limit development. Installing ground-mounted renewable energy systems like solar panels on wetlands necessitates specialized piling techniques to minimize ground disturbance and support the infrastructure. While challenging to build on, the proximity of wetlands to water bodies can sometimes reduce the length of electrical cabling, potentially increasing power generation efficiency and lowering costs.
+
+Wetlands should be considered during site selection, design and construction, because simple things can become big issues. Solar, wind, and storage projects each face unique challenges that require comprehensive planning beyond land rights.
+
+### Key Steps in Verifying Land Control
+
+- Cross-referencing leases and maps.
+- Ensure that the geographical area represented in the map aligns with the legal descriptions in lease agreements.
+- Utilize Geographic Information Systems (GIS) to accurately map out land parcels.
+- Review vesting deeds. Obtain and examine the deeds that establish current ownership.
+- Identify any discrepancies between the deedholders and those who have signed the leases.
+
+### Assess Title Documentation
+
+Developers should recognize that title searches rely heavily on public records, which may themselves be incomplete, inaccurate, or outdated. If title review is rushed or based on insufficient information, material defects such as liens, easements, restrictions, or ownership discrepancies may be overlooked. These omissions can create future insurability concerns, financing delays, and increased legal exposure.
+
+Check title reports for liens, encumbrances, or easements. Be aware that in many cases, especially early-stage projects, full title work may not have been conducted.
+
+### ALTA Surveys and Advanced Title Review: Protecting Site Control
+
+In renewable energy acquisitions, site control is far more than a signed lease or a marked parcel on a map. Sophisticated buyers, lenders, tax equity investors, and title insurers increasingly expect developers to demonstrate that the legal description of the project aligns precisely with the physical realities on the ground. This is where ALTA surveys and advanced title review become indispensable.
+
+Too often, early-stage projects rely on outdated boundary sketches, incomplete or limited title work prepared during preliminary development. While these materials may appear sufficient during initial negotiations, they frequently fail under the scrutiny of financing, underwriting, or acquisition due diligence. Small discrepancies discovered late in the transaction process can create outsized consequences. A fence crossing a property line, an undefined access route, an abandoned irrigation ditch, or an unrecorded utility easement may seem minor at first glance, yet each can materially affect project layout, financing certainty, insurability, and ultimately the ability to close the transaction.
+
+An ALTA survey provides the level of precision required for utility-scale renewable energy projects. Unlike a basic boundary survey, a full ALTA/NSPS Land Title Survey identifies visible encroachments, access routes, rights-of-way, improvements, utility corridors, and easements affecting the property. It establishes accurate monumentation and provides lenders and title insurers with confidence that the legal description reflected in leases, easements, and financing documents accurately matches existing site conditions.
+
+### Every Agreement Depends on Survey Accuracy
+
+For renewable energy transactions, survey precision is critical because every downstream agreement depends upon it. Interconnection corridors, collector lines, substations, battery storage locations, turbine setbacks, and access roads all rely upon accurate legal descriptions. If the survey reveals inconsistencies after financing documents have already been drafted, developers may face expensive curative work, redesign costs, delayed financial closings, or even threats to tax-credit qualification timelines.
+
+### Tier-1 ALTA Surveys
+
+Developers should also recognize that not all ALTA surveys provide the same level of protection. Many lenders and institutional investors now require full Tier-1 ALTA surveys with extended coverage and lender-specific certifications. These surveys provide greater detail regarding improvements, visible easements, encroachments, and access conditions. Attempts to reduce costs through limited survey products frequently shift risk downstream into the financing and closing process, where remediation becomes significantly more expensive and time sensitive.
+
+Equally important is the relationship between the ALTA survey and the title commitment. A survey alone cannot identify all project risks. Advanced title review is necessary to uncover recorded and off-record matters that may interfere with development or financing. This review often extends far beyond the current ownership deed and requires examination of historical conveyances, easements, restrictions, mortgages, rights-of-way, and prior reservations affecting the property.
+
+In many renewable energy projects, some of the most significant risks are not immediately visible in public records. Neighbor access arrangements, oral farming leases, historical roadway reservations, irrigation rights, unrecorded utility agreements, conservation restrictions, and legacy covenants can all create substantial project complications if left unresolved. Developers who fail to investigate these issues early may discover them only during financing diligence or immediately before closing, when timelines are compressed and leverage is reduced.
+
+Comprehensive title review also requires careful evaluation of title commitment exceptions. Blanket easements, undefined utility corridors, vague access rights, and historical reservations often conceal operational risks that may later interfere with construction or long-term operations. Experienced development teams work closely with title counsel, surveyors, and underwriters to clarify exceptions, negotiate coverage enhancements, and obtain accurate exhibits that define the precise location of third-party rights. This may involve boundary line agreements, easement relocations, subordination agreements, corrective deeds, or escrow arrangements designed to manage unresolved risks while preserving transaction timelines.
+
+Ultimately, ALTA surveys and advanced title review are foundational risk-management tools that protect site control, support project finance, improve insurability, and strengthen acquisition certainty. In an industry where project value depends heavily on execution timing and bankability, thorough survey and title diligence can mean the difference between a successful closing and a delayed or failed transaction.
+
+### Unresolved Defects Impact Valuation & Financing
+
+Successful renewable energy acquisitions increasingly depend upon proactive title curative strategies. Developers should identify title defects early, prioritize issues affecting
+
+### Understanding Lease Terms
+
+- Evaluate the duration, renewal options, and any conditions that might affect long-term project viability.
+- Ensure that the leases are financeable and meet the requirements of lenders and investors.
+
+### Challenges in Land Verification
+
+- **Incomplete Documentation:** Early-stage projects might not have comprehensive land records.
+- **Time Constraints:** Tight M&A timelines may limit the depth of verification possible.
+- **Complex Ownership Structures:** Land may be owned by multiple parties or entities, complicating verification.
+
+### Best Practices
+
+- **Engage Land Specialists:** Professionals with experience in land acquisition and title review can identify issues that might be overlooked.
+- **Utilize Public Records:** Access county records, property tax records, and other public databases to supplement provided documentation.
+- **Prioritize Critical Parcels:** Focus on key areas essential for project infrastructure, such as substation sites or main access points.
+
+Securing land control is a critical phase in the development of a renewable energy project. It establishes the legal framework that enables developers to plan, finance, and execute projects without undue delay or danger. By addressing land control early on and adhering to best practices, developers can create the framework for a successful project. Verifying land control is not just a formality but a critical step that safeguards the investment and ensures that the project's foundation is secure.
+
+```{=html}
+<svg width="100%" viewBox="0 0 720 600" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#2c3e50" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <text x="360" y="30" font-size="18" font-weight="500" text-anchor="middle" fill="#2c3e50">Land Verification Flowchart</text>
+  <g font-family="sans-serif" font-size="12.5" fill="#fff">
+    <rect x="60" y="60" width="240" height="55" rx="8" fill="#2c3e50"/>
+    <text x="180" y="93" text-anchor="middle">Initial Lease Review</text>
+    <rect x="420" y="60" width="240" height="55" rx="8" fill="#17a2b8"/>
+    <text x="540" y="93" text-anchor="middle">Cross-Reference Maps</text>
+    <rect x="60" y="160" width="240" height="55" rx="8" fill="#16a085"/>
+    <text x="180" y="193" text-anchor="middle">Vesting Deed Review</text>
+    <rect x="420" y="160" width="240" height="55" rx="8" fill="#e67e22"/>
+    <text x="540" y="193" text-anchor="middle">Title Commitment Review</text>
+    <rect x="60" y="260" width="240" height="55" rx="8" fill="#8e44ad"/>
+    <text x="180" y="293" text-anchor="middle">ALTA Survey (Tier-1)</text>
+    <rect x="420" y="260" width="240" height="55" rx="8" fill="#c0392b"/>
+    <text x="540" y="293" text-anchor="middle">Identify Pitfalls / Defects</text>
+    <rect x="240" y="360" width="240" height="55" rx="8" fill="#27ae60"/>
+    <text x="360" y="393" text-anchor="middle">Curative Work (if needed)</text>
+    <rect x="240" y="460" width="240" height="55" rx="8" fill="#2c3e50"/>
+    <text x="360" y="493" text-anchor="middle">Insurable, Financeable Site Control</text>
+  </g>
+  <g stroke="#2c3e50" stroke-width="1.5" fill="none" marker-end="url(#arrow)">
+    <path d="M300,87 L420,87"/>
+    <path d="M180,115 L180,160"/>
+    <path d="M540,115 L540,160"/>
+    <path d="M300,187 L420,187"/>
+    <path d="M180,215 L180,260"/>
+    <path d="M540,215 L540,260"/>
+    <path d="M300,287 L420,287"/>
+    <path d="M180,315 L180,345 L360,345 L360,360"/>
+    <path d="M540,315 L540,345 L360,345"/>
+    <path d="M360,415 L360,460"/>
+  </g>
+</svg>
+```
+
+*Visual: A flowchart outlining the land verification process, starting from initial lease review to cross-referencing with vesting deeds and maps, highlighting potential pitfalls and solutions.*

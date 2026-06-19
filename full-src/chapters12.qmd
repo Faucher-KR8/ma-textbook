@@ -1,0 +1,129 @@
+# Chapter 12
+
+## AI the New Frontier in Risk Modeling & Scenario Analysis
+
+### Introduction
+
+As renewable energy markets continue to mature, acquisition teams will increasingly compete on their ability to process information, evaluate risk, and make decisions quickly. The firms that succeed will be those that can identify the most buildable, financeable, and executable opportunities before their competitors.
+
+Artificial intelligence is becoming a powerful tool in that process. It enables faster screening, earlier risk identification, and more informed decision-making. Combined with rigorous diligence, strong title practices, effective risk management, and experienced professionals, AI has the potential to significantly improve acquisition outcomes and reduce transaction risk across the renewable energy industry.
+
+AI-powered intelligence helps identify project risks earlier, compares opportunities faster, and helps focus serious diligence on the projects most likely to move forward. Subject-matter expertise and experienced judgment still determine what gets done with those signals.
+
+### AI Is Accelerating the Race for Buildable Projects
+
+Speed matters because competition for buildable renewable projects is intensifying. Electricity demand is rising, driven in part by the growth of data centers and AI infrastructure. Technology companies, including Google, Microsoft, and Meta, have committed to multi-gigawatt renewable energy agreements, adding further pressure to an already competitive market for buildable renewable projects.
+
+Policy pressure is adding to that urgency. Recent changes to wind and solar tax credit rules mean buyers can no longer rely on a project simply looking promising on paper. They need stronger evidence that it can realistically move into construction within the required timelines. Ownership and supply chain exposure also need to be understood earlier in the acquisition process, rather than left until late-stage diligence.
+
+The result is a faster, more selective market in which buyers are no longer evaluating projects only on availability or headline capacity. They are looking for assets that can survive diligence, qualify for incentives, attract financing, and move into construction within compressed timelines. That puts a premium on teams that can rapidly identify buildable projects.
+
+### M&A Risk Often Surfaces Too Late
+
+Only a small share of projects in U.S. interconnection queues ultimately reach commercial operation, and many early-stage renewable projects never reach construction. Traditionally, it has been time-consuming and challenging to rapidly assess the underlying factors and signals that would make one project more viable than another.
+
+Development challenges have not been visible at the point of origination, emerging only after acquisition teams have already invested time, capital, and attention. For example, hidden land issues, title complexity, permitting gaps, interconnection delays, network upgrade exposure, and unclear ownership structures. Any of these can slow a project down, change its economics, or make it unworkable.
+
+Relevant diligence data is fragmented across ISO portals, county records, environmental databases, parcel records, and developer documents. By the time risks surface through conventional diligence, acquisition teams may already have spent weeks and significant budget evaluating a project that should have been deprioritized earlier.
+
+### What AI Can See Earlier
+
+What has changed is the ability to read records systematically across thousands of projects before committing to full diligence. This does not come from asking a general-purpose LLM to review a project. It requires purpose-built intelligence systems that combine document intelligence, proprietary algorithms, geospatial analysis, data validation, and domain expertise. These systems can ingest highly variable project documents, extract and validate relevant data, and connect it to the interconnection queue, land, permitting, state regulatory bodies, ownership, and location context.
+
+The value is the ability to turn fragmented project information into structured, comparable intelligence. Acquisition teams can see which projects stand out, where the evidence is incomplete, and which risks deserve closer investigation before committing to formal diligence. Subsequently, these tools provide acquisition teams with earlier visibility into signals such as:
+
+- **Interconnection Queue Context:** AI-powered tools can extract and structure interconnection queue data automatically, making it possible to compare queue duration, study stage, study duration, available transfer capability, substation capacity, and cost signals across thousands of projects in minutes.
+
+Projects that have cleared specific study milestones and maintained their queue position over time tend to show different outcomes from those that have not. Instead of waiting for formal diligence to reveal those patterns, acquisition teams can screen for them upfront.
+
+- **Developer and Ownership:** Some developers consistently move projects forward more effectively because they are better at siting, interconnection strategy, securing PPAs, and completing studies.
+
+AI-powered ownership mapping can connect project entities, parent companies, portfolios, transaction history, and public records that would otherwise need to be pieced together manually.
+
+- **Land and Permitting:** Land and permitting issues are often hidden in local records rather than visible in a seller's materials. AI-powered systems can scan zoning ordinances, moratoria, county meeting notes, permit requirements, and parcel records to surface land risk, local opposition, and permitting gaps before formal diligence begins.
+
+- **Geospatial Risk:** AI can be used to combine project boundaries with geospatial data on environmental constraints, land use, slope, wetlands, grid proximity, transmission access, and nearby development activity. These factors are often the difference between a project with a clear path to construction and one with a siting problem that further development work cannot solve.
+
+### What AI-Powered Screening Looks Like in Practice
+
+REplace's iQueue platform aggregates project information across the U.S. interconnection queue and updates it weekly. New interconnection studies are processed within hours.
+
+The platform works by ingesting and interpreting thousands of highly variable structured and unstructured project documents, including interconnection studies, cluster reports, and regulatory filings that were never designed to be analyzed systematically. The output is more than 50 geospatial parameters across projects for rapid assessment, alongside interconnection cost signals, COD estimates, ownership information, and permitting visibility. AI enables the shift from highly manual project-by-project research to market-scale screening.
+
+### From AI Screening to Practical Verification
+
+AI-powered screening is strongest at the start of the acquisition process. Once a project advances, the work shifts from signal detection to deeper project-level verification. Acquisition teams still need to confirm whether interconnection assumptions hold, whether land rights are clean, whether permits can realistically be secured, whether environmental issues create material delays, and whether the financial case still works. The best workflow is AI-powered intelligence first, followed by focused practical verification.
+
+### Key Takeaways
+
+AI is changing renewable energy M&A by expanding how quickly and how clearly teams can evaluate projects before committing further resources.
+
+- AI-powered intelligence gives acquisition teams a broader view of the market. Teams can move beyond brokered deal flow and compare projects across the full interconnection queue, including ownership, estimated interconnection cost, land, permitting, and location-based signals.
+- AI improves first-pass screening. Teams can identify warning signs earlier, benchmark opportunities faster, and focus time on projects with stronger development potential.
+- AI creates a stronger starting point for practical verification. Technical, legal, environmental, financial, and on-the-ground diligence still matters, but those workstreams become more effective when teams enter them with better evidence and sharper questions.
+
+### AI Does Not Replace Due Diligence It Improves It
+
+A common misconception is that artificial intelligence will replace traditional due diligence. In fact, its greatest value is helping teams prioritize diligence more effectively.
+
+Experienced developers, title professionals, engineers, environmental consultants, legal counsel, lenders, and tax equity investors remain essential to project evaluation. AI does not replace expertise. Instead, it helps acquisition teams focus their expertise on the projects most likely to succeed.
+
+Rather than spending weeks evaluating every opportunity equally, AI-powered systems can help identify which projects warrant deeper investigation and which should be deprioritized before significant resources are invested.
+
+### The Cost of Discovering Risk Too Late
+
+Many renewable energy transactions encounter problems not because risks were unknowable, but because they were discovered too late.
+
+Title defects, mineral-rights conflicts, permitting obstacles, interconnection delays, land-use restrictions, environmental constraints, and ownership complications often emerge only after substantial diligence expenditures have already occurred. By that stage, acquisition teams may have invested significant time and capital pursuing projects that ultimately prove difficult to finance or construct.
+
+The fundamental challenge is that critical project information is frequently dispersed across numerous sources, including interconnection queues, county records, permitting agencies, environmental databases, title records, and developer documentation. AI-powered systems can help consolidate and analyze this information much earlier in the acquisition process.
+
+### AI as a Risk-Mitigation Tool
+
+The greatest value of artificial intelligence in renewable energy M&A is risk mitigation. AI-powered platforms can identify patterns and relationships across thousands of projects that would be difficult to evaluate manually. These systems can assist acquisition teams by highlighting potential concerns involving:
+
+**Land and Permitting Risk**
+
+- Zoning restrictions
+- Moratoriums
+- Local opposition
+- Permit requirements
+- Parcel-specific constraints
+
+By identifying these issues early, acquisition teams can focus diligence resources where they create the greatest value.
+
+### AI and Bankability
+
+Bankability depends on risk reduction. Lenders, tax equity investors, title insurers, and institutional investors ultimately seek confidence that a project can be constructed and operated successfully. AI contributes to that objective by helping acquisition teams uncover potential obstacles before they become financing problems. The earlier a project team identifies interconnection challenges, title concerns, permitting gaps, ownership issues, or siting conflicts, the greater its ability to resolve those issues before they affect valuation, financing schedules, or commercial operation dates. In that sense, AI should be viewed not as a technology initiative, but as a financing and risk-management tool.
+
+### Human Expertise Remains Essential
+
+Despite rapid advances in artificial intelligence, successful renewable energy acquisitions will continue to depend on experienced professionals.
+
+AI can identify signals. People determine what those signals mean. AI can flag a permitting concern. Developers determine whether it is material. AI can identify title anomalies. Title professionals determine whether they can be cured. AI can identify interconnection risks. Engineers and financial teams determine their impact on project economics.
+
+The most successful organizations will combine advanced technology with experienced judgment rather than relying exclusively on either. The organizations that thrive in the next generation of renewable energy development and M&A will be those that combine the speed and scale of artificial intelligence with the judgment, relationships, and practical knowledge that only experienced professionals can provide. In an industry where timing, execution, and risk management determine success, that combination may become one of the most powerful competitive advantages of all.
+
+```{=html}
+<svg width="100%" viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="360" y="24" font-size="16" font-weight="600" text-anchor="middle" fill="#2c3e50">AI Screening → Human Verification</text>
+  <g font-family="sans-serif" font-size="13">
+    <rect x="40" y="60" width="280" height="160" rx="10" fill="#eaf6f8" stroke="#17a2b8"/>
+    <text x="180" y="95" text-anchor="middle" font-weight="700" fill="#146477">AI-Powered Screening</text>
+    <text x="180" y="125" text-anchor="middle" fill="#333">Interconnection queue context</text>
+    <text x="180" y="150" text-anchor="middle" fill="#333">Ownership mapping</text>
+    <text x="180" y="175" text-anchor="middle" fill="#333">Land &amp; permitting signals</text>
+    <text x="180" y="200" text-anchor="middle" fill="#333">Geospatial risk</text>
+    <rect x="400" y="60" width="280" height="160" rx="10" fill="#eafaf1" stroke="#27ae60"/>
+    <text x="540" y="95" text-anchor="middle" font-weight="700" fill="#1e8449">Human Verification</text>
+    <text x="540" y="125" text-anchor="middle" fill="#333">Title &amp; legal review</text>
+    <text x="540" y="150" text-anchor="middle" fill="#333">Engineering &amp; financial</text>
+    <text x="540" y="175" text-anchor="middle" fill="#333">judgment</text>
+    <text x="540" y="200" text-anchor="middle" fill="#333">Curative strategy</text>
+    <text x="360" y="145" font-size="22" text-anchor="middle" fill="#2c3e50">→</text>
+  </g>
+</svg>
+```
+
+Matias Sigal, CEO, REplace
+Matias Sigal is CEO and co-founder of REplace, and the iQueue platform.
