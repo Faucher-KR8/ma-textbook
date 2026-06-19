@@ -161,6 +161,30 @@ In the United States, renewable energy projects often include **tax equity inves
 
 ## Revenue Models for Electricity Projects
 
+```{=html}
+<svg width="100%" viewBox="0 0 720 200" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="360" y="22" font-size="15" font-weight="600" text-anchor="middle" fill="#2c3e50">Revenue Models for Electricity Projects</text>
+  <g font-family="sans-serif" font-size="12">
+    <rect x="30" y="50" width="200" height="120" rx="8" fill="#eaf6f8" stroke="#17a2b8"/>
+    <text x="130" y="80" text-anchor="middle" font-weight="600" fill="#146477">PPA</text>
+    <text x="130" y="105" text-anchor="middle" fill="#333">Fixed price,</text>
+    <text x="130" y="123" text-anchor="middle" fill="#333">15–25 years</text>
+    <text x="130" y="145" text-anchor="middle" fill="#1e8449" font-size="10">Highest certainty</text>
+    <rect x="260" y="50" width="200" height="120" rx="8" fill="#fef5e7" stroke="#e67e22"/>
+    <text x="360" y="80" text-anchor="middle" font-weight="600" fill="#9a5b13">Merchant</text>
+    <text x="360" y="105" text-anchor="middle" fill="#333">Wholesale market</text>
+    <text x="360" y="123" text-anchor="middle" fill="#333">sales</text>
+    <text x="360" y="145" text-anchor="middle" fill="#922b21" font-size="10">Higher volatility</text>
+    <rect x="490" y="50" width="200" height="120" rx="8" fill="#f4ecf7" stroke="#8e44ad"/>
+    <text x="590" y="80" text-anchor="middle" font-weight="600" fill="#5b2c6f">Hybrid</text>
+    <text x="590" y="105" text-anchor="middle" fill="#333">Arbitrage · Capacity</text>
+    <text x="590" y="123" text-anchor="middle" fill="#333">Ancillary services</text>
+    <text x="590" y="145" text-anchor="middle" fill="#5b2c6f" font-size="10">More complex modeling</text>
+  </g>
+</svg>
+```
+
+
 For project finance to work effectively, energy projects must generate predictable and stable revenues. This stability is often achieved through long-term contractual arrangements.
 
 **Power Purchase Agreements (PPAs):** The most common revenue structure. Under a PPA, a utility, corporation, or government entity agrees to purchase electricity from the project at a predetermined price over a fixed period, often 15–25 years. PPAs provide revenue certainty, which significantly reduces risk for lenders and investors.

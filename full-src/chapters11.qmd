@@ -26,6 +26,25 @@ Renewable energy accelerated this trend. Solar and wind projects require signifi
 
 ### 2. Understanding the Project Finance Structure
 
+```{=html}
+<svg width="100%" viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="360" y="24" font-size="15" font-weight="600" text-anchor="middle" fill="#2c3e50">Project Finance Structure — SPV at the Center</text>
+  <g font-family="sans-serif" font-size="10.5">
+    <rect x="280" y="130" width="160" height="70" rx="8" fill="#2c3e50"/>
+    <text x="360" y="160" text-anchor="middle" fill="#fff" font-weight="600">Special Purpose</text>
+    <text x="360" y="176" text-anchor="middle" fill="#fff" font-weight="600">Vehicle (SPV)</text>
+    <rect x="20" y="40" width="160" height="60" rx="8" fill="#17a2b8"/><text x="100" y="65" text-anchor="middle" fill="#fff" font-weight="600">Developer / Sponsor</text><text x="100" y="82" text-anchor="middle" fill="#fff">Equity contributor</text>
+    <rect x="20" y="230" width="160" height="60" rx="8" fill="#8e44ad"/><text x="100" y="255" text-anchor="middle" fill="#fff" font-weight="600">Lenders / Banks</text><text x="100" y="272" text-anchor="middle" fill="#fff">Senior debt</text>
+    <rect x="540" y="40" width="160" height="60" rx="8" fill="#e67e22"/><text x="620" y="65" text-anchor="middle" fill="#fff" font-weight="600">PPA Offtaker</text><text x="620" y="82" text-anchor="middle" fill="#fff">Utility / corporate buyer</text>
+    <rect x="540" y="230" width="160" height="60" rx="8" fill="#27ae60"/><text x="620" y="255" text-anchor="middle" fill="#fff" font-weight="600">EPC / O&amp;M</text><text x="620" y="272" text-anchor="middle" fill="#fff">Build &amp; operate</text>
+  </g>
+  <g stroke="#2c3e50" stroke-width="1.5" fill="none">
+    <path d="M180,70 L280,150"/><path d="M180,260 L280,180"/><path d="M540,70 L440,150"/><path d="M540,260 L440,180"/>
+  </g>
+</svg>
+```
+
+
 At the heart of project finance is a special purpose vehicle (SPV), a legally independent entity created solely to develop, own, and operate the project. This entity isolates financial risk from the developer's broader corporate activities. The SPV enters a network of contracts that govern the development and operation of the project. These agreements often include:
 
 - Power purchase agreements (PPAs)
@@ -66,6 +85,30 @@ Debt is repaid over time through operating revenues, typically under strict repa
 In the United States, renewable energy projects often include tax equity investors, who contribute capital in exchange for federal tax incentives such as investment tax credits (ITCs) or production tax credits (PTCs). These structures allow projects to monetize tax benefits that developers might otherwise be unable to fully use. Tax equity financing has become a defining feature of renewable energy development, particularly for solar and wind projects.
 
 ### Revenue Models for Electricity Projects
+
+```{=html}
+<svg width="100%" viewBox="0 0 720 200" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="360" y="22" font-size="15" font-weight="600" text-anchor="middle" fill="#2c3e50">Revenue Models for Electricity Projects</text>
+  <g font-family="sans-serif" font-size="12">
+    <rect x="30" y="50" width="200" height="120" rx="8" fill="#eaf6f8" stroke="#17a2b8"/>
+    <text x="130" y="80" text-anchor="middle" font-weight="600" fill="#146477">PPA</text>
+    <text x="130" y="105" text-anchor="middle" fill="#333">Fixed price,</text>
+    <text x="130" y="123" text-anchor="middle" fill="#333">15–25 years</text>
+    <text x="130" y="145" text-anchor="middle" fill="#1e8449" font-size="10">Highest certainty</text>
+    <rect x="260" y="50" width="200" height="120" rx="8" fill="#fef5e7" stroke="#e67e22"/>
+    <text x="360" y="80" text-anchor="middle" font-weight="600" fill="#9a5b13">Merchant</text>
+    <text x="360" y="105" text-anchor="middle" fill="#333">Wholesale market</text>
+    <text x="360" y="123" text-anchor="middle" fill="#333">sales</text>
+    <text x="360" y="145" text-anchor="middle" fill="#922b21" font-size="10">Higher volatility</text>
+    <rect x="490" y="50" width="200" height="120" rx="8" fill="#f4ecf7" stroke="#8e44ad"/>
+    <text x="590" y="80" text-anchor="middle" font-weight="600" fill="#5b2c6f">Hybrid</text>
+    <text x="590" y="105" text-anchor="middle" fill="#333">Arbitrage · Capacity</text>
+    <text x="590" y="123" text-anchor="middle" fill="#333">Ancillary services</text>
+    <text x="590" y="145" text-anchor="middle" fill="#5b2c6f" font-size="10">More complex modeling</text>
+  </g>
+</svg>
+```
+
 
 For project finance to work effectively, energy projects must generate predictable and stable revenues. This stability is often achieved through long-term contractual arrangements.
 

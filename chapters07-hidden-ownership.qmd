@@ -20,9 +20,46 @@ It is critical to look beyond the deed — confirm signatory authority and ident
 
 ## Life Estates
 
+```{=html}
+<svg width="100%" viewBox="0 0 720 160" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <defs><marker id="arrow7" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#2c3e50" stroke-width="1.5"/></marker></defs>
+  <text x="360" y="22" font-size="15" font-weight="600" text-anchor="middle" fill="#2c3e50">Life Estate: Two Interests, One Property</text>
+  <g font-family="sans-serif" font-size="12">
+    <rect x="60" y="55" width="240" height="80" rx="8" fill="#f4ecf7" stroke="#8e44ad"/>
+    <text x="180" y="85" text-anchor="middle" font-weight="600" fill="#5b2c6f">Life Tenant</text>
+    <text x="180" y="107" text-anchor="middle" fill="#333">Possesses &amp; uses property</text>
+    <text x="180" y="123" text-anchor="middle" fill="#333">for their lifetime</text>
+    <rect x="420" y="55" width="240" height="80" rx="8" fill="#eafaf1" stroke="#27ae60"/>
+    <text x="540" y="85" text-anchor="middle" font-weight="600" fill="#1e8449">Remainderman</text>
+    <text x="540" y="107" text-anchor="middle" fill="#333">Receives full ownership</text>
+    <text x="540" y="123" text-anchor="middle" fill="#333">upon tenant's death</text>
+  </g>
+  <g stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrow7)"><path d="M300,95 L420,95"/></g>
+  <text x="360" y="90" text-anchor="middle" fill="#555" font-size="10">at death</text>
+</svg>
+```
+
+
 A life estate is a legal ownership interest lasting for the duration of the "life tenant's" life, dividing ownership into two interests: the right to possess and use the property during the tenant's lifetime, and the right to receive the property after death (the "remainderman"). The life tenant cannot leave the property to heirs — their interest ends automatically at death. For example, a deed reading "To John Doe for life, then to Jane Doe" gives John a life estate; upon his death, Jane automatically receives full ownership. The life tenant's consent is required for any lease or agreement affecting their interest, so their signature must be on all related agreements.
 
 ## Trusts & Estates
+
+```{=html}
+<svg width="100%" viewBox="0 0 720 180" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <defs><marker id="arrow7b" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#2c3e50" stroke-width="1.5"/></marker></defs>
+  <text x="360" y="22" font-size="15" font-weight="600" text-anchor="middle" fill="#2c3e50">Trust Structure: Three Stakeholders</text>
+  <g font-family="sans-serif" font-size="12">
+    <rect x="20" y="60" width="160" height="70" rx="8" fill="#2c3e50"/><text x="100" y="100" text-anchor="middle" fill="#fff">Grantor</text>
+    <rect x="280" y="60" width="160" height="70" rx="8" fill="#17a2b8"/><text x="360" y="92" text-anchor="middle" fill="#fff">Trust</text><text x="360" y="110" text-anchor="middle" fill="#cfd8dc" font-size="9">managed by Trustee</text>
+    <rect x="540" y="60" width="160" height="70" rx="8" fill="#27ae60"/><text x="620" y="100" text-anchor="middle" fill="#fff">Beneficiary</text>
+  </g>
+  <g stroke="#2c3e50" stroke-width="2" fill="none" marker-end="url(#arrow7b)">
+    <path d="M180,95 L280,95"/><path d="M440,95 L540,95"/>
+  </g>
+  <text x="360" y="160" text-anchor="middle" fill="#555" font-size="11">Trustee must verify authority &amp; terms before signing any agreement</text>
+</svg>
+```
+
 
 A trust is a legal arrangement to manage and distribute assets, moving ownership from the original owner to the trust. Three stakeholders are typically involved: the **grantor** (who places assets into the trust), the **trustee** (who manages the assets for the beneficiaries' benefit), and the **beneficiary** (who receives the assets once trust conditions are met). Trusts may be **revocable** (changeable by the grantor while alive) or **irrevocable** (difficult or impossible to change once established). Establishing a trust allows the grantor and beneficiaries to avoid probate, which can cause major delays because all heirs must sign documents related to transactions. Trust property requires trustee action and verification of both their authority and the trust's terms.
 
