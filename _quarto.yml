@@ -17,14 +17,15 @@ book:
     - chapters02-land-control.qmd
     - chapters03-ownership.qmd
     - chapters04-mineral-rights.qmd
-    - chapters05-environmental.qmd
-    - chapters06-regulatory.qmd
-    - chapters07-valuation.qmd
-    - chapters08-deal-structure.qmd
-    - chapters09-post-close.qmd
-    - chapters10-team.qmd
+    - chapters05-due-diligence.qmd
+    - chapters06-environmental.qmd
+    - chapters07-hidden-ownership.qmd
+    - chapters08-collaboration.qmd
+    - chapters09-valuation.qmd
+    - chapters10-inheriting.qmd
     - chapters11-project-finance.qmd
     - chapters12-ai-risk.qmd
+    - chapters13-nature-based.qmd
     - appendix.qmd
 
 format:

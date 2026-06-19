@@ -1,178 +1,111 @@
 # Chapter 12: AI — The New Frontier in Risk Modeling & Scenario Analysis
 
+As renewable energy markets continue to mature, acquisition teams will increasingly compete on their ability to process information, evaluate risk, and make decisions quickly. The firms that succeed will be those that can identify the most buildable, financeable, and executable opportunities before their competitors.
+
+Artificial intelligence is becoming a powerful tool in that process — enabling faster screening, earlier risk identification, and more informed decision-making. Combined with rigorous diligence, strong title practices, effective risk management, and experienced professionals, AI has the potential to significantly improve acquisition outcomes and reduce transaction risk across the renewable energy industry.
+
 ::: {.callout-note}
-**Editor's Note:** This chapter is currently being developed. Final content, case studies, and thought leader contributions will be provided by the author team. The framework and section headings below outline the intended chapter structure.
+AI-powered intelligence helps identify project risks earlier, compares opportunities faster, and helps focus serious diligence on the projects most likely to move forward. Subject-matter expertise and experienced judgment still determine what gets done with those signals.
 :::
 
----
+## AI Is Accelerating the Race for Buildable Projects
 
-## Overview
+Speed matters because competition for buildable renewable projects is intensifying. Electricity demand is rising, driven in part by the growth of data centers and AI infrastructure — technology companies including Google, Microsoft, and Meta have committed to multi-gigawatt renewable energy agreements, adding further pressure to an already competitive market.
 
-Artificial intelligence and machine learning are beginning to reshape how renewable energy developers, investors, and lenders assess, model, and mitigate transaction risk. From automated title document review to predictive permitting risk scoring and real-time portfolio monitoring, AI tools are creating new capabilities that compress timelines, surface hidden risks, and improve decision-making across the M&A lifecycle.
+Policy pressure compounds that urgency. Recent changes to wind and solar tax credit rules mean buyers can no longer rely on a project simply looking promising on paper — they need stronger evidence it can realistically move into construction within required timelines, and ownership and supply chain exposure need to be understood earlier rather than left to late-stage diligence. The result is a faster, more selective market in which buyers evaluate projects not just on availability or headline capacity, but on whether they can survive diligence, qualify for incentives, attract financing, and move into construction within compressed timelines.
 
-This chapter explores the frontier of AI-enabled risk modeling in renewable energy M&A — where the tools are today, where they are headed, and what practitioners need to understand to use them effectively without over-relying on them.
+## M&A Risk Often Surfaces Too Late
 
----
+Only a small share of projects in U.S. interconnection queues ultimately reach commercial operation. Development challenges — hidden land issues, title complexity, permitting gaps, interconnection delays, network upgrade exposure, unclear ownership structures — have not historically been visible at the point of origination, emerging only after acquisition teams have already invested time, capital, and attention. Relevant diligence data is fragmented across ISO portals, county records, environmental databases, parcel records, and developer documents — by the time risks surface through conventional diligence, teams may have spent weeks and significant budget evaluating a project that should have been deprioritized earlier.
 
-## Planned Section Outline
+## What AI Can See Earlier
 
-### 1. AI Applications in Renewable Energy Due Diligence
-
-*Content to be developed. Key topics will include:*
-
-- Natural language processing (NLP) for automated review of leases, title commitments, and permits
-- Machine learning models for identifying mineral rights risk patterns across large land portfolios
-- AI-assisted environmental screening using satellite imagery and GIS data
-- Document classification and gap identification in data rooms
-
-### 2. Predictive Risk Scoring
-
-*Content to be developed. Key topics will include:*
-
-- Permitting risk scoring based on historical project data, county-level opposition patterns, and regulatory timelines
-- Counterparty credit risk modeling for PPA offtakers and O&M contractors
-- Interconnection queue risk prediction based on utility queue data and historical withdrawal patterns
-- Community opposition risk indicators derived from social media, public meeting records, and demographics
-
-### 3. Scenario Analysis and Portfolio Optimization
-
-*Content to be developed. Key topics will include:*
-
-- Monte Carlo simulation for P50/P90 production variability
-- Policy scenario modeling (ITC/PTC phase-down, beginning-of-construction rule changes)
-- Portfolio-level COD risk aggregation and mitigation prioritization
-- AI-assisted valuation sensitivity analysis
-
-### 4. Real-Time Portfolio Monitoring
-
-*Content to be developed. Key topics will include:*
-
-- SCADA data integration with AI anomaly detection for operating project portfolios
-- Predictive maintenance modeling to reduce O&M costs and improve availability
-- Automated lender covenant compliance monitoring
-- Curtailment pattern analysis and grid behavior forecasting
-
-### 5. Limitations and Risks of AI in M&A
-
-*Content to be developed. Key topics will include:*
-
-- Garbage in, garbage out: AI models are only as good as their training data
-- Bias in historical datasets and its effect on risk predictions
-- Regulatory and liability considerations for AI-assisted due diligence
-- The irreplaceable role of human judgment in complex, high-stakes transactions
-- Cybersecurity risks in AI-integrated project management systems
-
-### 6. Case Studies and Thought Leader Perspectives
-
-*Content to be developed. Contributions TBD.*
-
-*[Placeholder for case studies and expert commentary to be provided by the author team.]*
-
----
-
-## Key Questions This Chapter Will Answer
-
-1. What AI tools are currently being used in renewable energy M&A due diligence, and what are their limitations?
-2. How can predictive risk scoring improve pipeline prioritization and resource allocation in fast-moving deal environments?
-3. What is the appropriate role of AI in scenario analysis versus the irreplaceable judgment of experienced practitioners?
-4. How should developers, lenders, and investors evaluate AI-generated risk outputs in the context of high-stakes renewable energy transactions?
-5. What cybersecurity and data governance practices should govern AI tool adoption in M&A workflows?
-
----
-
-## Placeholder Diagram: AI in the M&A Lifecycle
+What has changed is the ability to read records systematically across thousands of projects before committing to full diligence. This does not come from asking a general-purpose LLM to review a project — it requires purpose-built intelligence systems combining document intelligence, proprietary algorithms, geospatial analysis, data validation, and domain expertise, ingesting highly variable project documents and connecting them to interconnection queue, land, permitting, regulatory, ownership, and location context.
 
 ```{=html}
-<svg width="100%" viewBox="0 0 820 400" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
-  <text x="410" y="28" font-size="17" font-weight="500" text-anchor="middle" fill="#2c3e50">AI Applications Across the M&amp;A Lifecycle</text>
+<svg width="100%" viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="360" y="26" font-size="17" font-weight="600" text-anchor="middle" fill="#2c3e50">AI-Powered Screening Signals</text>
+  <g font-family="sans-serif" font-size="12">
+    <rect x="30" y="55" width="320" height="80" rx="8" fill="#eaf6f8" stroke="#17a2b8"/>
+    <text x="190" y="80" text-anchor="middle" font-weight="600" fill="#146477">Interconnection Queue Context</text>
+    <text x="190" y="100" text-anchor="middle" fill="#333">Queue duration, study stage, ATC,</text>
+    <text x="190" y="118" text-anchor="middle" fill="#333">substation capacity, cost signals</text>
 
-  <!-- Phase labels -->
-  <rect x="30" y="55" width="140" height="50" rx="6" fill="#2980b9" opacity="0.85"/>
-  <text x="100" y="76" font-size="11" font-weight="600" text-anchor="middle" fill="white">Origination</text>
-  <text x="100" y="92" font-size="10" text-anchor="middle" fill="white">&amp; Screening</text>
+    <rect x="370" y="55" width="320" height="80" rx="8" fill="#fef5e7" stroke="#e67e22"/>
+    <text x="530" y="80" text-anchor="middle" font-weight="600" fill="#9a5b13">Developer &amp; Ownership</text>
+    <text x="530" y="100" text-anchor="middle" fill="#333">Entity mapping, parent companies,</text>
+    <text x="530" y="118" text-anchor="middle" fill="#333">portfolios, transaction history</text>
 
-  <rect x="190" y="55" width="140" height="50" rx="6" fill="#8e44ad" opacity="0.85"/>
-  <text x="260" y="76" font-size="11" font-weight="600" text-anchor="middle" fill="white">Due</text>
-  <text x="260" y="92" font-size="10" text-anchor="middle" fill="white">Diligence</text>
+    <rect x="30" y="155" width="320" height="80" rx="8" fill="#f4ecf7" stroke="#8e44ad"/>
+    <text x="190" y="180" text-anchor="middle" font-weight="600" fill="#5b2c6f">Land &amp; Permitting</text>
+    <text x="190" y="200" text-anchor="middle" fill="#333">Zoning ordinances, moratoria,</text>
+    <text x="190" y="218" text-anchor="middle" fill="#333">county notes, parcel records</text>
 
-  <rect x="350" y="55" width="140" height="50" rx="6" fill="#27ae60" opacity="0.85"/>
-  <text x="420" y="76" font-size="11" font-weight="600" text-anchor="middle" fill="white">Valuation &amp;</text>
-  <text x="420" y="92" font-size="10" text-anchor="middle" fill="white">Structuring</text>
+    <rect x="370" y="155" width="320" height="80" rx="8" fill="#eafaf1" stroke="#27ae60"/>
+    <text x="530" y="180" text-anchor="middle" font-weight="600" fill="#1e8449">Geospatial Risk</text>
+    <text x="530" y="200" text-anchor="middle" fill="#333">Environmental constraints, slope,</text>
+    <text x="530" y="218" text-anchor="middle" fill="#333">wetlands, grid &amp; transmission proximity</text>
 
-  <rect x="510" y="55" width="140" height="50" rx="6" fill="#e67e22" opacity="0.85"/>
-  <text x="580" y="76" font-size="11" font-weight="600" text-anchor="middle" fill="white">Closing &amp;</text>
-  <text x="580" y="92" font-size="10" text-anchor="middle" fill="white">Integration</text>
-
-  <rect x="670" y="55" width="120" height="50" rx="6" fill="#c0392b" opacity="0.85"/>
-  <text x="730" y="76" font-size="11" font-weight="600" text-anchor="middle" fill="white">Portfolio</text>
-  <text x="730" y="92" font-size="10" text-anchor="middle" fill="white">Operations</text>
-
-  <!-- AI use cases per phase -->
-  <rect x="30" y="125" width="140" height="220" rx="6" fill="#2980b9" opacity="0.07" stroke="#2980b9" stroke-width="1"/>
-  <text x="100" y="148" font-size="10" text-anchor="middle" fill="#2980b9" font-weight="600">AI Applications</text>
-  <text x="100" y="168" font-size="9" text-anchor="middle" fill="#333">Risk scoring</text>
-  <text x="100" y="185" font-size="9" text-anchor="middle" fill="#333">Site screening</text>
-  <text x="100" y="202" font-size="9" text-anchor="middle" fill="#333">Pipeline</text>
-  <text x="100" y="216" font-size="9" text-anchor="middle" fill="#333">prioritization</text>
-  <text x="100" y="233" font-size="9" text-anchor="middle" fill="#333">Opposition</text>
-  <text x="100" y="247" font-size="9" text-anchor="middle" fill="#333">signal detection</text>
-
-  <rect x="190" y="125" width="140" height="220" rx="6" fill="#8e44ad" opacity="0.07" stroke="#8e44ad" stroke-width="1"/>
-  <text x="260" y="148" font-size="10" text-anchor="middle" fill="#8e44ad" font-weight="600">AI Applications</text>
-  <text x="260" y="168" font-size="9" text-anchor="middle" fill="#333">NLP lease review</text>
-  <text x="260" y="185" font-size="9" text-anchor="middle" fill="#333">Title gap flagging</text>
-  <text x="260" y="202" font-size="9" text-anchor="middle" fill="#333">Mineral risk ID</text>
-  <text x="260" y="219" font-size="9" text-anchor="middle" fill="#333">Permit timeline</text>
-  <text x="260" y="233" font-size="9" text-anchor="middle" fill="#333">prediction</text>
-  <text x="260" y="250" font-size="9" text-anchor="middle" fill="#333">Satellite ESA</text>
-
-  <rect x="350" y="125" width="140" height="220" rx="6" fill="#27ae60" opacity="0.07" stroke="#27ae60" stroke-width="1"/>
-  <text x="420" y="148" font-size="10" text-anchor="middle" fill="#27ae60" font-weight="600">AI Applications</text>
-  <text x="420" y="168" font-size="9" text-anchor="middle" fill="#333">Monte Carlo</text>
-  <text x="420" y="182" font-size="9" text-anchor="middle" fill="#333">simulation</text>
-  <text x="420" y="199" font-size="9" text-anchor="middle" fill="#333">Policy scenario</text>
-  <text x="420" y="213" font-size="9" text-anchor="middle" fill="#333">modeling</text>
-  <text x="420" y="230" font-size="9" text-anchor="middle" fill="#333">Sensitivity</text>
-  <text x="420" y="244" font-size="9" text-anchor="middle" fill="#333">analysis</text>
-  <text x="420" y="261" font-size="9" text-anchor="middle" fill="#333">COD risk scoring</text>
-
-  <rect x="510" y="125" width="140" height="220" rx="6" fill="#e67e22" opacity="0.07" stroke="#e67e22" stroke-width="1"/>
-  <text x="580" y="148" font-size="10" text-anchor="middle" fill="#e67e22" font-weight="600">AI Applications</text>
-  <text x="580" y="168" font-size="9" text-anchor="middle" fill="#333">Checklist</text>
-  <text x="580" y="182" font-size="9" text-anchor="middle" fill="#333">automation</text>
-  <text x="580" y="199" font-size="9" text-anchor="middle" fill="#333">Contract</text>
-  <text x="580" y="213" font-size="9" text-anchor="middle" fill="#333">comparison</text>
-  <text x="580" y="230" font-size="9" text-anchor="middle" fill="#333">Consent tracking</text>
-  <text x="580" y="247" font-size="9" text-anchor="middle" fill="#333">Data room</text>
-  <text x="580" y="261" font-size="9" text-anchor="middle" fill="#333">QA/QC</text>
-
-  <rect x="670" y="125" width="120" height="220" rx="6" fill="#c0392b" opacity="0.07" stroke="#c0392b" stroke-width="1"/>
-  <text x="730" y="148" font-size="10" text-anchor="middle" fill="#c0392b" font-weight="600">AI Applications</text>
-  <text x="730" y="168" font-size="9" text-anchor="middle" fill="#333">SCADA anomaly</text>
-  <text x="730" y="182" font-size="9" text-anchor="middle" fill="#333">detection</text>
-  <text x="730" y="199" font-size="9" text-anchor="middle" fill="#333">Predictive</text>
-  <text x="730" y="213" font-size="9" text-anchor="middle" fill="#333">maintenance</text>
-  <text x="730" y="230" font-size="9" text-anchor="middle" fill="#333">Covenant</text>
-  <text x="730" y="244" font-size="9" text-anchor="middle" fill="#333">monitoring</text>
-  <text x="730" y="261" font-size="9" text-anchor="middle" fill="#333">Curtailment AI</text>
-
-  <!-- Bottom note -->
-  <rect x="30" y="358" width="760" height="30" rx="6" fill="#ecf0f1"/>
-  <text x="410" y="377" font-size="10" text-anchor="middle" fill="#555">Note: AI augments — but does not replace — experienced practitioner judgment in high-stakes renewable energy transactions.</text>
+    <rect x="180" y="270" width="360" height="70" rx="10" fill="#2c3e50"/>
+    <text x="360" y="298" text-anchor="middle" fill="#fff" font-weight="700">Structured, Comparable Intelligence</text>
+    <text x="360" y="320" text-anchor="middle" fill="#cfd8dc">across thousands of projects, in minutes</text>
+  </g>
+  <g stroke="#2c3e50" stroke-width="1.3" fill="none">
+    <path d="M190,135 L300,270"/>
+    <path d="M530,135 L420,270"/>
+    <path d="M190,235 L300,270"/>
+    <path d="M530,235 L420,270"/>
+  </g>
 </svg>
 ```
 
----
+The value is the ability to turn fragmented project information into structured, comparable intelligence — acquisition teams can see which projects stand out, where evidence is incomplete, and which risks deserve closer investigation before committing to formal diligence.
 
-## Coming in the Final Chapter
+## What AI-Powered Screening Looks Like in Practice
 
-The completed version of this chapter will include:
+REplace's **iQueue** platform aggregates project information across the U.S. interconnection queue and updates it weekly; new interconnection studies are processed within hours. The platform ingests and interprets thousands of highly variable structured and unstructured project documents — interconnection studies, cluster reports, and regulatory filings never designed to be analyzed systematically — producing more than 50 geospatial parameters per project for rapid assessment, alongside interconnection cost signals, COD estimates, ownership information, and permitting visibility. AI enables the shift from highly manual project-by-project research to **market-scale screening**.
 
-- **Real-world case studies** demonstrating AI-assisted risk identification in renewable energy M&A transactions
-- **Practitioner perspectives** from technology leaders, developers, and investors actively deploying AI tools
-- **A framework for evaluating AI vendor claims** and integrating AI outputs into traditional due diligence workflows
-- **Risk governance guidance** for firms adopting AI in high-stakes transaction environments
+## From AI Screening to Practical Verification
 
-*[Content to be finalized by the author team. Thought leader contributions and case studies to be provided separately.]*
+AI-powered screening is strongest at the start of the acquisition process. Once a project advances, the work shifts from signal detection to deeper project-level verification — confirming whether interconnection assumptions hold, whether land rights are clean, whether permits can realistically be secured, whether environmental issues create material delays, and whether the financial case still works. **The best workflow is AI-powered intelligence first, followed by focused practical verification.**
 
----
+::: {.callout-important}
+**AI Does Not Replace Due Diligence — It Improves It**
+
+A common misconception is that artificial intelligence will replace traditional due diligence. Its greatest value is helping teams prioritize diligence more effectively. Experienced developers, title professionals, engineers, environmental consultants, legal counsel, lenders, and tax equity investors remain essential to project evaluation. AI does not replace expertise — it helps acquisition teams focus their expertise on the projects most likely to succeed.
+:::
+
+## The Cost of Discovering Risk Too Late
+
+Many renewable energy transactions encounter problems not because risks were unknowable, but because they were discovered too late. Title defects, mineral-rights conflicts, permitting obstacles, interconnection delays, land-use restrictions, environmental constraints, and ownership complications often emerge only after substantial diligence expenditures have already occurred. AI-powered systems can help consolidate and analyze dispersed information — interconnection queues, county records, permitting agencies, environmental databases, title records, developer documentation — much earlier in the acquisition process.
+
+## AI as a Risk-Mitigation Tool
+
+The greatest value of artificial intelligence in renewable energy M&A is risk mitigation. AI-powered platforms can identify patterns and relationships across thousands of projects that would be difficult to evaluate manually, highlighting potential concerns involving zoning restrictions, moratoriums, local opposition, permit requirements, and parcel-specific constraints — letting acquisition teams focus diligence resources where they create the greatest value.
+
+## AI and Bankability
+
+Bankability depends on risk reduction. Lenders, tax equity investors, title insurers, and institutional investors ultimately seek confidence that a project can be constructed and operated successfully. AI contributes to that objective by helping acquisition teams uncover potential obstacles before they become financing problems. The earlier a project team identifies interconnection challenges, title concerns, permitting gaps, ownership issues, or siting conflicts, the greater its ability to resolve those issues before they affect valuation, financing schedules, or commercial operation dates. **AI should be viewed not as a technology initiative, but as a financing and risk-management tool.**
+
+## Human Expertise Remains Essential
+
+Despite rapid advances in artificial intelligence, successful renewable energy acquisitions will continue to depend on experienced professionals. AI can identify signals; people determine what those signals mean. AI can flag a permitting concern; developers determine whether it is material. AI can identify title anomalies; title professionals determine whether they can be cured. AI can identify interconnection risks; engineers and financial teams determine their impact on project economics.
+
+The most successful organizations will combine advanced technology with experienced judgment rather than relying exclusively on either. In an industry where timing, execution, and risk management determine success, that combination may become one of the most powerful competitive advantages of all.
+
+## Key Takeaways
+
+- AI's primary value in renewable M&A is earlier, market-scale screening — not replacement of human diligence.
+- Purpose-built intelligence platforms (like REplace's iQueue) ingest fragmented, unstructured documents and convert them into structured, comparable signals across thousands of projects.
+- Workflow should be AI-powered screening first, followed by focused, expert-led practical verification.
+- AI directly supports bankability by surfacing interconnection, title, permitting, and ownership risk earlier in the process — before it becomes a financing problem.
+- Human judgment remains essential at every step: AI flags signals, but experienced professionals determine what those signals mean and how to resolve them.
+
+## Discussion Questions
+
+1. Why is a general-purpose LLM insufficient for the kind of project screening described in this chapter?
+2. How does earlier risk detection change the economics of a 60-day due diligence window discussed in Chapter 5?
+3. What is the right division of labor between an AI screening platform and a human diligence team?
+
+*Matias Sigal is CEO and co-founder of REplace, and the iQueue platform.*
+
