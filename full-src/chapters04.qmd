@@ -1,0 +1,379 @@
+# Chapter Four
+
+*You can't control the sun or the wind, but you can control your mineral risk.*
+
+## Unseen Challenges - Navigating Mineral Rights
+
+When acquiring land, it is important to understand that there are surface rights and there are severed rights; rights that are separate from surface ownership. Mineral rights refer to ownership of underground minerals. Subsurface severances refer to minerals or the subsurface estate that is legally separated from the surface estate. Because mineral rights laws vary significantly by jurisdiction, developers should consult qualified legal counsel and title professionals regarding project-specific risks and compliance obligations.
+
+In many states, mineral rights can be separated from surface rights, allowing different owners for underground resources and the land above. The mineral owner typically has the dominant estate, which means that they have the right to access the surface to extract minerals.
+
+### Tribal Mineral Rights Complexity
+
+On tribal lands the federal government may own the subsurface estate, while private individuals or tribes own the surface. This is typically set for a fixed term, after which mineral rights return to the surface owner. This is also called term mineral interests. This is most common in Texas and other U.S. states with complex oil and gas laws.
+
+Mineral rights on tribal lands may also involve separate federal oversight, or distinct tribal governance requirements. Surface and subsurface rights are not always aligned, and additional approvals may be required before development can proceed. These complexities can materially affect title insurability, financing certainty, and project timelines.
+
+Developers should approach tribal projects as long-term government-to-government relationships rather than conventional land acquisitions. Successful projects depend as much on trust, transparency, and cultural understanding as they do on contractual structure and financing execution.
+
+### From Severance to Curative: Why Mineral Rights Demand Specialized Due Diligence
+
+When minerals are severed from the surface estate, the property instantly has two chains of title: one for the surface and one for the subsurface. While the surface chain can usually be reviewed by a title company, the subsurface requires a specialized search – known as a Mineral Ownership Report (MOR).
+
+Unlike a standard title commitment, an MOR often traces ownership back to the 1800s. This complexity stems from heirs inheriting rights they may not know exist, forgotten leases, or rights never exercised until energy prices made them valuable. As a result, developers can encounter "breaks" in the chain, where ownership is unclear or fragmented across generations. For M&A due diligence, the implications are profound:
+
+- **Time** – These searches can take months, making early detection critical.
+- **Cost** – Curative work to resolve gaps, probate issues, or missing heirs can run high.
+- **Insurability** – Subsurface rights must be affirmatively insured just like surface rights, or deals risk collapse at closing.
+
+In some cases, prior production or exploration activity helps, since oil and gas companies may have already conducted ownership research. But where no production exists, developers must brace for lengthy investigations.
+
+::: {.callout-important}
+**Key M&A Takeaway:** If a potential severance is flagged, order MORs immediately. Ignoring subsurface rights until late in the deal often results in closing delays, renegotiations, or failed transactions.
+:::
+
+### Implications for Renewable Energy Projects
+
+- **Surface Disruption:** Holders of mineral rights are typically entitled to access and utilize the land's surface for the purpose of mineral extraction.
+- **Operational Risks:** Drilling or mining operations may disrupt the functioning of renewable energy facilities.
+- **Insurance Limitations:** Title insurance policies may exclude coverage for mineral rights issues, thus increasing risk.
+
+### Operational Interference Risk
+
+Mineral risks do not disappear simply because production is inactive at the time of acquisition. Existing mineral owners may retain rights to future surface access, pipelines, drilling pads, or production infrastructure that could interfere with renewable operations years or even decades after project construction.
+
+Legal complexities differ substantially from one state to another, presenting distinct challenges depending on the jurisdiction. These rights can significantly impact land development.
+
+### Mineral Rights and Government Reservations
+
+The significance of mineral rights is evident when we consider projects such as solar installations, where costly equipment is placed directly on the land's surface.
+
+It is essential to be aware that the government reserves mineral rights on land grant deeds west of the Mississippi, often superseding private ownership.
+
+**Implications for Developers**
+
+To protect your development interests, delve into the specifics of land deeds and government reservations, as these can significantly influence land use and access rights.
+
+### Mineral Rights and Extractions
+
+While the U.S. government possesses the right to extract minerals from private lands, it rarely exercises this right. Mineral resources are broadly categorized into oil, gas, and coal, each with its own legal rights and associated risks. It's also vital to understand the difference between shallow and deep rights in a vertical well, as the resources accessible at different depths can vary significantly.
+
+**Implications for Developers**
+
+Developers must have a profound understanding of the specific mineral categories in their project areas, as well as the associated rights and risks. Detailed knowledge of well depths is crucial when planning projects.
+
+### Mineral Rights and Regulations
+
+There may be questions regarding the federal government's authority over mineral rights in Western states. While the answers vary, it's clear that private entities can lease these rights without requiring government approval. The potential for conflicts arises when sourcing minerals in areas where others are already engaged in mineral extraction, known as "fracking." Obtaining the necessary rights through deeds or leases is crucial for any mining project.
+
+**Implications for Developers**
+
+To avoid disputes and legal entanglements, developers must navigate the legal and regulatory framework surrounding mineral rights, including royalty interests and ancillary interests that may impact the project.
+
+### Mineral Rights' Impact on Land Development
+
+Mineral rights holders have the unique ability to access the entire property without permission, including for oil and gas exploration, which can significantly affect surface land use. Developers must acknowledge the complexity of federal issues in the energy sector, especially in solar and wind projects. It is imperative to assess the specific risks associated with each project, including the value of high-tech equipment and potential surface subsidence.
+
+**Implications for Developers**
+
+A comprehensive evaluation of the effects of mineral rights on land development is essential, with an emphasis on anticipating and mitigating potential challenges and risks.
+
+### Mineral Rights, Ownership, and Valuation
+
+Texas takes a distinctive approach to mineral rights ownership, setting aside areas for drilling pads and compelling mineral companies to consent. Original land grants from Spain and England have a lasting impact on property rights, particularly in southern Colorado.
+
+Determining the value of mineral rights is a complex process that involves multiple stakeholders, including title companies, oil and gas engineers, and outside counsel. This process necessitates the examination of mineral reports, lease validation, and expert opinions. Importantly, the value of mineral rights is state-specific and not regulated by the federal government. State-specific considerations include:
+
+**Private Ownership States**
+
+- Texas, Oklahoma, Pennsylvania, North Dakota: Minerals dominant over surface.
+
+**Government Retention States**
+
+- Colorado, New Mexico, Nevada, Arizona: Bureau of Land Management oversight, disclosure states.
+- Texas, Colorado, Montana, California: Mineral reservation disclosure laws.
+
+**Dormant Rights States**
+
+- Ohio, North Dakota, Indiana, Michigan, Pennsylvania: Dormant mineral reversion laws.
+
+**Implications for Developers**
+
+To make informed decisions and navigate the complexities of mineral rights, developers should become familiar with the processes for determining their value and engage with experts to address these intricate challenges.
+
+### Identifying Mineral Rights Risks
+
+Conduct state-specific research, laws pertaining to mineral rights vary by state. States like Oklahoma and Texas have active mineral extraction industries with frequent mineral severances.
+
+- **Flag Problem Areas:** agricultural land with drilling history, recent lease activity, or corporate mineral ownership.
+- **Title Examination:** Review title commitments for exceptions related to mineral rights. Identify any recorded mineral leases, reservations, or severances for 75+ years.
+- **Landowner Engagement:** Landowners may have knowledge of mineral activities on their property. Ask about past or current mineral leases or exploration activities.
+- **Public Records Search:** Access county clerk records and state mineral registries. Consult geological surveys and energy department databases.
+
+### Why Mineral Rights Matter in Renewable Energy Development
+
+When surface and subsurface rights split, everything changes. What appears to be a straightforward title search can quickly become a multi-year puzzle involving heirs no one knew existed, deeds recorded in the 1800s, and ownership interests that do not appear in county records. For developers and investors, that can mean one thing: risk.
+
+At the core of many mineral rights issues is the concept of severance. Types of mineral severances include:
+
+- Royalty Interests (NPRI & ORRI)
+- Leasehold/Working Interests
+- Split Estates
+- Term Severances
+- Fee Simple Severances
+
+Severance occurs when the rights to minerals beneath the surface are legally separated from the surface rights themselves. From that point forward, the property no longer has a single clean chain of title. Instead, there are two separate ownership histories:
+
+- **Surface Chain of Title:** The ownership history typically identified through a standard title search conducted through county records.
+- **Subsurface Chain of Title:** A separate ownership history governing the mineral estate beneath the property.
+
+This distinction is critical because renewable energy developers are often focused on surface use, while mineral owners may retain legal rights to access and utilize the same property for extraction activities.
+
+### Why Two Chains of Title Matter
+
+Without severance, there is generally one chain of title, one ownership review, and one title commitment from the title company. With severance, developers may face:
+
+- Two separate chains of title
+- Multiple ownership interests
+- Additional title review requirements
+- Separate risk mitigation obligations
+
+This can create substantial complications, including:
+
+- Title insurance gaps
+- Financing delays
+- Access conflicts
+- Increased legal and curative costs
+
+### The Role of a Mineral Ownership Report (MOR)
+
+Mineral Ownership Reports (MORs) should be ordered early in the diligence process, particularly in jurisdictions with historical oil and gas activity or known severances. MOR preparation may require extensive historical title analysis and coordination with specialized vendors. Delayed mineral review can materially impact underwriting timelines, financing certainty, and project closing schedules.
+
+A Mineral Ownership Report (MOR) functions as a parallel title search for the subsurface estate. It traces the chain of mineral ownership, often back to the original severance deed, which in some regions may date back more than 150 years. Without an MOR, developers may not fully understand who controls the mineral estate beneath the project.
+
+### Challenges in Subsurface Ownership
+
+Mineral ownership chains are often far more difficult to trace than surface ownership due to:
+
+- Poor historical recordkeeping
+- Generational inheritance gaps
+- Gaps in the title chain
+- Off-record agreements and undocumented transfers
+
+### Production vs. Dormant Rights
+
+Not all severed mineral estates present the same level of risk. Dormant mineral rights are often harder to trace because ownership records may not have been updated for decades. These situations frequently require extensive historical research.
+
+Actively producing mineral rights may be easier to identify due to ongoing operations and recorded leases, but they often involve existing contractual obligations and active operators, creating separate negotiation challenges.
+
+### When Mineral Activity Changes the Risk Profile
+
+Not all mineral rights create the same level of risk. Understanding whether mineral rights are dormant, historically active, or currently producing can dramatically alter the due diligence strategy, financing timeline, project layout, and overall transaction risk profile.
+
+One of the most important questions developers should ask during early diligence is deceptively simple: "Has there ever been production on this property, or even an attempt to produce?" The answer frequently changes the entire trajectory of the transaction.
+
+When no production has occurred, mineral ownership is often poorly documented, fragmented across generations, or forgotten entirely. Dormant mineral estates may appear harmless because no active drilling or extraction is taking place, but dormant does not mean extinguished. In many cases, these rights remain fully enforceable despite decades of inactivity. Developers often discover that ownership records are incomplete, heirs cannot easily be located, or interests have been divided among numerous descendants through inheritance. Reconstructing those ownership chains can require extensive curative work, including probate review, heirship verification, and historical title analysis stretching back generations.
+
+Dormant mineral rights therefore create a different type of risk than active production. The challenge is uncertainty. Developers may not know who owns the rights, who has authority to execute agreements, or whether additional claims may surface later during financing or construction. Resolving those uncertainties often takes months and can materially affect transaction timelines, financing certainty, and title insurability.
+
+### Producing Mineral Rights
+
+Producing mineral rights creates an entirely different category of exposure. When minerals are actively being produced, or when active leases remain in place, ownership is often easier to trace because oil and gas operators have already conducted substantial research into the mineral estate. Existing leases, royalty payments, production records, and operator files may provide developers with a clearer picture of ownership and activity.
+
+Active production introduces operational conflicts that can directly interfere with renewable energy development. In many jurisdictions, the mineral estate is considered dominant over the surface estate, meaning mineral owners or operators may retain broad rights to access and use the surface as reasonably necessary for extraction activities. This can create substantial complications for solar arrays, wind turbine placement, battery storage infrastructure, access roads, collector systems, and transmission corridors.
+
+The degree of risk depends heavily on the type and status of production activity. Historical production from abandoned or capped wells may present lingering legal issues if leases were never formally terminated or released. Active production creates ongoing surface-use conflicts that frequently require negotiation of surface use waivers, subordination agreements, or non-disturbance arrangements. Exploration leases present another challenge because drilling may not yet have begun, but operators retain the right to initiate future activity that could disrupt project construction or operations.
+
+For developers and investors, this distinction between dormant and producing mineral estates is critical because each requires a different mitigation strategy. Dormant rights demand extensive ownership reconstruction and curative analysis. Active rights require negotiation, operational coordination, and long-term risk management.
+
+Comprehensive due diligence should therefore include a detailed review of production history, lease activity, operator records, and publicly available oil and gas databases. Developers should determine whether production ever occurred, whether leases remain active, whether surface use agreements exist, and whether any exploration activity or permit filings suggest future development interest. These findings directly influence project valuation, title underwriting, financing terms, and construction planning.
+
+Production status also plays a major role in title insurance and lender risk analysis. Title insurers often evaluate active and historical mineral activity much more closely than dormant estates because producing properties carry a greater likelihood of operational conflict. Underwriters may require recorded surface use waivers, subordinations, or additional curative measures before issuing affirmative coverage. In some cases, mineral-related risks may be excluded from coverage if adequate protection cannot be secured.
+
+### Timing Is Critical
+
+The timing of this analysis is equally important. One of the most common mistakes in renewable energy acquisitions is waiting too long to investigate production activity and mineral exposure. Mineral ownership research, negotiations with operators, and curative work can take months to complete. Projects that identify these risks early maintain far greater flexibility to redesign layouts, negotiate agreements, adjust valuation assumptions, or sequence financing accordingly.
+
+In some cases, production activity can actually accelerate the diligence process. Existing operators may already possess current ownership records, established communication channels with mineral holders, and documented surface agreements that simplify negotiations. When approached proactively, operators can sometimes become valuable partners in resolving mineral-related risks rather than obstacles to development.
+
+Ultimately, the distinction between dormant and producing mineral rights is not simply a legal technicality. It is a core transaction issue that affects project bankability, financing certainty, title insurability, construction timing, and long-term operational stability. Understanding that distinction early allows developers, lenders, and investors to approach renewable energy acquisitions with a more realistic assessment of risk and a stronger strategy for successful execution.
+
+### The Impact on Project Development
+
+Mineral rights can create three major categories of risk for renewable energy projects:
+
+- Legal Risk
+- Operational Risk
+- Financial Risk
+
+These risks can affect project layout, financing, insurability, construction timing, and long-term operations.
+
+### Blanket Approaches Fail
+
+Developers should not assume that mineral mitigation strategies are uniform across all project types or jurisdictions. Utility-scale solar, battery storage, transmission, and wind projects each present different operational risks and surface-use considerations. Effective mitigation requires a project-specific analysis that accounts for footprint, infrastructure placement, future operational flexibility, and the likelihood of mineral development activity.
+
+### Why Timing Is Critical
+
+One of the most common mistakes developers make is waiting too long to order Mineral Ownership Reports. Mineral ownership research can take months. Negotiating waivers, subordinations, or surface use agreements may take even longer. Early identification of mineral severances gives project teams more flexibility to evaluate alternatives and resolve conflicts before they threaten project timelines.
+
+Best practices include:
+
+- Flagging severances early
+- Ordering MORs quickly
+- Engaging experienced mineral rights specialists
+- Negotiating surface use waivers
+- Planning for subordination agreements
+- Building additional time into project schedules for curative work
+
+### Beyond Mineral Rights—Other Regional Risks
+
+- **Water Rights:** Especially in arid regions, water rights can be critical.
+- **Environmental Regulations:** Local environmental laws may impose additional requirements.
+- **Cultural Heritage Sites:** Presence of indigenous sites or historical landmarks can restrict development.
+
+### Mitigation Strategies
+
+- **Early Due Diligence:** Screen land early, conduct thorough title review and mineral risk checks.
+- Order a Mineral Ownership Report (MOR). Identify any active leases or recorded permits. Review public records for existing oil/gas leases. Investigate nearby permit filings.
+- **Review Site Geology:** Assess the likelihood of future mineral development.
+- **Obtain Surface Use Waivers:** Agreements from mineral rights holders not to disturb the surface.
+- **Secure Subordination Agreements:** Mineral rights owners agree that their interests are subordinate to the project's interests.
+- **Adjust Project Design:** Avoid areas with significant mineral rights activity.
+
+### Real-World Example
+
+A solar project in Texas was delayed when oil drilling commenced on the site. This was due to pre-existing mineral rights that were not identified during due diligence. The developer ultimately entered negotiations with the mineral rights owner, this resulted in a complete project redesign, significant delays and increased costs.
+
+### Title Insurance and Risk Management
+
+Mineral rights are not simply a land management issue. They directly impact project finance and long-term bankability. Lenders, tax equity investors, and future acquirers increasingly require developers to identify and mitigate mineral risks before financing can proceed. Title insurance plays a crucial role in protecting developers and lenders from issues that could negatively affect their interests. Standard title insurance policies frequently exclude mineral-related risks unless specialized endorsements or a separate mineral ownership analysis is obtained.
+
+Some developers may mistakenly believe that a lack of mineral value equates to no risk in mineral rights. However, this is far from the truth. The risk of others claiming valuable minerals is a real concern. It's important to thoroughly research surface waiver agreements and engage specialized title companies to prepare mineral ownership reports that can de-risk minerals for title insurance.
+
+### Mineral Rights are a Bankability Trigger
+
+Mineral rights are not simply a title issue; they are a bankability issue. Lenders, tax equity investors, and future acquirers increasingly require developers to identify and mitigate mineral risks before financing can proceed. Standard title insurance policies often exclude mineral-related risks unless specialized endorsements, curative actions, or separate mineral ownership analysis are obtained. Even projects financed on balance sheet may face future transaction challenges if mineral exposure remains unresolved.
+
+**Implications for Developers**
+
+Understanding the nuances of title insurance is essential. Developers must secure comprehensive coverage, consider endorsements to cover mineral rights, and be prepared for the possibility of coverage denials based on property owners' legal rights. Collaborate with specialized title companies that can provide comprehensive mineral rights reports.
+
+### Surface Waivers for Solar Projects
+
+Obtaining surface waivers for mineral rights can be challenging due to the high threshold for signing and the potential need for monetary compensation. Historical severances of mineral rights, predating modern technology, can complicate surface area access.
+
+**Implications for Developers**
+
+Be prepared for challenges when negotiating surface waivers, and consider alternatives, such as affidavits of non-production.
+
+::: {.callout-tip}
+**Case Study - Rethinking Mineral Surface Waiver Requirements**
+
+A battery energy storage system (BESS) project in Texas presented an opportunity to evaluate mineral risk differently than traditional solar development. By applying a project-specific analysis and facilitating collaboration between the developer, title professionals, and underwriting counsel, the parties structured a practical solution that reduced curative work while maintaining insurability.
+
+**Background**
+
+Mineral rights present a common challenge in renewable energy development across Texas. For solar projects, developers typically obtain surface waivers from 100 percent of mineral owners to prevent drilling or mineral development from interfering with solar arrays and infrastructure.
+
+A battery storage project presented a different scenario. The development site consisted of approximately thirty acres, but the battery storage equipment would occupy only ten acres of the property.
+
+**Risk Identified**
+
+The standard approach would have required obtaining surface waivers from all mineral interest holders across the entire property. While common for solar projects, that level of curative work can be costly and time consuming.
+
+However, in this case the project design left a substantial portion of the property unused. If mineral development were ever pursued, there was sufficient land outside the battery storage footprint to accommodate drilling activity without interfering with the project.
+
+**Strategy and Coordination**
+
+Recognizing the unique characteristics of battery storage development, the project team evaluated whether a more practical risk-based approach could be applied.
+
+The developer believed that obtaining surface waivers only across the portion of the property where the battery storage equipment would be located could sufficiently address the operational risk. Rather than immediately defaulting to the traditional approach, the developer relied on a trusted title insurance sales representative to help present the concept to the title team and underwriting.
+
+That representative played a key role in facilitating discussions between the developer, the closing team, and underwriting counsel. Multiple conversations were required to review the site plan, the acreage being utilized for the project, and the remaining land that would still be available if mineral development ever occurred.
+
+Because renewable energy projects increasingly involve new technologies and development patterns, the parties ultimately evaluated the issue through a project specific lens rather than relying solely on standard practice.
+
+After reviewing the project layout and risk profile, the team agreed that surface waivers would only need to be obtained from mineral interest holders covering approximately thirty percent of the property rather than the entire acreage.
+
+Throughout the process, the sales representative continued to advocate for the client while ensuring the title team and underwriter were comfortable with the risk analysis and documentation required for coverage.
+
+**Outcome**
+
+By tailoring the curative requirements to the specific project footprint, the developer avoided unnecessary time and expense while still satisfying underwriting requirements. The project was able to move forward with appropriate title coverage while maintaining operational flexibility across the remainder of the property.
+
+**Key Takeaway**
+
+Renewable energy development continues to introduce new project types and land use patterns. Applying a thoughtful, project specific analysis to mineral risks can create practical solutions that protect both the developer and the title insurer while avoiding unnecessary curative work.
+
+Equally important is the role of experienced title professionals who understand both the development process and the underwriting perspective. A trusted sales representative can help bridge those perspectives, advocate for practical solutions, and facilitate the communication necessary to move complex renewable energy transactions forward.
+
+*Case Study Submitted by Senior Title Insurance Expert Tara Brown-Selders*
+:::
+
+### Conclusion
+
+Conflicts may occur when a renewable energy project necessitates the use of surface land where mineral rights have previously been severed. Mineral rights typically hold legal precedence over surface rights, thereby allowing mineral owners the authority to access and utilize the surface for resource extraction. To resolve this, renewable energy developers must conduct thorough title research to identify mineral ownership, engage in complex negotiations with mineral rights holders, secure waivers or surface use agreements, and acquire specialized title insurance to mitigate risks and protect their investment.
+
+State laws differ in their treatment of mineral and surface rights, so conducting due diligence and consulting state-specific legal professionals is important for project planning. There is no one-size-fits-all approach.
+
+```{=html}
+<svg width="100%" viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="360" y="24" font-size="16" font-weight="600" text-anchor="middle" fill="#2c3e50">State-Specific Mineral Rights Categories</text>
+  <g font-family="sans-serif" font-size="12">
+    <rect x="20" y="50" width="330" height="110" rx="8" fill="#fdf2f0" stroke="#e74c3c"/>
+    <text x="185" y="75" text-anchor="middle" font-weight="600" fill="#922b21">Private Ownership / Minerals Dominant</text>
+    <text x="185" y="100" text-anchor="middle" fill="#333">Texas · Oklahoma · Pennsylvania</text>
+    <text x="185" y="120" text-anchor="middle" fill="#333">North Dakota</text>
+
+    <rect x="370" y="50" width="330" height="110" rx="8" fill="#fef5e7" stroke="#e67e22"/>
+    <text x="535" y="75" text-anchor="middle" font-weight="600" fill="#9a5b13">Government Retention / BLM Oversight</text>
+    <text x="535" y="100" text-anchor="middle" fill="#333">Colorado · New Mexico</text>
+    <text x="535" y="120" text-anchor="middle" fill="#333">Nevada · Arizona</text>
+
+    <rect x="20" y="180" width="330" height="110" rx="8" fill="#eaf6f8" stroke="#17a2b8"/>
+    <text x="185" y="205" text-anchor="middle" font-weight="600" fill="#146477">Mineral Reservation Disclosure Laws</text>
+    <text x="185" y="230" text-anchor="middle" fill="#333">Texas · Colorado</text>
+    <text x="185" y="250" text-anchor="middle" fill="#333">Montana · California</text>
+
+    <rect x="370" y="180" width="330" height="110" rx="8" fill="#eafaf1" stroke="#27ae60"/>
+    <text x="535" y="205" text-anchor="middle" font-weight="600" fill="#1e8449">Dormant Mineral Reversion Laws</text>
+    <text x="535" y="230" text-anchor="middle" fill="#333">Ohio · North Dakota · Indiana</text>
+    <text x="535" y="250" text-anchor="middle" fill="#333">Michigan · Pennsylvania</text>
+  </g>
+</svg>
+```
+
+*Visual Aid Description: A map highlighting states with significant mineral rights activities, overlaid with icons indicating potential risks, emphasizing the need for regional due diligence.*
+
+::: {.callout-note}
+Insert relevant charts Vanessa has developed for blog postings. Can we create a Mineral Rights Due Diligence Check List? We might integrate some of the content from the Engie Developer Training.
+:::
+
+### Mineral Rights Due Diligence Checklist
+
+**Preliminary Review**
+
+- Order MOR
+- Review title commitments
+- Identify active production
+- Review spacing orders
+- Review pooling/unitization orders
+
+**State-Specific Review**
+
+- Dormant mineral laws
+- Disclosure laws
+- Dominant estate rules
+
+**Financing Review**
+
+- ALTA 35.1 availability
+- Title carve-outs
+- Lender requirements
+
+**Operational Review**
+
+- Drill islands
+- Access corridors
+- Pipeline conflicts
+- Setback impacts
