@@ -1,0 +1,226 @@
+# Contents
+
+Click any chapter to expand its sections.
+
+```{=html}
+<style>
+.toc-chapter { border: 1px solid #d8dee2; border-radius: 8px; margin-bottom: 10px; overflow: hidden; }
+.toc-chapter summary { cursor: pointer; padding: 12px 16px; font-weight: 600; color: #2c3e50; background: #f8f9fa; list-style: none; }
+.toc-chapter summary::-webkit-details-marker { display: none; }
+.toc-chapter summary::before { content: "▸ "; color: #17a2b8; }
+.toc-chapter[open] summary::before { content: "▾ "; }
+.toc-chapter ul { margin: 0; padding: 10px 16px 14px 40px; }
+.toc-chapter li { margin: 4px 0; }
+.toc-chapter a { color: #146477; text-decoration: none; }
+.toc-chapter a:hover { text-decoration: underline; }
+.toc-front a { color: #146477; text-decoration: none; }
+</style>
+
+<p class="toc-front">
+<a href="foreword.html">Foreword</a> &nbsp;·&nbsp;
+<a href="dedication.html">Dedication</a> &nbsp;·&nbsp;
+<a href="about-author.html">About the Author</a> &nbsp;·&nbsp;
+<a href="legal-disclaimer.html">Legal Disclaimer</a> &nbsp;·&nbsp;
+<a href="introduction.html">Introduction</a>
+</p>
+
+<details class="toc-chapter">
+<summary><a href="chapters01-fundamentals.html" style="color:inherit;text-decoration:none;">Chapter 1: Navigating M&amp;A Best Practices in Utility-Scale Renewable Energy Development</a></summary>
+<ul>
+<li><a href="chapters01-fundamentals.html#riding-the-wave-current-ma-trends-in-renewable-energy">Riding the Wave — Current M&amp;A Trends in Renewable Energy</a></li>
+<li><a href="chapters01-fundamentals.html#why-this-matters-the-cost-of-getting-it-wrong">Why This Matters: The Cost of Getting It Wrong</a></li>
+<li><a href="chapters01-fundamentals.html#industry-observations">Industry Observations</a></li>
+<li><a href="chapters01-fundamentals.html#key-takeaways">Key Takeaways</a></li>
+<li><a href="chapters01-fundamentals.html#discussion-questions">Discussion Questions</a></li>
+</ul>
+</details>
+
+<details class="toc-chapter">
+<summary><a href="chapters02-land-control.html" style="color:inherit;text-decoration:none;">Chapter 2: Verifying Land Control – The Foundation of Acquisition</a></summary>
+<ul>
+<li><a href="chapters02-land-control.html#critical-path-parcels">Critical Path Parcels</a></li>
+<li><a href="chapters02-land-control.html#government-land-complexity-and-overlapping-rights">Government Land Complexity and Overlapping Rights</a></li>
+<li><a href="chapters02-land-control.html#why-land-control-matters-across-the-project-lifecycle">Why Land Control Matters Across the Project Lifecycle</a></li>
+<li><a href="chapters02-land-control.html#land-control-ownership-disputes">Land Control &amp; Ownership Disputes</a></li>
+<li><a href="chapters02-land-control.html#power-of-attorney">Power of Attorney</a></li>
+<li><a href="chapters02-land-control.html#joint-tenancy-trusts-unrecorded-rights">Joint Tenancy, Trusts &amp; Unrecorded Rights</a></li>
+<li><a href="chapters02-land-control.html#key-steps-in-verifying-land-control">Key Steps in Verifying Land Control</a></li>
+<li><a href="chapters02-land-control.html#alta-surveys-and-advanced-title-review-protecting-site-control">ALTA Surveys and Advanced Title Review</a></li>
+<li><a href="chapters02-land-control.html#challenges-in-land-verification">Challenges in Land Verification</a></li>
+<li><a href="chapters02-land-control.html#best-practices">Best Practices</a></li>
+<li><a href="chapters02-land-control.html#key-takeaways">Key Takeaways</a></li>
+<li><a href="chapters02-land-control.html#discussion-questions">Discussion Questions</a></li>
+</ul>
+</details>
+
+<details class="toc-chapter">
+<summary><a href="chapters03-ownership.html" style="color:inherit;text-decoration:none;">Chapter 3: Ensuring Correct Ownership – Getting the Signatures Right</a></summary>
+<ul>
+<li><a href="chapters03-ownership.html#five-common-mistakes">Five Common Mistakes</a></li>
+<li><a href="chapters03-ownership.html#common-ownership-complexities">Common Ownership Complexities</a></li>
+<li><a href="chapters03-ownership.html#strategies-for-ensuring-correct-ownership-and-signatories">Strategies for Ensuring Correct Ownership and Signatories</a></li>
+<li><a href="chapters03-ownership.html#key-takeaways">Key Takeaways</a></li>
+<li><a href="chapters03-ownership.html#discussion-questions">Discussion Questions</a></li>
+</ul>
+</details>
+
+<details class="toc-chapter">
+<summary><a href="chapters04-mineral-rights.html" style="color:inherit;text-decoration:none;">Chapter 4: Unseen Challenges – Navigating Mineral Rights</a></summary>
+<ul>
+<li><a href="chapters04-mineral-rights.html#tribal-mineral-rights-complexity">Tribal Mineral Rights Complexity</a></li>
+<li><a href="chapters04-mineral-rights.html#from-severance-to-curative-why-mineral-rights-demand-specialized-due-diligence">From Severance to Curative</a></li>
+<li><a href="chapters04-mineral-rights.html#implications-for-renewable-energy-projects">Implications for Renewable Energy Projects</a></li>
+<li><a href="chapters04-mineral-rights.html#why-mineral-rights-matter-severance-and-two-chains-of-title">Severance and Two Chains of Title</a></li>
+<li><a href="chapters04-mineral-rights.html#dormant-vs.-producing-mineral-rights">Dormant vs. Producing Mineral Rights</a></li>
+<li><a href="chapters04-mineral-rights.html#mineral-rights-are-a-bankability-trigger">Mineral Rights Are a Bankability Trigger</a></li>
+<li><a href="chapters04-mineral-rights.html#mineral-rights-due-diligence-checklist">Mineral Rights Due Diligence Checklist</a></li>
+<li><a href="chapters04-mineral-rights.html#beyond-mineral-rights-other-regional-risks">Beyond Mineral Rights — Other Regional Risks</a></li>
+<li><a href="chapters04-mineral-rights.html#real-world-example">Real-World Example</a></li>
+<li><a href="chapters04-mineral-rights.html#key-takeaways">Key Takeaways</a></li>
+<li><a href="chapters04-mineral-rights.html#discussion-questions">Discussion Questions</a></li>
+</ul>
+</details>
+
+<details class="toc-chapter">
+<summary><a href="chapters05-due-diligence.html" style="color:inherit;text-decoration:none;">Chapter 5: Racing the Clock – Due Diligence Strategies for Tight Timelines</a></summary>
+<ul>
+<li><a href="chapters05-due-diligence.html#data-room-readiness">Data Room Readiness</a></li>
+<li><a href="chapters05-due-diligence.html#pre-mortem-risk-analysis">"Pre-Mortem" Risk Analysis</a></li>
+<li><a href="chapters05-due-diligence.html#front-loaded-diligence">Front-Loaded Diligence</a></li>
+<li><a href="chapters05-due-diligence.html#government-agency-timing-risk">Government Agency Timing Risk</a></li>
+<li><a href="chapters05-due-diligence.html#real-world-considerations">Real World Considerations</a></li>
+<li><a href="chapters05-due-diligence.html#managing-title-curative-to-preserve-financing-timelines">Managing Title Curative</a></li>
+<li><a href="chapters05-due-diligence.html#haste-makes-waste">Haste Makes Waste</a></li>
+<li><a href="chapters05-due-diligence.html#strategies-for-due-diligence-under-time-constraints">Strategies Under Time Constraints</a></li>
+<li><a href="chapters05-due-diligence.html#key-takeaways">Key Takeaways</a></li>
+<li><a href="chapters05-due-diligence.html#discussion-questions">Discussion Questions</a></li>
+</ul>
+</details>
+
+<details class="toc-chapter">
+<summary><a href="chapters06-environmental.html" style="color:inherit;text-decoration:none;">Chapter 6: Environmental and Site Considerations in Project Acquisitions</a></summary>
+<ul>
+<li><a href="chapters06-environmental.html#environmental-site-assessment-esa">Environmental Site Assessment (ESA)</a></li>
+<li><a href="chapters06-environmental.html#key-factors-that-can-derail-a-project">Key Factors That Can Derail a Project</a></li>
+<li><a href="chapters06-environmental.html#community-acceptance">Community Acceptance</a></li>
+<li><a href="chapters06-environmental.html#navigating-tribal-lands-and-sovereign-jurisdictions">Navigating Tribal Lands and Sovereign Jurisdictions</a></li>
+<li><a href="chapters06-environmental.html#opposition-risk-is-a-material-development-risk">Opposition Risk Is a Material Development Risk</a></li>
+<li><a href="chapters06-environmental.html#key-takeaways">Key Takeaways</a></li>
+<li><a href="chapters06-environmental.html#discussion-questions">Discussion Questions</a></li>
+</ul>
+</details>
+
+<details class="toc-chapter">
+<summary><a href="chapters07-hidden-ownership.html" style="color:inherit;text-decoration:none;">Chapter 7: Hidden Layers – Addressing Complex Ownership Structures</a></summary>
+<ul>
+<li><a href="chapters07-hidden-ownership.html#hidden-ownership-complexities">Hidden Ownership Complexities</a></li>
+<li><a href="chapters07-hidden-ownership.html#life-estates">Life Estates</a></li>
+<li><a href="chapters07-hidden-ownership.html#trusts-estates">Trusts &amp; Estates</a></li>
+<li><a href="chapters07-hidden-ownership.html#easements-and-rights-of-way">Easements and Rights-of-Way</a></li>
+<li><a href="chapters07-hidden-ownership.html#undivided-interests">Undivided Interests</a></li>
+<li><a href="chapters07-hidden-ownership.html#encumbrances-and-liens">Encumbrances and Liens</a></li>
+<li><a href="chapters07-hidden-ownership.html#probate-complications">Probate Complications</a></li>
+<li><a href="chapters07-hidden-ownership.html#off-record-agreements">Off-Record Agreements</a></li>
+<li><a href="chapters07-hidden-ownership.html#strategies-for-unveiling-and-addressing-complexities">Strategies for Unveiling Complexities</a></li>
+<li><a href="chapters07-hidden-ownership.html#key-takeaways">Key Takeaways</a></li>
+<li><a href="chapters07-hidden-ownership.html#discussion-questions">Discussion Questions</a></li>
+</ul>
+</details>
+
+<details class="toc-chapter">
+<summary><a href="chapters08-collaboration.html" style="color:inherit;text-decoration:none;">Chapter 8: Enhancing Collaboration Between M&amp;A and Development Teams</a></summary>
+<ul>
+<li><a href="chapters08-collaboration.html#team-alignment-is-a-deal-accelerator">Team Alignment Is a Deal Accelerator</a></li>
+<li><a href="chapters08-collaboration.html#integrated-expert-teams">Integrated Expert Teams</a></li>
+<li><a href="chapters08-collaboration.html#challenges-in-team-collaboration">Challenges in Team Collaboration</a></li>
+<li><a href="chapters08-collaboration.html#strategies-for-enhancing-collaboration">Strategies for Enhancing Collaboration</a></li>
+<li><a href="chapters08-collaboration.html#collaboration-communication-improve-outcomes">Collaboration &amp; Communication Improve Outcomes</a></li>
+<li><a href="chapters08-collaboration.html#benefits-of-effective-collaboration">Benefits of Effective Collaboration</a></li>
+<li><a href="chapters08-collaboration.html#key-takeaways">Key Takeaways</a></li>
+<li><a href="chapters08-collaboration.html#discussion-questions">Discussion Questions</a></li>
+</ul>
+</details>
+
+<details class="toc-chapter">
+<summary><a href="chapters09-valuation.html" style="color:inherit;text-decoration:none;">Chapter 9: Accurately Assessing Worth and Timing in Renewable Energy M&amp;A</a></summary>
+<ul>
+<li><a href="chapters09-valuation.html#why-cod-matters-for-acquisitions">Why COD Matters for Acquisitions</a></li>
+<li><a href="chapters09-valuation.html#tax-equity-closings-and-title-readiness">Tax Equity Closings and Title Readiness</a></li>
+<li><a href="chapters09-valuation.html#project-de-risking-and-valuation-beforeafter-cod">Valuation Before/After COD</a></li>
+<li><a href="chapters09-valuation.html#lease-expiration-vs.-codptc-timing">Lease Expiration vs. COD/PTC Timing</a></li>
+<li><a href="chapters09-valuation.html#the-impact-of-timing-on-valuation">The Impact of Timing on Valuation</a></li>
+<li><a href="chapters09-valuation.html#adjusting-valuation-based-on-due-diligence">Adjusting Valuation Based on Due Diligence</a></li>
+<li><a href="chapters09-valuation.html#valuation-methodologies">Valuation Methodologies</a></li>
+<li><a href="chapters09-valuation.html#negotiation-strategies">Negotiation Strategies</a></li>
+<li><a href="chapters09-valuation.html#cost-risk-residual-risk-management">Cost, Risk &amp; Residual Risk Management</a></li>
+<li><a href="chapters09-valuation.html#key-takeaways">Key Takeaways</a></li>
+<li><a href="chapters09-valuation.html#discussion-questions">Discussion Questions</a></li>
+</ul>
+</details>
+
+<details class="toc-chapter">
+<summary><a href="chapters10-inheriting.html" style="color:inherit;text-decoration:none;">Chapter 10: Inheriting a Project – Challenges and Opportunities</a></summary>
+<ul>
+<li><a href="chapters10-inheriting.html#fast-transaction-readiness">Fast-Transaction Readiness</a></li>
+<li><a href="chapters10-inheriting.html#due-diligence-checklist">Due Diligence Checklist</a></li>
+<li><a href="chapters10-inheriting.html#challenges-of-inheriting-projects">Challenges of Inheriting Projects</a></li>
+<li><a href="chapters10-inheriting.html#advantages-of-inheriting-projects">Advantages of Inheriting Projects</a></li>
+<li><a href="chapters10-inheriting.html#strategies-for-managing-inherited-projects">Strategies for Managing Inherited Projects</a></li>
+<li><a href="chapters10-inheriting.html#not-every-project-should-be-advanced">Not Every Project Should Be Advanced</a></li>
+<li><a href="chapters10-inheriting.html#key-takeaways">Key Takeaways</a></li>
+<li><a href="chapters10-inheriting.html#discussion-questions">Discussion Questions</a></li>
+</ul>
+</details>
+
+<details class="toc-chapter">
+<summary><a href="chapters11-project-finance.html" style="color:inherit;text-decoration:none;">Chapter 11: The Fundamentals of Project Finance for Electricity and Renewable Energy</a></summary>
+<ul>
+<li><a href="chapters11-project-finance.html#introduction">Introduction</a></li>
+<li><a href="chapters11-project-finance.html#the-evolution-of-energy-project-finance">The Evolution of Energy Project Finance</a></li>
+<li><a href="chapters11-project-finance.html#understanding-the-project-finance-structure">Understanding the Project Finance Structure</a></li>
+<li><a href="chapters11-project-finance.html#the-capital-stack-debt-equity-and-tax-equity">The Capital Stack</a></li>
+<li><a href="chapters11-project-finance.html#revenue-models-for-electricity-projects">Revenue Models for Electricity Projects</a></li>
+<li><a href="chapters11-project-finance.html#financial-modeling-and-project-evaluation">Financial Modeling and Project Evaluation</a></li>
+<li><a href="chapters11-project-finance.html#risk-management-in-energy-projects">Risk Management in Energy Projects</a></li>
+<li><a href="chapters11-project-finance.html#permitting-stakeholder-engagement-and-community-impact">Permitting, Stakeholder Engagement &amp; Community Impact</a></li>
+<li><a href="chapters11-project-finance.html#from-development-to-operation">From Development to Operation</a></li>
+<li><a href="chapters11-project-finance.html#financing-a-solar-plus-storage-project">Financing a Solar-Plus-Storage Project</a></li>
+<li><a href="chapters11-project-finance.html#key-takeaways">Key Takeaways</a></li>
+<li><a href="chapters11-project-finance.html#discussion-questions">Discussion Questions</a></li>
+</ul>
+</details>
+
+<details class="toc-chapter">
+<summary><a href="chapters12-ai-risk.html" style="color:inherit;text-decoration:none;">Chapter 12: AI — The New Frontier in Risk Modeling &amp; Scenario Analysis</a></summary>
+<ul>
+<li><a href="chapters12-ai-risk.html#ai-is-accelerating-the-race-for-buildable-projects">AI Is Accelerating the Race for Buildable Projects</a></li>
+<li><a href="chapters12-ai-risk.html#ma-risk-often-surfaces-too-late">M&amp;A Risk Often Surfaces Too Late</a></li>
+<li><a href="chapters12-ai-risk.html#what-ai-can-see-earlier">What AI Can See Earlier</a></li>
+<li><a href="chapters12-ai-risk.html#what-ai-powered-screening-looks-like-in-practice">What AI-Powered Screening Looks Like</a></li>
+<li><a href="chapters12-ai-risk.html#from-ai-screening-to-practical-verification">From AI Screening to Practical Verification</a></li>
+<li><a href="chapters12-ai-risk.html#the-cost-of-discovering-risk-too-late">The Cost of Discovering Risk Too Late</a></li>
+<li><a href="chapters12-ai-risk.html#ai-as-a-risk-mitigation-tool">AI as a Risk-Mitigation Tool</a></li>
+<li><a href="chapters12-ai-risk.html#ai-and-bankability">AI and Bankability</a></li>
+<li><a href="chapters12-ai-risk.html#human-expertise-remains-essential">Human Expertise Remains Essential</a></li>
+<li><a href="chapters12-ai-risk.html#key-takeaways">Key Takeaways</a></li>
+<li><a href="chapters12-ai-risk.html#discussion-questions">Discussion Questions</a></li>
+</ul>
+</details>
+
+<details class="toc-chapter">
+<summary><a href="chapters13-nature-based.html" style="color:inherit;text-decoration:none;">Chapter 13: Mitigating Renewable Infrastructure Risk with Nature-Based Solutions (NbS)</a></summary>
+<ul>
+<li><a href="chapters13-nature-based.html#nbs-are-becoming-relevant-to-ma-and-asset-valuation">NbS Are Becoming Relevant to M&amp;A</a></li>
+<li><a href="chapters13-nature-based.html#nbs-can-improve-permitting-and-community-acceptance">NbS Can Improve Permitting and Community Acceptance</a></li>
+<li><a href="chapters13-nature-based.html#nbs-may-help-lower-insurance-and-financing-risk">NbS May Help Lower Insurance and Financing Risk</a></li>
+<li><a href="chapters13-nature-based.html#ecosystem-valuation-as-a-strategic-asset">Ecosystem Valuation as a Strategic Asset</a></li>
+<li><a href="chapters13-nature-based.html#the-constraint-is-risk-profile-not-absence-of-returns">The Constraint Is Risk Profile</a></li>
+<li><a href="chapters13-nature-based.html#the-need-for-analytical-frameworks-and-capital-structures">Analytical Frameworks &amp; Capital Structures</a></li>
+<li><a href="chapters13-nature-based.html#key-takeaways">Key Takeaways</a></li>
+<li><a href="chapters13-nature-based.html#discussion-questions">Discussion Questions</a></li>
+<li><a href="chapters13-nature-based.html#references">References</a></li>
+</ul>
+</details>
+
+<p style="margin-top:20px;"><a href="appendix.html">Appendix: Master Due Diligence Checklist and Reference Materials</a></p>
+```
