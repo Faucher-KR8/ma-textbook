@@ -11,7 +11,10 @@ book:
   chapters:
     - index.qmd
     - foreword.qmd
+    - dedication.qmd
     - about-author.qmd
+    - legal-disclaimer.qmd
+    - contents.qmd
     - introduction.qmd
     - chapters01-fundamentals.qmd
     - chapters02-land-control.qmd
