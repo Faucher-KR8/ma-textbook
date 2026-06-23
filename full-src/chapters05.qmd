@@ -75,25 +75,25 @@ We recommend prioritizing key parcels or areas to manage tight time frames. Begi
 Many developers utilize consolidated title review or "Red Light" reports to centralize title exceptions, survey encroachments, lease expirations, and unresolved curative items into a single tracking framework. These reports help transaction teams prioritize critical issues and coordinate cure strategies across legal, survey, title, and development teams.
 
 ```{=html}
-<svg width="100%" viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+<svg width="100%" viewBox="0 0 720 230" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
   <text x="360" y="26" font-size="17" font-weight="600" text-anchor="middle" fill="#2c3e50">The A/B/C Curative Ranking Framework</text>
   <g font-family="sans-serif" font-size="12.5">
-    <rect x="30" y="55" width="200" height="230" rx="8" fill="#fdecea" stroke="#c0392b"/>
-    <text x="130" y="82" text-anchor="middle" font-weight="700" fill="#922b21">Critical (A)</text>
-    <text x="130" y="115" text-anchor="middle" fill="#333">Financing blockers</text>
-    <text x="130" y="138" text-anchor="middle" fill="#333">Lease failures</text>
-    <text x="130" y="161" text-anchor="middle" fill="#333">Chain-of-title gaps</text>
-    <text x="130" y="184" text-anchor="middle" fill="#333">Primary parcel defects</text>
-    <rect x="260" y="55" width="200" height="230" rx="8" fill="#fef5e7" stroke="#e67e22"/>
-    <text x="360" y="82" text-anchor="middle" font-weight="700" fill="#9a5b13">Important (B)</text>
-    <text x="360" y="115" text-anchor="middle" fill="#333">Lender holdback risks</text>
-    <text x="360" y="138" text-anchor="middle" fill="#333">Moderate encroachments</text>
-    <text x="360" y="161" text-anchor="middle" fill="#333">Subordination issues</text>
-    <rect x="490" y="55" width="200" height="230" rx="8" fill="#eafaf1" stroke="#27ae60"/>
-    <text x="590" y="82" text-anchor="middle" font-weight="700" fill="#1e8449">Low-Risk (C)</text>
-    <text x="590" y="115" text-anchor="middle" fill="#333">Peripheral defects</text>
-    <text x="590" y="138" text-anchor="middle" fill="#333">Escrow candidates</text>
-    <text x="590" y="161" text-anchor="middle" fill="#333">Long-tail issues</text>
+    <rect x="30" y="50" width="200" height="150" rx="8" fill="#fdecea" stroke="#c0392b"/>
+    <text x="130" y="76" text-anchor="middle" font-weight="700" fill="#922b21">Critical (A)</text>
+    <text x="130" y="105" text-anchor="middle" fill="#333">Financing blockers</text>
+    <text x="130" y="125" text-anchor="middle" fill="#333">Lease failures</text>
+    <text x="130" y="145" text-anchor="middle" fill="#333">Chain-of-title gaps</text>
+    <text x="130" y="165" text-anchor="middle" fill="#333">Primary parcel defects</text>
+    <rect x="260" y="50" width="200" height="150" rx="8" fill="#fef5e7" stroke="#e67e22"/>
+    <text x="360" y="76" text-anchor="middle" font-weight="700" fill="#9a5b13">Important (B)</text>
+    <text x="360" y="110" text-anchor="middle" fill="#333">Lender holdback risks</text>
+    <text x="360" y="130" text-anchor="middle" fill="#333">Moderate encroachments</text>
+    <text x="360" y="150" text-anchor="middle" fill="#333">Subordination issues</text>
+    <rect x="490" y="50" width="200" height="150" rx="8" fill="#eafaf1" stroke="#27ae60"/>
+    <text x="590" y="76" text-anchor="middle" font-weight="700" fill="#1e8449">Low-Risk (C)</text>
+    <text x="590" y="110" text-anchor="middle" fill="#333">Peripheral defects</text>
+    <text x="590" y="130" text-anchor="middle" fill="#333">Escrow candidates</text>
+    <text x="590" y="150" text-anchor="middle" fill="#333">Long-tail issues</text>
   </g>
 </svg>
 ```
