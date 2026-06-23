@@ -103,6 +103,33 @@ In one instance, a developer failed to recognize that a life estate holder had n
 During a recent closing, it was necessary to obtain signed lease amendments from all landowners involved. Learning that one woman's health was failing, we prioritized her signing of the amendment so it could be recorded quickly. She passed away the day after signing, just as we were recording the amendment. She had 13 heirs who would have had to sign any subsequent documents. We were grateful to our community for helping us gain this insight and react quickly. Waiting would have postponed the closing for weeks due to probate and identifying and locating the heirs.
 
 We have an issue right now with a project where the mother is incapacitated and her daughter will potentially sign in two capacities — as her successor under a trust, and under a power of attorney, each document having their own unique issues. To have the daughter sign for the trust we need the physician's letter in compliance with HIPAA and the terms of the trust, confirming the mother's incapacity. In such cases, the power of attorney must be durable and authorize real estate transactions.
+
+```{=html}
+<svg width="100%" viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="360" y="22" font-size="15" font-weight="600" text-anchor="middle" fill="#2c3e50">Signing in Two Capacities for an Incapacitated Owner</text>
+  <g font-family="sans-serif" font-size="11.5">
+    <rect x="60" y="55" width="280" height="40" rx="6" fill="#2c3e50"/>
+    <text x="200" y="80" text-anchor="middle" fill="#fff" font-weight="600">Daughter, signing on mother's behalf</text>
+    <rect x="380" y="55" width="280" height="40" rx="6" fill="#2c3e50"/>
+    <text x="520" y="80" text-anchor="middle" fill="#fff" font-weight="600">Daughter, signing on mother's behalf</text>
+
+    <rect x="60" y="115" width="280" height="135" rx="8" fill="#eaf6f8" stroke="#17a2b8"/>
+    <text x="200" y="142" text-anchor="middle" font-weight="700" fill="#146477">As Trust Successor</text>
+    <text x="200" y="168" text-anchor="middle" fill="#333">Requires: physician's letter</text>
+    <text x="200" y="186" text-anchor="middle" fill="#333">(HIPAA-compliant)</text>
+    <text x="200" y="208" text-anchor="middle" fill="#333">confirming incapacity, consistent</text>
+    <text x="200" y="226" text-anchor="middle" fill="#333">with the trust's own terms</text>
+
+    <rect x="380" y="115" width="280" height="135" rx="8" fill="#fef5e7" stroke="#e67e22"/>
+    <text x="520" y="142" text-anchor="middle" font-weight="700" fill="#9a5b13">Under Power of Attorney</text>
+    <text x="520" y="168" text-anchor="middle" fill="#333">Requires: POA must be</text>
+    <text x="520" y="186" text-anchor="middle" fill="#333">durable (survives incapacity)</text>
+    <text x="520" y="208" text-anchor="middle" fill="#333">and specifically authorize</text>
+    <text x="520" y="226" text-anchor="middle" fill="#333">real estate transactions</text>
+  </g>
+</svg>
+```
+
 :::
 
 ### Conclusion
