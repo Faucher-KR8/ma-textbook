@@ -29,6 +29,7 @@ book:
     - chapters11-project-finance.qmd
     - chapters12-ai-risk.qmd
     - chapters13-nature-based.qmd
+    - acknowledgments.qmd
     - appendix.qmd
 
 format:
