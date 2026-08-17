@@ -1,13 +1,11 @@
 project:
   type: book
   output-dir: docs
-
 book:
   title: "An Insider's Guide to Mastering Mergers, Acquisitions & Power Plant Development"
   subtitle: "Best Practices for Risk Analysis and Risk Mitigation to Ensure Transaction Closing"
   author: "Kimberlee Centera"
   date: today
-
   chapters:
     - index.qmd
     - foreword.qmd
@@ -31,13 +29,12 @@ book:
     - chapters13-nature-based.qmd
     - acknowledgments.qmd
     - appendix.qmd
-
 format:
   html:
     theme: [cosmo, _custom.scss]
     toc: true
     toc-depth: 3
     number-sections: false
-
+    include-before-body: _condensed-banner.html
 execute:
   freeze: auto

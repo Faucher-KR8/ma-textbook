@@ -1,0 +1,268 @@
+# Appendix: Master Due Diligence Checklist and Reference Materials
+
+## How to Use This Appendix
+
+This appendix provides the working tools referenced throughout the textbook. The Master Due Diligence Checklist consolidates the key diligence items from each chapter into a single, actionable reference. The reference tables provide quick access to key metrics, risk thresholds, and regulatory requirements.
+
+These materials are intended for use by practitioners in the field, not just for academic study. Students are encouraged to bring these tools into real transactions and adapt them to specific project circumstances.
+
+---
+
+## Master Due Diligence Checklist
+
+```{=html}
+<svg width="100%" viewBox="0 0 720 380" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <text x="360" y="26" font-size="17" font-weight="600" text-anchor="middle" fill="#2c3e50">Master Due Diligence Checklist — At a Glance</text>
+  <text x="360" y="46" font-size="11" text-anchor="middle" fill="#777">Seven categories, full detail in the checklist that follows</text>
+  <g font-family="sans-serif" font-size="13">
+    <!-- Row 1 -->
+    <rect x="20" y="65" width="20" height="20" fill="none" stroke="#17a2b8" stroke-width="2"/>
+    <rect x="30" y="78" width="14" height="3" fill="none"/>
+    <text x="50" y="80" fill="#2c3e50" font-weight="600">1. Land and Title</text>
+    <rect x="370" y="65" width="20" height="20" fill="none" stroke="#27ae60" stroke-width="2"/>
+    <text x="400" y="80" fill="#2c3e50" font-weight="600">2. Permits and Regulatory</text>
+    <!-- Row 2 -->
+    <rect x="20" y="120" width="20" height="20" fill="none" stroke="#e67e22" stroke-width="2"/>
+    <text x="50" y="135" fill="#2c3e50" font-weight="600">3. Environmental</text>
+    <rect x="370" y="120" width="20" height="20" fill="none" stroke="#8e44ad" stroke-width="2"/>
+    <text x="400" y="135" fill="#2c3e50" font-weight="600">4. Contracts and Commercial</text>
+    <!-- Row 3 -->
+    <rect x="20" y="175" width="20" height="20" fill="none" stroke="#c0392b" stroke-width="2"/>
+    <text x="50" y="190" fill="#2c3e50" font-weight="600">5. Financial and Tax</text>
+    <rect x="370" y="175" width="20" height="20" fill="none" stroke="#16a085" stroke-width="2"/>
+    <text x="400" y="190" fill="#2c3e50" font-weight="600">6. Technical and Operations</text>
+    <!-- Row 4 -->
+    <rect x="20" y="230" width="20" height="20" fill="none" stroke="#2c3e50" stroke-width="2"/>
+    <text x="50" y="245" fill="#2c3e50" font-weight="600">7. Corporate and Ownership</text>
+  </g>
+  <line x1="20" y1="280" x2="700" y2="280" stroke="#dcdcdc" stroke-width="1"/>
+  <rect x="20" y="300" width="680" height="70" rx="6" fill="#fdf2f0" stroke="#e74c3c"/>
+  <text x="360" y="325" text-anchor="middle" fill="#922b21" font-weight="600" font-size="12.5">A category with even one open item is a category that isn't done.</text>
+  <text x="360" y="347" text-anchor="middle" fill="#555" font-size="11.5">See the full checklist on the following pages for every item within each category.</text>
+</svg>
+```
+
+
+### Category 1: Land and Title
+
+- [ ] Title commitment obtained from licensed title company
+- [ ] Chain of title reviewed for all parcels (minimum 40-year search)
+- [ ] Survey obtained and reviewed (ALTA/NSPS preferred)
+- [ ] All land agreements reviewed: leases, easements, licenses, purchase options
+- [ ] Lease renewal options confirmed and exercisable
+- [ ] Lessor authority confirmed (entity verification, signatory authority)
+- [ ] Subordination, Non-Disturbance, and Attornment (SNDA) agreements in place
+- [ ] Title insurance commitment obtained; exceptions reviewed
+- [ ] Mineral rights ownership confirmed; mineral rights severed or not
+- [ ] Surface use agreement in place (if minerals severed)
+- [ ] No adverse possession claims or boundary disputes identified
+- [ ] Road access and ingress/egress rights confirmed
+- [ ] Transmission line and O&M access easements confirmed
+
+### Category 2: Permits and Regulatory
+
+- [ ] All required permits identified (federal, state, local)
+- [ ] Copies of all permits obtained and reviewed
+- [ ] Permit conditions reviewed and operationally assessed
+- [ ] No permits in appeal or subject to pending challenge
+- [ ] Permit transfer requirements identified and timeline established
+- [ ] State siting certificate or equivalent in hand (if required)
+- [ ] NEPA review complete (EA or EIS); record of decision issued
+- [ ] FAA determinations obtained for all structures
+- [ ] Interconnection agreement executed and current
+- [ ] Queue position confirmed; milestone deadlines not at risk
+- [ ] Network upgrade cost allocation confirmed
+- [ ] Local conditional use/special use permit in hand; no appeal pending
+- [ ] Community relations assessment completed
+
+### Category 3: Environmental
+
+- [ ] Phase I ESA completed by qualified environmental professional (ASTM E1527)
+- [ ] No Recognized Environmental Conditions (RECs) identified (or Phase II completed)
+- [ ] Phase II ESA results reviewed; contamination confirmed or ruled out
+- [ ] Wetland delineation completed; jurisdictional determination obtained
+- [ ] All jurisdictional wetland fill permits in place (Section 404 if applicable)
+- [ ] Biological surveys completed: avian, bat, listed species, pollinators
+- [ ] No critical habitat within project area (or consultation completed)
+- [ ] Section 106 cultural resources consultation completed
+- [ ] Stormwater Pollution Prevention Plan (SWPPP) prepared
+- [ ] NPDES permit for construction activity obtained (if applicable)
+- [ ] No open environmental regulatory violations or NOVs
+
+### Category 4: Contracts and Commercial
+
+- [ ] Power Purchase Agreement (PPA) reviewed; price, term, and conditions confirmed
+- [ ] PPA counterparty creditworthiness confirmed
+- [ ] PPA assignment provisions reviewed; consent required or not
+- [ ] Interconnection Agreement reviewed; all deposits current
+- [ ] O&M contract reviewed; assignment provisions confirmed
+- [ ] O&M availability guarantee confirmed; liquidated damages provisions reviewed
+- [ ] Equipment warranties reviewed; assignability confirmed
+- [ ] Equipment supply agreements reviewed (if construction-stage project)
+- [ ] EPC contract reviewed; performance guarantees and liquidated damages confirmed
+- [ ] Energy Management Agreement (if applicable) reviewed
+- [ ] All contracts transferable to buyer; consent obtained or committed
+
+### Category 5: Financial and Tax
+
+- [ ] Independent financial model built from source documents
+- [ ] P50 and P90 energy yield estimates reviewed; IE validation obtained
+- [ ] PPA revenue confirmed for full contract term
+- [ ] O&M cost model confirmed against contract and historical actuals
+- [ ] Capital structure confirmed: equity, debt, tax equity
+- [ ] Debt terms reviewed: principal, interest rate, amortization, covenants
+- [ ] DSCR confirmed above minimum covenant level
+- [ ] Reserve accounts confirmed funded at required levels
+- [ ] Tax equity agreement reviewed; flip mechanics understood
+- [ ] ITC or PTC eligibility confirmed with tax counsel
+- [ ] Beginning-of-construction documentation confirmed (if ITC/PTC applicable)
+- [ ] MACRS depreciation schedule confirmed
+- [ ] State and local tax implications modeled
+- [ ] All tax returns and K-1s reviewed (last 3 years for operating projects)
+
+### Category 6: Technical and Operations
+
+- [ ] Independent Engineer (IE) report obtained
+- [ ] IE energy yield review completed (P50/P90 validation)
+- [ ] Equipment condition assessment completed (for operating projects)
+- [ ] Turbine/inverter performance history reviewed
+- [ ] Curtailment history reviewed and modeled
+- [ ] SCADA system reviewed; access transfer plan in place
+- [ ] O&M contractor performance history reviewed
+- [ ] Major maintenance history reviewed; upcoming major maintenance identified
+- [ ] Spare parts inventory reviewed
+- [ ] Decommissioning plan and cost estimate reviewed
+- [ ] Insurance coverage reviewed; coverage limits and exclusions assessed
+
+### Category 7: Corporate and Ownership
+
+- [ ] Entity formation documents reviewed (articles, operating agreement)
+- [ ] Ownership structure confirmed; all equity holders identified
+- [ ] No undisclosed equity interests (options, warrants, profit interests)
+- [ ] Seller authority to sell confirmed; board/member approvals obtained
+- [ ] No liens or encumbrances on equity interests
+- [ ] Foreign ownership restrictions assessed (if applicable)
+- [ ] Tax equity investor consents to transfer confirmed
+- [ ] Lender consents to transfer confirmed
+- [ ] No pending or threatened litigation
+- [ ] No material regulatory investigations or violations
+
+---
+
+## Quick Reference: Key Metrics and Thresholds
+
+### Financial Metrics
+
+| Metric | Typical Range | Red Flag |
+|---|---|---|
+| Project IRR (equity) | 8–14% | Below 7% |
+| DSCR (minimum) | 1.20x–1.35x | Below 1.10x |
+| P50–P90 spread | 5–10% | Above 15% |
+| Capacity factor (solar) | 20–30% | Below 18% |
+| Capacity factor (wind) | 30–45% | Below 25% |
+| O&M cost ($/kW-year) | $15–$30 solar; $30–$50 wind | 50%+ above market |
+| LCOE ($/MWh) | $25–$50 utility scale | Context-dependent |
+
+### Environmental Thresholds
+
+| Finding | Action Trigger |
+|---|---|
+| Phase I REC identified | Commission Phase II |
+| Wetlands on-site | Commission delineation + JD |
+| Listed species habitat | Commission biological survey |
+| Contamination confirmed | Escrow, price adjustment, or walk |
+| Cultural resources found | Section 106 consultation |
+
+### Permitting Timeline Reference
+
+| Permit Type | Typical Timeline |
+|---|---|
+| Local CUP/SUP | 3–12 months |
+| State siting certificate | 6–24 months |
+| NEPA Environmental Assessment | 6–18 months |
+| NEPA Environmental Impact Statement | 18–48 months |
+| Section 404 (wetland fill) | 6–18 months |
+| FAA determination | 3–12 months |
+| Interconnection (large generator) | 24–60 months |
+
+---
+
+## Glossary of Key Terms
+
+**ACOE** – Army Corps of Engineers. Federal agency with jurisdiction over Waters of the US, including wetlands.
+
+**ALTA Survey** – American Land Title Association survey. A comprehensive boundary survey required by most title insurers for commercial transactions.
+
+**Avoidance** – Design strategy to site project infrastructure away from environmentally sensitive areas (wetlands, habitat) to eliminate permit requirements.
+
+**Bankability** – The ability of a project to secure project finance debt. A bankable project has clear title, valid permits, executed PPA, and manageable risk profile.
+
+**Beginning of Construction (BOC)** – IRS concept that determines eligibility for ITC and PTC incentives. Safe harbor rules allow projects to lock in incentive rates based on BOC date.
+
+**CFADS** – Cash Flow Available for Debt Service. A key metric in project finance; the numerator in the DSCR calculation.
+
+**COD** – Commercial Operation Date. The date a project begins commercial energy production. Many incentives, milestones, and contractual provisions are tied to COD.
+
+**DSCR** – Debt Service Coverage Ratio. The ratio of CFADS to debt service payments in a given period. A DSCR below 1.0 means the project cannot service its debt from operating cash flow.
+
+**EPC** – Engineering, Procurement, and Construction. An EPC contract is a fixed-price, fixed-schedule contract with a single contractor responsible for design, procurement, and construction.
+
+**ICA** – Interconnection Agreement. The contract between a project and the transmission system operator governing the project's connection to the grid.
+
+**ITC** – Investment Tax Credit. A federal tax credit equal to a percentage of qualifying project costs, taken in the year the project is placed in service.
+
+**LCOE** – Levelized Cost of Energy. The average per-MWh cost to build and operate a project over its lifetime.
+
+**MACRS** – Modified Accelerated Cost Recovery System. IRS depreciation schedule that allows most renewable assets to be depreciated over 5 years (vs. 20+ years straight-line).
+
+**Mineral Rights** – The legal right to extract minerals, oil, gas, and metals from below the surface of land.
+
+**NEPA** – National Environmental Policy Act. Federal law requiring environmental review of federal agency actions, including permits for projects on federal land.
+
+**NTP** – Notice to Proceed. Authorization from the project owner to the EPC contractor to begin construction.
+
+**O&M** – Operations and Maintenance.
+
+**P50 / P90** – Probability exceedance estimates for energy production. P50 = 50% probability of exceedance (median); P90 = 90% probability of exceedance (conservative).
+
+**Partnership Flip** – A tax equity structure in which the tax equity investor receives a majority of tax benefits until reaching a target return, then the project sponsor's economic interest increases ("flips").
+
+**PPA** – Power Purchase Agreement. A long-term contract for the sale of energy from a project to a utility, corporate buyer, or other offtaker.
+
+**PTC** – Production Tax Credit. A per-kWh federal tax credit on energy produced during the first 10 years of a project's operation.
+
+**REC** – Recognized Environmental Condition (in Phase I ESA context). Also: Renewable Energy Certificate.
+
+**Repowering** – Replacement of major project equipment (turbines, inverters) to extend asset life, increase output, or qualify for new tax incentives.
+
+**RWI** – Representations and Warranties Insurance. Insurance coverage for losses arising from seller breaches of reps and warranties in the PSA.
+
+**SCADA** – Supervisory Control and Data Acquisition. Real-time monitoring system for project performance.
+
+**Surface Use Agreement** – A contract between a surface rights holder and a mineral rights holder governing how mineral operations are conducted on the surface.
+
+**Title Commitment** – A preliminary agreement by a title insurer to issue title insurance, subject to specified exceptions and conditions.
+
+**Waters of the US (WOTUS)** – Federally protected water bodies, including navigable rivers, lakes, and wetlands, subject to ACOE jurisdiction.
+
+---
+
+## About TerraPro Solutions
+
+TerraPro Solutions provides specialized due diligence, land services, and transaction advisory to developers, investors, and lenders in the utility-scale renewable energy industry.
+
+**Services include:**
+- Title examination and land due diligence
+- Mineral rights investigation
+- Permitting risk assessment
+- Transaction advisory
+- Post-close land management
+
+**Contact:**
+Kimberlee Centera, President and CEO
+TerraPro Solutions
+www.terraprosolutions.com
+
+---
+
+*This appendix is intended as a practical reference tool. It does not constitute legal, financial, or environmental advice. Each transaction requires independent professional review tailored to the specific project and jurisdiction.*
