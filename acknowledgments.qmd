@@ -1,0 +1,57 @@
+# Acknowledgments
+
+Every successful project develops more than megawatts; it develops relationships, trust, and lessons learned. I have been fortunate to work alongside extraordinary professionals who have taught me that great projects are built not only on engineering and finance, but on integrity, curiosity, and collaboration. This book is dedicated to all of you who continue to raise the standard for our industry and who believe that doing things the right way is the only way.
+
+As I reflect on the journey that led to this book, I realize that the most valuable lessons were never learned from documents or transactions alone. They came from people, those who asked difficult questions, challenged conventional thinking, shared their experiences, and remained committed to doing what was right, even when it wasn't the easiest path. It comes from understanding the consequences when the right questions aren't asked. Curiosity, thoroughness, integrity, collaboration, and disciplined risk management are at the heart of this book and the lessons learned.
+
+The renewable energy industry is built on innovation, but its true foundation is trust. Every successful acquisition, every financed project, and every power plant that delivers electricity to our communities depends upon countless individuals working together with integrity, expertise, and a shared commitment to excellence. I have been extraordinarily fortunate to work beside many of those individuals throughout my career.
+
+My deepest gratitude goes to the developers, investors, lenders, attorneys, title professionals, engineers, surveyors, environmental consultants, permitting specialists, landowners, and project managers who have shared their knowledge over the years. Every transaction, every challenge, and every solution contributed another lesson in understanding the complexities of utility-scale power development. Your willingness to share your successes as well as your hard-earned lessons made this book possible.
+
+I would also like to thank the many industry professionals who generously contributed chapters and case studies, who challenged assumptions, offered practical insights, and strengthened the content. Your willingness to share your expertise has made this work more accurate, balanced, and valuable for future readers.
+
+**Special thanks are extended to:**
+
+**Jigar Shah**, who generously wrote the foreword for this book. His message powerfully captures the unmet need this book addresses, as well as the hard-earned experience reflected in each chapter.
+
+**Jeff Marks** and in loving memory of **Jan Paulin**, who, in the earliest chapters of my career, paired challenge with unwavering support. Every time I reached for something new, you backed me and raised the bar in ways that grew my confidence and capability. Without your encouragement and mentorship, I would not be where I am.
+
+In loving memory of **Howard Sussman**, whose generosity and grace steadied me as I built my business from the ground up. When everything felt uncertain and new, you gave me your time, your ideas, your introductions, and your belief. You opened doors because that is the kind of person you were. I will always be grateful.
+
+**Kevin Yaich**, whose recommendations strengthened the manuscript by ensuring it reflected the current realities of renewable energy development, mergers and acquisitions, and project finance.
+
+**Arvin Vermani** for his insights into analytics, project intelligence, and the role of technology in renewable energy development.
+
+**Tara Brown-Selders**, whose insights and case studies helped shape the vision and presentation of this work.
+
+**Dawn Anderson**, whose encouragement and guidance significantly expanded the scope of the book and its value to potential readers.
+
+**Mike Casey and Ayelet Hines**, for their expertise and insights into community engagement.
+
+**Mary Ellen Barker and Gary Barker**, for their recommendations and insights about the role of Landmen.
+
+**Elle Guerrini**, an early champion and advocate.
+
+**Matias Sigal, Li Wei, and Michael DeLucia**, whose perspectives on technology, artificial intelligence, infrastructure, nature, and the evolving energy marketplace expanded the discussion beyond traditional due diligence and encouraged readers to consider the industry's future direction. Your chapters show how experienced professionals think, collaborate, and innovate.
+
+To my colleagues at TerraPro Solutions, thank you for your unwavering commitment to excellence. Every day you demonstrate that thorough due diligence, integrity, and collaboration are the cornerstones of successful project development. Your dedication to solving difficult problems and protecting our clients' investments continually inspires me.
+
+A very special thank you to **Annemarie Osborne**, who has stood beside me almost from the beginning. Her tireless inspiration, guidance, and faith in this work turned a fragile idea into a finished book. From navigating the world of publishing to making the right connections at the right moments, Annemarie's unique contribution made this possible.
+
+I am equally grateful to **Vanessa Faucher**, whose creative vision transformed principles and half-formed thoughts into a living manuscript. Vanessa brought the illustrations to life and helped shape the ideas so they could be seen, felt, and used. Together, Annemarie and Vanessa were the core team who turned a spark of an idea that became a webinar and then an e-book into something far greater. I am forever thankful for their generosity, their vision, and their unwavering support.
+
+To **Alysia Bloxham**, my partner in this journey from day one. We have weathered storms together, from COVID-19 to countless unexpected hurdles, and you have met each one with steadiness, judgment, and care. Your leadership and dedication created the space for me to give this book the focus it needed. Without you holding the line through the hard decisions and the many tough conversations, this project would not exist. Thank you for your loyalty, your courage, and the way you show up. This book reached the finish line because you made room for it to be built.
+
+To our clients, thank you for trusting us with some of your most important investments. Every project has presented unique challenges and opportunities to learn. While the examples in this book have been carefully anonymized, the lessons are drawn from real-world experience and are a testament to the collaboration between committed professionals working toward successful outcomes.
+
+To my family, friends, and mentors, thank you for your patience, encouragement, and belief in this project. Writing a book requires countless hours away from those we care about most, and your support made that commitment possible.
+
+Finally, I wish to acknowledge the many individuals whose names do not appear in these pages, but whose wisdom is reflected throughout. Every conversation, thoughtful question, field lesson, and act of generosity helped shape this work. Although space does not allow me to recognize each of you individually, please know that this book reflects our collective experience. Thank you for helping make it possible.
+
+May this book honor the professionals who came before us, support those working beside us today, and inspire the next generation to build an even stronger, more resilient energy industry.
+
+*With gratitude,*
+
+*Kimberlee Centera*
+
+*Founder & CEO, TerraPro Solutions*
