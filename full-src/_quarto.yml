@@ -1,0 +1,41 @@
+project:
+  type: book
+  output-dir: ../docs/full
+
+book:
+  title: "An Insider's Guide to Mastering Mergers, Acquisitions & Power Plant Development"
+  subtitle: "Full Verbatim Manuscript"
+  author: "Kimberlee Centera"
+
+  chapters:
+    - index.qmd
+    - 01-foreword.qmd
+    - 02-dedication.qmd
+    - 03-about-author.qmd
+    - 04-legal-disclaimer.qmd
+    - 05-contents.qmd
+    - 06-introduction.qmd
+    - chapters01.qmd
+    - chapters02.qmd
+    - chapters03.qmd
+    - chapters04.qmd
+    - chapters05.qmd
+    - chapters06.qmd
+    - chapters07.qmd
+    - chapters08.qmd
+    - chapters09.qmd
+    - chapters10.qmd
+    - chapters11.qmd
+    - chapters12.qmd
+    - chapters13.qmd
+    - acknowledgments.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: false
+
+execute:
+  freeze: auto
